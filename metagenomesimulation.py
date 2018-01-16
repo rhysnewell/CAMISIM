@@ -638,10 +638,6 @@ class MetagenomeSimulation(ArgumentHandler):
                     file_path_genome_locations, file_path_metadata, file_path_anonymous_mapping_tmp, stream_output
                 )
             if self._phase_compress:
-                self._list_tuple_archive_files.append(
-                    (file_path_anonymous_reads_tmp, file_path_anonymous_reads_out+".gz"))
-                self._list_tuple_archive_files.append(
-                    (file_path_anonymous_gs_mapping, file_path_anonymous_gs_mapping_out+".gz"))
                 archive_files = [
                     (file_path_anonymous_reads_tmp, file_path_anonymous_reads_out+".gz")
                     (file_path_anonymous_gs_mapping, file_path_anonymous_gs_mapping_out+".gz")
