@@ -618,7 +618,7 @@ class MetagenomeSimulation(ArgumentHandler):
         file_path_genome_locations = self._project_file_folder_handler.get_genome_location_file_path()
 
         from joblib import Parallel, delayed
-        def run_analysis(self, sample_index, sample_id, file_path_genome_locations, file_path_metadata):
+        def run_analysis(self, sample_index, file_path_genome_locations, file_path_metadata):
             archive_files = []
             file_path_anonymous_reads_tmp, file_path_anonymous_mapping_tmp = self._anonymize_reads(
                 directories_fastq_dir_in[sample_index],
@@ -649,7 +649,7 @@ class MetagenomeSimulation(ArgumentHandler):
             else:
                 shutil.move(file_path_anonymous_reads_tmp, file_path_anonymous_reads_out)
             return archive_files
-        self._list_tuple_archive_files.append(Parallel(n_jobs=2)(delayed(run_analysis)(self=self, sample_index=sample_index, sample_id=sample_id, file_path_genome_locations=file_path_genome_locations, file_path_metadata=file_path_metadata) for sample_index in range(self._number_of_samples)))
+        self._list_tuple_archive_files.append(Parallel(n_jobs=2)(delayed(run_analysis)(self=self, sample_index=sample_index, file_path_genome_locations=file_path_genome_locations, file_path_metadata=file_path_metadata) for sample_index in range(self._number_of_samples)))
 
         if not self._phase_gsa and not self._phase_pooled_gsa:
             return
