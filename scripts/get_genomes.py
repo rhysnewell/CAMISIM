@@ -124,7 +124,7 @@ def transform_lineage(lineage, ranks, max_rank):
 """
 Given the OTU to lineage/abundances map and the genomes to lineage map, create map otu: taxid, genome, abundances
 """
-def map_otus_to_genomes(profile, per_rank_map, ranks, max_rank, mu, sigma, max_strains, debug, replace):
+def map_otus_to_genomes(profile, per_rank_map, ranks, max_rank, mu, sigma, max_strains, debug, replace, fillup):
     otu_genome_map = {}
     warnings = []
     for otu in profile:
@@ -262,6 +262,25 @@ def write_config(otu_genome_map, out_path, config):
         config.write(cfg)
     return cfg_path
 
+def fill_up(otu_genome_map, per_rank_map, tax_profile):
+    abundances = dict()
+    per_rank_map[new_rank][taxid].remove((path,genome_id))
+    all_genomes = []
+    for rank in per_rank_map:
+        for taxid in per_rank_map[rank]:
+            path, genome_id = per_rank_map[rank][taxid]
+            all_genomes.append([taxid, genome_id, path])
+    for otu in tax_profile:
+        lin, curr_abundances = tax_profile[otu]
+        abundances[otu] = sum(curr_abundances)/len(curr_abundances)
+    sorted_ab = sorted(abundances.items(), key = lambda l:(l[1],l[0])) # sort by value
+    for otu in sorted_ab:
+        if otu not in otu_genome_map and len(all_genomes) > 1:
+            next_genome = all_genomes[0]
+            next_genome.append(tax_profile[otu][1])
+            otu_genome_map[otu] = next_genome
+            all_genomes = all_genomes[1:]
+
 def generate_input(args):
     global _log
     _log = logger(verbose = args.debug)
@@ -284,6 +303,8 @@ def generate_input(args):
     genomes_map = read_genomes_list(args.reference_genomes, args.additional_references)
     per_rank_map = get_genomes_per_rank(genomes_map, RANKS, MAX_RANK)
     otu_genome_map = map_otus_to_genomes(tax_profile, per_rank_map, RANKS, MAX_RANK, mu, sigma, max_strains, args.debug, args.no_replace)
+    if args.f:
+        fill_up(otu_genome_map, per_rank_map, tax_profile)
     cfg_path = write_config(otu_genome_map, args.o, config)
     _log = None
     return cfg_path

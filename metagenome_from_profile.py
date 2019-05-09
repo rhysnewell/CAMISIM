@@ -42,6 +42,9 @@ def parse_options():
     # additional files containing genomes which should be considered for mapping
     parser.add_argument("-ar", "--additional-references", default=default, help="File containing additional reference genomes, same format as reference genomes, might be online sources (http/ftp) or local, default None")
 
+    # filling up otus with genomes which have not been mapped to an otu
+    parser.add_argument("-f", "--fill-up", default=False, action='store_true', help="fill up profile OTUs with genomes not used in mapping before. Mutually exclusive with replace option")
+    
     default = "defaults/default_config.ini"
     # optional config file (out_path will get overwritten if it is set in config file)
     parser.add_argument("-c","--config",default=default,help="Path to config file. Careful when setting \"metadata\", \"id_to_genome_file\", \"distribution_file_paths\"(they will be set by the pipeline) and the out path differently from the command line out path, default: %s" % default,metavar="CONFIG FILE")
@@ -82,6 +85,9 @@ if __name__ == "__main__":
     for arg in vars(args):
         log.info("-%s: %s" % (arg, getattr(args,arg)))
     if not args is None:
+        if args.f and args.nr:
+            log.error("Replace and fill-up are mutually exclusive options")
+            quit()
         if not os.path.exists(args.o):
             os.mkdir(args.o)
         config = GG.generate_input(args) # total number of genomes and path to updated config
