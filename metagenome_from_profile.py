@@ -54,6 +54,8 @@ def parse_options():
 
     parser.add_argument("-nr", "--no-replace", action='store_false',default=True, help="Use sampling without replacing, so genomes are used for exactly one OTU only (decreases accuracy)")
     
+    parser.add_argument("-dr", "--dry-run", action='store_true',default=False, help="Do a dry run,, i.e. just map genomes to OTUs and not simulate anything")
+    
     helptext="Seed for the random generator"
     parser.add_argument("--seed",type=int,default=None,help=helptext)
 
@@ -92,7 +94,8 @@ if __name__ == "__main__":
             os.mkdir(args.o)
         config = GG.generate_input(args) # total number of genomes and path to updated config
         c = create_config(args,config)
-        if args.debug:
-            os.system("./metagenomesimulation.py %s --debug" % c)
-        else:
-            os.system("./metagenomesimulation.py %s" % c)
+        if not args.dr:
+            if args.debug:
+                os.system("./metagenomesimulation.py %s --debug" % c)
+            else:
+                os.system("./metagenomesimulation.py %s" % c)
