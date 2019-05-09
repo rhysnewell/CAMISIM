@@ -124,7 +124,7 @@ def transform_lineage(lineage, ranks, max_rank):
 """
 Given the OTU to lineage/abundances map and the genomes to lineage map, create map otu: taxid, genome, abundances
 """
-def map_otus_to_genomes(profile, per_rank_map, ranks, max_rank, mu, sigma, max_strains, debug, replace, fillup):
+def map_otus_to_genomes(profile, per_rank_map, ranks, max_rank, mu, sigma, max_strains, debug, replace):
     otu_genome_map = {}
     warnings = []
     for otu in profile:
