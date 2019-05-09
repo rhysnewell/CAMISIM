@@ -87,14 +87,14 @@ if __name__ == "__main__":
     for arg in vars(args):
         log.info("-%s: %s" % (arg, getattr(args,arg)))
     if not args is None:
-        if args.f and args.nr:
+        if args.fill_up and args.no_replace:
             log.error("Replace and fill-up are mutually exclusive options")
             quit()
         if not os.path.exists(args.o):
             os.mkdir(args.o)
         config = GG.generate_input(args) # total number of genomes and path to updated config
         c = create_config(args,config)
-        if not args.dr:
+        if not args.dry_run:
             if args.debug:
                 os.system("./metagenomesimulation.py %s --debug" % c)
             else:
