@@ -94,9 +94,10 @@ def get_genomes_per_rank(genomes_map, ranks, max_rank):
             if ranks[tax_id] in per_rank_map: # if we are a legal rank
                 rank_map = per_rank_map[ranks[tax_id]]
                 if tax_id in rank_map: # tax id already has a genome
-                    rank_map[tax_id].append((genomes_map[genome][1][0],genome)) # add http address
+                    for gen in genomes_map[genome][1]:
+                        rank_map[tax_id].append((gen,genome)) # add http address
                 else:
-                    rank_map[tax_id] = [(genomes_map[genome][1][0],genome)]
+                    rank_map[tax_id] = [(x, genome) for x in genomes_map[genome][1]]
     return per_rank_map
 
 """
@@ -238,7 +239,7 @@ def write_config(otu_genome_map, out_path, config):
                 counter += 1
         if counter == 10:
             _log.error("Caught exception %s while moving/downloading genomes" % e)
-            _log.error("Genome %s (from %s) could not be downloaded after 10 tries, check your connection settings" % (otu, genome))
+            _log.error("Genome %s (from %s) could not be downloaded after 10 tries, check your connection settings" % (otu, genome_id))
         with open(genome_to_id,'ab') as gid:
             gid.write("%s\t%s\n" % (otu, genome_path))
         with open(metadata,'ab') as md:
@@ -262,20 +263,22 @@ def write_config(otu_genome_map, out_path, config):
         config.write(cfg)
     return cfg_path
 
-def fill_up(otu_genome_map, per_rank_map, tax_profile):
+def fill_up(otu_genome_map, genome_map, tax_profile):
     abundances = dict()
-    per_rank_map[new_rank][taxid].remove((path,genome_id))
-    all_genomes = []
-    for rank in per_rank_map:
-        for taxid in per_rank_map[rank]:
-            path, genome_id = per_rank_map[rank][taxid]
-            all_genomes.append([taxid, genome_id, path])
     for otu in tax_profile:
         lin, curr_abundances = tax_profile[otu]
         abundances[otu] = sum(curr_abundances)/len(curr_abundances)
     sorted_ab = sorted(abundances.items(), key = lambda l:(l[1],l[0])) # sort by value
+    all_genomes = []
+    used_paths = set([x[2] for x in otu_genome_map.values()])
+    for ncbi_id in genome_map:
+        sci_name, paths = genome_map[ncbi_id]
+        for path in paths:
+            if path not in used_paths:
+                all_genomes.append([ncbi_id, ncbi_id, path])
     for otu in sorted_ab:
-        if otu not in otu_genome_map and len(all_genomes) > 1:
+        otu = otu[0]
+        if otu not in otu_genome_map and len(all_genomes) > 0:
             next_genome = all_genomes[0]
             next_genome.append(tax_profile[otu][1])
             otu_genome_map[otu] = next_genome
@@ -303,8 +306,8 @@ def generate_input(args):
     genomes_map = read_genomes_list(args.reference_genomes, args.additional_references)
     per_rank_map = get_genomes_per_rank(genomes_map, RANKS, MAX_RANK)
     otu_genome_map = map_otus_to_genomes(tax_profile, per_rank_map, RANKS, MAX_RANK, mu, sigma, max_strains, args.debug, args.no_replace)
-    if args.f:
-        fill_up(otu_genome_map, per_rank_map, tax_profile)
+    if args.fill_up:
+        fill_up(otu_genome_map, genomes_map, tax_profile)
     cfg_path = write_config(otu_genome_map, args.o, config)
     _log = None
     return cfg_path
