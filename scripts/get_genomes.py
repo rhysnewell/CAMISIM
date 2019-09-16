@@ -56,7 +56,7 @@ Reads list of available genomes in the (tsv) format:
 NCBI_ID Scientific_Name ftp_path
 Additional files might be provided with:
 NCBI_ID Scientific_Name genome_path
-were path might either be online or offline/local
+where path might either be online or offline/local
 """
 def read_genomes_list(genomes_path, additional_file = None):
     genomes_map = {}
@@ -64,18 +64,19 @@ def read_genomes_list(genomes_path, additional_file = None):
         for line in genomes:
             ncbi_id, sci_name, ftp = line.strip().split('\t')
             http = ftp.replace("ftp://","http://") # not using ftp address but http (proxies)
+            novelty = "known_strain"
             if ncbi_id in genomes_map:
                 genomes_map[ncbi_id][1].append(http)
             else:
-                genomes_map[ncbi_id] = (sci_name, [http]) # sci_name is always the same for same taxid (?)
+                genomes_map[ncbi_id] = (sci_name, [http], novelty) # sci_name is always the same for same taxid (?)
     if additional_file is not None:
         with open(additional_file,'r') as add:
             for line in add:
-                ncbi_id, sci_name, path = line.strip().split('\t')
+                ncbi_id, sci_name, path, novelty = line.strip().split('\t')
                 if ncbi_id in genomes_map:
                     genomes_map[ncbi_id][1].append(path)
                 else:
-                    genomes_map[ncbi_id] = (sci_name, [path]) # this might not be a http path
+                    genomes_map[ncbi_id] = (sci_name, [path], novelty) # this might not be a http path
     return genomes_map
 
 """
@@ -88,6 +89,7 @@ def get_genomes_per_rank(genomes_map, ranks, max_rank):
             break # only add genomes up to predefined rank
         per_rank_map[rank] = {}
     for genome in genomes_map:
+        novelty = genomes_map[genome][-1]
         lineage = ncbi.get_lineage(genome) # this might contain some others ranks than ranks
         ranks = ncbi.get_rank(lineage)
         for tax_id in lineage: # go over the lineage
@@ -95,9 +97,9 @@ def get_genomes_per_rank(genomes_map, ranks, max_rank):
                 rank_map = per_rank_map[ranks[tax_id]]
                 if tax_id in rank_map: # tax id already has a genome
                     for gen in genomes_map[genome][1]:
-                        rank_map[tax_id].append((gen,genome)) # add http address
+                        rank_map[tax_id].append((gen, genome, novelty)) # add http address
                 else:
-                    rank_map[tax_id] = [(x, genome) for x in genomes_map[genome][1]]
+                    rank_map[tax_id] = [(x, genome, novelty) for x in genomes_map[genome][1]]
     return per_rank_map
 
 """
@@ -154,19 +156,20 @@ def map_otus_to_genomes(profile, per_rank_map, ranks, max_rank, mu, sigma, max_s
             log_normal_vals = np_rand.lognormal(mu,sigma, len(used_genomes))
             sum_log_normal = sum(log_normal_vals)
             i = 0
-            for path, genome_id in used_genomes:
+            for path, genome_id, novelty in used_genomes:
+                _log.warning(novelty)
                 otu_id = otu + "." + str(i)
-                otu_genome_map[otu_id] = (tax_id, genome_id, path, []) # taxid, genomeid, http path, abundances per sample
+                otu_genome_map[otu_id] = (tax_id, genome_id, path, [], novelty) # taxid, genomeid, http path, abundances per sample
                 relative_abundance = log_normal_vals[i]/sum_log_normal
                 i += 1
                 for abundance in abundances: # calculate abundance per sample
                     current_abundance = relative_abundance * abundance
-                    otu_genome_map[otu_id][-1].append(current_abundance)
+                    otu_genome_map[otu_id][-2].append(current_abundance)
                 if (not replace): # sampling without replacement:
                     for new_rank in per_rank_map:
                         for taxid in per_rank_map[new_rank]:
-                            if (path, genome_id) in per_rank_map[new_rank][taxid]:
-                                per_rank_map[new_rank][taxid].remove((path,genome_id))
+                            if (path, genome_id, novelty) in per_rank_map[new_rank][taxid]:
+                                per_rank_map[new_rank][taxid].remove((path,genome_id, novelty))
             break # genome(s) found: we can break
     if len(warnings) > 0:
         _log.warning("Some OTUs could not be mapped")
@@ -223,7 +226,7 @@ def write_config(otu_genome_map, out_path, config):
     if not os.path.exists(create_path):
         os.makedirs(create_path)
     for otu in otu_genome_map:
-        taxid, genome_id, path, curr_abundances = otu_genome_map[otu]
+        taxid, genome_id, path, curr_abundances, novelty = otu_genome_map[otu]
         counter = 0
         while counter < 10:
             try:
@@ -243,7 +246,7 @@ def write_config(otu_genome_map, out_path, config):
         with open(genome_to_id,'ab') as gid:
             gid.write("%s\t%s\n" % (otu, genome_path))
         with open(metadata,'ab') as md:
-            md.write("%s\t%s\t%s\t%s\n" % (otu,taxid,genome_id,"new_strain"))
+            md.write("%s\t%s\t%s\t%s\n" % (otu,taxid,genome_id,novelty))
         i = 0
         for abundance in abundances:
             with open(abundance, 'ab') as ab:
@@ -272,15 +275,16 @@ def fill_up(otu_genome_map, genome_map, tax_profile):
     all_genomes = []
     used_paths = set([x[2] for x in otu_genome_map.values()])
     for ncbi_id in genome_map:
-        sci_name, paths = genome_map[ncbi_id]
+        sci_name, paths, novelty = genome_map[ncbi_id]
         for path in paths:
             if path not in used_paths:
-                all_genomes.append([ncbi_id, ncbi_id, path])
+                all_genomes.append(([ncbi_id, ncbi_id, path], novelty))
     for otu in sorted_ab:
         otu = otu[0]
         if otu not in otu_genome_map and len(all_genomes) > 0:
-            next_genome = all_genomes[0]
+            next_genome, novelty = all_genomes[0]
             next_genome.append(tax_profile[otu][1])
+            next_genome.append(novelty)
             otu_genome_map[otu] = next_genome
             all_genomes = all_genomes[1:]
 
