@@ -469,7 +469,7 @@ class ReadSimulationNanosim(ReadSimulationWrapper):
         locs = set(dict_id_abundance.keys()) - set(dict_id_file_path.keys())
         assert set(dict_id_file_path.keys()).issuperset(dict_id_abundance.keys()), "Some ids do not have a genome location %s" % locs
 
-        self._fragment_size_mean = 7408 # nanosim does not use fragment size, this is for getting the correct number of reads
+        self._fragment_size_mean = 2854 # nanosim does not use fragment size, this is for getting the correct number of reads
         # this value has been calculated using the script tools/nanosim_profile/get_mean from the values in nanosim_profile
         factor = total_size  # nanosim needs number of reads as input not coverage
 
@@ -487,12 +487,12 @@ class ReadSimulationNanosim(ReadSimulationWrapper):
                 os.remove(os.path.join(directory_output,f)) # error_profile files are huge (TODO temporary requirement is still high)
         for f in files:
             if f.endswith("_reads.fasta"):
-                prefix = f.rsplit(".",1)[0].rsplit("_",1)[0]
+                prefix = f.rsplit(".",1)[0].rsplit("_",2)[0] # output is name_[un]aligned_reads.fasta
                 read_file = os.path.join(directory_output,f)
                 cigars = id_to_cigar_map[prefix]
                 reference_path = dict_id_file_path[prefix]
                 sam_from_reads.write_sam(read_file, cigars, reference_path, prefix)
-                sam_from_reads.convert_fasta(read_file)
+                sam_from_reads.convert_fasta(read_file, reference_path)
                 os.remove(os.path.join(directory_output,f)) # do not store read file twice
 
     def _get_sys_cmd(self, file_path_input, fold_coverage, file_path_output_prefix):
@@ -514,18 +514,18 @@ class ReadSimulationNanosim(ReadSimulationWrapper):
         assert self.validate_dir(file_path_output_prefix, only_parent=True)
 
         arguments = [
-            'linear',
+            'genome',
             '-n', str(fold_coverage),  # rename this, because its not the fold_coverage for wgsim
-            '-r', file_path_input,
+            '-rg', file_path_input,
             '-o', file_path_output_prefix,
-            '-c', "tools/nanosim_profile/ecoli",
+            '-c', "tools/nanosim_profile/mbarc",
             '--seed', str(self._get_seed() % 2**32 - 1) # nanosim seed cannot be > 2**32 -1
             ]
             
         if self._logfile:
             arguments.append(">> '{}'".format(self._logfile))
 
-        cmd = "{exe} {args}".format(exe=self._file_path_executable, args=" ".join(arguments))
+        cmd = "python3 {exe} {args}".format(exe=self._file_path_executable, args=" ".join(arguments))
         return cmd
 
 # #################
