@@ -10,7 +10,7 @@ def write_header(sam_file, sequence_ids):
 
 def write_sam(read_file, id_to_cigar_map, reference_path, orig_prefix):
     references = SeqIO.to_dict(SeqIO.parse(reference_path, "fasta"))
-    fixed_names = {x.split('.')[0]:x for x in references}
+    fixed_names = {x.split('.',1)[0].replace("_","-"):x for x in references}
     write_sam = os.path.join(read_file.rsplit("/",1)[0], orig_prefix) + ".sam"
     if (not os.path.exists(write_sam)):
         write_header(write_sam, references)
