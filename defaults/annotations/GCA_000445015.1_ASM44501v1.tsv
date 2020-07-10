@@ -1,0 +1,2903 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JAOMGKEE_00001	CDS	1575	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+JAOMGKEE_00002	CDS	1185	dnaN		COG0592	Beta sliding clamp
+JAOMGKEE_00003	CDS	1185	recF		COG1195	DNA replication and repair protein RecF
+JAOMGKEE_00004	CDS	537				hypothetical protein
+JAOMGKEE_00005	CDS	2055	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+JAOMGKEE_00006	CDS	915				hypothetical protein
+JAOMGKEE_00007	CDS	582				hypothetical protein
+JAOMGKEE_00008	CDS	444				hypothetical protein
+JAOMGKEE_00009	CDS	1068			COG1940	Transcriptional regulator
+JAOMGKEE_00010	CDS	264				hypothetical protein
+JAOMGKEE_00011	CDS	249				hypothetical protein
+JAOMGKEE_00012	CDS	2571	gyrA1	5.6.2.2		DNA gyrase subunit A
+JAOMGKEE_00013	CDS	345				hypothetical protein
+JAOMGKEE_00014	tRNA	77				tRNA-Ile(gat)
+JAOMGKEE_00015	tRNA	74				tRNA-Ala(tgc)
+JAOMGKEE_00016	CDS	1038				hypothetical protein
+JAOMGKEE_00017	CDS	897				putative HTH-type transcriptional regulator
+JAOMGKEE_00018	CDS	414				hypothetical protein
+JAOMGKEE_00019	CDS	873				hypothetical protein
+JAOMGKEE_00020	CDS	747				hypothetical protein
+JAOMGKEE_00021	CDS	372	blaI		COG3682	Transcriptional regulator BlaI
+JAOMGKEE_00022	CDS	996				hypothetical protein
+JAOMGKEE_00023	CDS	171				hypothetical protein
+JAOMGKEE_00024	CDS	102				hypothetical protein
+JAOMGKEE_00025	CDS	531	yhcR	3.1.31.-	COG0737	Endonuclease YhcR
+JAOMGKEE_00026	CDS	1239				hypothetical protein
+JAOMGKEE_00027	tRNA	74				tRNA-Ala(tgc)
+JAOMGKEE_00028	tRNA	77				tRNA-Ile(gat)
+JAOMGKEE_00029	tRNA	74				tRNA-Ala(tgc)
+JAOMGKEE_00030	CDS	519				hypothetical protein
+JAOMGKEE_00031	CDS	1692				hypothetical protein
+JAOMGKEE_00032	CDS	1281				hypothetical protein
+JAOMGKEE_00033	CDS	957	troA		COG0803	Periplasmic zinc-binding protein TroA
+JAOMGKEE_00034	CDS	852	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+JAOMGKEE_00035	CDS	660	fecE		COG1120	Fe(3+) dicitrate transport ATP-binding protein FecE
+JAOMGKEE_00036	CDS	984				hypothetical protein
+JAOMGKEE_00037	CDS	1026	rbsC_1		COG1172	Ribose import permease protein RbsC
+JAOMGKEE_00038	CDS	762	frcA	7.5.2.-	COG1129	Fructose import ATP-binding protein FrcA
+JAOMGKEE_00039	CDS	813				hypothetical protein
+JAOMGKEE_00040	CDS	573	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+JAOMGKEE_00041	CDS	660				hypothetical protein
+JAOMGKEE_00042	CDS	999				hypothetical protein
+JAOMGKEE_00043	CDS	957	fepG_1		COG4779	Ferric enterobactin transport system permease protein FepG
+JAOMGKEE_00044	CDS	780	fpuD_1	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuD
+JAOMGKEE_00045	CDS	825				hypothetical protein
+JAOMGKEE_00046	CDS	273	crgA			Cell division protein CrgA
+JAOMGKEE_00047	CDS	1941	pknB	2.7.11.1	COG0515	Serine/threonine-protein kinase PknB
+JAOMGKEE_00048	CDS	1410	pknA	2.7.11.1	COG0515	Serine/threonine-protein kinase PknA
+JAOMGKEE_00049	CDS	1425	pbpA		COG0768	Penicillin-binding protein A
+JAOMGKEE_00050	CDS	1326	rodA		COG0772	putative FtsW-like protein
+JAOMGKEE_00051	CDS	1356	pstP	3.1.3.16	COG0631	PP2C-family Ser/Thr phosphatase
+JAOMGKEE_00052	CDS	465	fhaB		COG1716	FHA domain-containing protein FhaB
+JAOMGKEE_00053	CDS	897				hypothetical protein
+JAOMGKEE_00054	tRNA	87				tRNA-Leu(cag)
+JAOMGKEE_00055	CDS	723				hypothetical protein
+JAOMGKEE_00056	CDS	222				hypothetical protein
+JAOMGKEE_00057	CDS	474				hypothetical protein
+JAOMGKEE_00058	CDS	1473	sad_1	1.2.1.16		Succinate-semialdehyde dehydrogenase
+JAOMGKEE_00059	CDS	915				hypothetical protein
+JAOMGKEE_00060	CDS	1371	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+JAOMGKEE_00061	CDS	747			COG0730	putative membrane transporter protein
+JAOMGKEE_00062	CDS	294		2.8.1.-	COG0607	Sulfurtransferase
+JAOMGKEE_00063	CDS	594	ygaP		COG0607	Inner membrane protein YgaP
+JAOMGKEE_00064	CDS	258				hypothetical protein
+JAOMGKEE_00065	CDS	858				hypothetical protein
+JAOMGKEE_00066	CDS	843				hypothetical protein
+JAOMGKEE_00067	CDS	714				hypothetical protein
+JAOMGKEE_00068	CDS	1656				hypothetical protein
+JAOMGKEE_00069	CDS	1122				hypothetical protein
+JAOMGKEE_00070	CDS	450				hypothetical protein
+JAOMGKEE_00071	CDS	1272	clcA_1		COG0038	H(+)/Cl(-) exchange transporter ClcA
+JAOMGKEE_00072	CDS	693	ribM			Riboflavin/roseoflavin transporter RibM
+JAOMGKEE_00073	CDS	1377				hypothetical protein
+JAOMGKEE_00074	CDS	387				hypothetical protein
+JAOMGKEE_00075	CDS	1581				hypothetical protein
+JAOMGKEE_00076	CDS	1656	dcuS	2.7.13.3	COG3290	Sensor histidine kinase DcuS
+JAOMGKEE_00077	CDS	657	dpiA		COG4565	Transcriptional regulatory protein DpiA
+JAOMGKEE_00078	CDS	915	hprA	1.1.1.29	COG1052	Glycerate dehydrogenase
+JAOMGKEE_00079	CDS	432				hypothetical protein
+JAOMGKEE_00080	CDS	1005	bioB	2.8.1.6	COG0502	Biotin synthase
+JAOMGKEE_00081	CDS	240				hypothetical protein
+JAOMGKEE_00082	CDS	255				hypothetical protein
+JAOMGKEE_00083	rRNA	1521				16S ribosomal RNA
+JAOMGKEE_00084	rRNA	3071				23S ribosomal RNA
+JAOMGKEE_00085	rRNA	111				5S ribosomal RNA
+JAOMGKEE_00086	CDS	1452	norB			Quinolone resistance protein NorB
+JAOMGKEE_00087	CDS	1248	codA	3.5.4.1	COG0402	Cytosine deaminase
+JAOMGKEE_00088	CDS	225				hypothetical protein
+JAOMGKEE_00089	CDS	198				hypothetical protein
+JAOMGKEE_00090	CDS	561				hypothetical protein
+JAOMGKEE_00091	CDS	927	SIRT4	2.3.1.286		NAD-dependent protein lipoamidase sirtuin-4, mitochondrial
+JAOMGKEE_00092	CDS	975				hypothetical protein
+JAOMGKEE_00093	CDS	903				hypothetical protein
+JAOMGKEE_00094	CDS	876				hypothetical protein
+JAOMGKEE_00095	CDS	516				hypothetical protein
+JAOMGKEE_00096	CDS	303	ureA	3.5.1.5	COG0831	Urease subunit gamma
+JAOMGKEE_00097	CDS	489	ureB	3.5.1.5	COG0832	Urease subunit beta
+JAOMGKEE_00098	CDS	1713	ureC	3.5.1.5	COG0804	Urease subunit alpha
+JAOMGKEE_00099	CDS	474	ureE		COG2371	Urease accessory protein UreE
+JAOMGKEE_00100	CDS	681	ureF		COG0830	Urease accessory protein UreF
+JAOMGKEE_00101	CDS	618	ureG		COG0378	Urease accessory protein UreG
+JAOMGKEE_00102	CDS	852	ureD1		COG0829	Urease accessory protein UreD
+JAOMGKEE_00103	CDS	753	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+JAOMGKEE_00104	CDS	1155				hypothetical protein
+JAOMGKEE_00105	CDS	2778				hypothetical protein
+JAOMGKEE_00106	CDS	1827	htpG			Chaperone protein HtpG
+JAOMGKEE_00107	CDS	1434	amn	3.2.2.4	COG0775	AMP nucleosidase
+JAOMGKEE_00108	CDS	201				hypothetical protein
+JAOMGKEE_00109	CDS	453				hypothetical protein
+JAOMGKEE_00110	CDS	555				hypothetical protein
+JAOMGKEE_00111	CDS	162				hypothetical protein
+JAOMGKEE_00112	CDS	552				hypothetical protein
+JAOMGKEE_00113	CDS	3459	rocA	1.2.1.88		1-pyrroline-5-carboxylate dehydrogenase
+JAOMGKEE_00114	CDS	948	yajO_1	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+JAOMGKEE_00115	CDS	1617	abgT		COG2978	p-aminobenzoyl-glutamate transport protein
+JAOMGKEE_00116	CDS	1389	abgB	3.5.1.-	COG1473	p-aminobenzoyl-glutamate hydrolase subunit B
+JAOMGKEE_00117	CDS	411				hypothetical protein
+JAOMGKEE_00118	CDS	318				hypothetical protein
+JAOMGKEE_00119	CDS	228				hypothetical protein
+JAOMGKEE_00120	CDS	2013				hypothetical protein
+JAOMGKEE_00121	CDS	783	glcR		COG1349	HTH-type transcriptional repressor GlcR
+JAOMGKEE_00122	CDS	393				hypothetical protein
+JAOMGKEE_00123	CDS	513		3.1.3.-	COG2062	putative protein
+JAOMGKEE_00124	CDS	1512	mtlK	1.1.1.67	COG0246	Mannitol 2-dehydrogenase
+JAOMGKEE_00125	CDS	1338	csbX		COG0477	Alpha-ketoglutarate permease
+JAOMGKEE_00126	CDS	849	glpR_1		COG1349	Glycerol-3-phosphate regulon repressor
+JAOMGKEE_00127	CDS	1383	xylB	2.7.1.17	COG1070	Xylulose kinase
+JAOMGKEE_00128	CDS	840	panC_1	6.3.2.1	COG0414	Pantothenate synthetase
+JAOMGKEE_00129	CDS	816	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+JAOMGKEE_00130	CDS	954				hypothetical protein
+JAOMGKEE_00131	CDS	633		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+JAOMGKEE_00132	CDS	657				hypothetical protein
+JAOMGKEE_00133	CDS	900	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+JAOMGKEE_00134	CDS	606	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+JAOMGKEE_00135	CDS	561	yrdA		COG0663	Protein YrdA
+JAOMGKEE_00136	CDS	1167			COG1940	Transcriptional regulator
+JAOMGKEE_00137	CDS	1275	entS		COG0477	Enterobactin exporter EntS
+JAOMGKEE_00138	CDS	519				hypothetical protein
+JAOMGKEE_00139	CDS	423				hypothetical protein
+JAOMGKEE_00140	CDS	1944				hypothetical protein
+JAOMGKEE_00141	CDS	1542				hypothetical protein
+JAOMGKEE_00142	CDS	1461				hypothetical protein
+JAOMGKEE_00143	CDS	1734				hypothetical protein
+JAOMGKEE_00144	CDS	1068				hypothetical protein
+JAOMGKEE_00145	CDS	753				hypothetical protein
+JAOMGKEE_00146	CDS	882				hypothetical protein
+JAOMGKEE_00147	CDS	720				hypothetical protein
+JAOMGKEE_00148	CDS	336				hypothetical protein
+JAOMGKEE_00149	CDS	411	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+JAOMGKEE_00150	CDS	1662				hypothetical protein
+JAOMGKEE_00151	CDS	1140				hypothetical protein
+JAOMGKEE_00152	CDS	492				hypothetical protein
+JAOMGKEE_00153	CDS	783	yfcA		COG0730	putative membrane transporter protein YfcA
+JAOMGKEE_00154	CDS	378				hypothetical protein
+JAOMGKEE_00155	CDS	2430	hrpB	3.6.4.13	COG1643	ATP-dependent RNA helicase HrpB
+JAOMGKEE_00156	CDS	297				hypothetical protein
+JAOMGKEE_00157	CDS	678		2.3.1.-		Putative acetyltransferase
+JAOMGKEE_00158	CDS	693	alkB	1.14.11.33	COG3145	Alpha-ketoglutarate-dependent dioxygenase AlkB
+JAOMGKEE_00159	CDS	558	tag_1	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+JAOMGKEE_00160	CDS	681	rhtC_1		COG1280	Threonine efflux protein
+JAOMGKEE_00161	CDS	294				hypothetical protein
+JAOMGKEE_00162	CDS	855			COG3324	Putative glyoxylase CFP32
+JAOMGKEE_00163	CDS	345				hypothetical protein
+JAOMGKEE_00164	CDS	894				hypothetical protein
+JAOMGKEE_00165	CDS	909				hypothetical protein
+JAOMGKEE_00166	CDS	432	yabJ_1	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+JAOMGKEE_00167	CDS	624				hypothetical protein
+JAOMGKEE_00168	CDS	1929	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+JAOMGKEE_00169	CDS	744				hypothetical protein
+JAOMGKEE_00170	CDS	966				hypothetical protein
+JAOMGKEE_00171	CDS	762	nagR		COG2188	HTH-type transcriptional repressor NagR
+JAOMGKEE_00172	CDS	1020	iolC	2.7.1.92	COG0524	5-dehydro-2-deoxygluconokinase
+JAOMGKEE_00173	CDS	924				hypothetical protein
+JAOMGKEE_00174	CDS	1515	bauC_1	1.2.1.-	COG1012	Putative 3-oxopropanoate dehydrogenase
+JAOMGKEE_00175	CDS	891	iolB	5.3.1.30	COG3718	5-deoxy-glucuronate isomerase
+JAOMGKEE_00176	CDS	1914	iolD	3.7.1.22	COG3962	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+JAOMGKEE_00177	CDS	957	iolE	4.2.1.44	COG1082	Inosose dehydratase
+JAOMGKEE_00178	CDS	1014	iolG_1	1.1.1.18	COG0673	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+JAOMGKEE_00179	CDS	873				hypothetical protein
+JAOMGKEE_00180	CDS	1362	hsrA			putative transport protein HsrA
+JAOMGKEE_00181	CDS	1026	iolW	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolW
+JAOMGKEE_00182	CDS	459				hypothetical protein
+JAOMGKEE_00183	CDS	348				hypothetical protein
+JAOMGKEE_00184	CDS	996	degA		COG1609	HTH-type transcriptional regulator DegA
+JAOMGKEE_00185	CDS	1236	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+JAOMGKEE_00186	CDS	1014				hypothetical protein
+JAOMGKEE_00187	CDS	432				hypothetical protein
+JAOMGKEE_00188	CDS	204	cspA_1		COG1278	putative cold shock protein A
+JAOMGKEE_00189	CDS	537				hypothetical protein
+JAOMGKEE_00190	CDS	309				hypothetical protein
+JAOMGKEE_00191	CDS	417	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+JAOMGKEE_00192	CDS	429				hypothetical protein
+JAOMGKEE_00193	CDS	993	ccpA_1		COG1609	Catabolite control protein A
+JAOMGKEE_00194	CDS	405				hypothetical protein
+JAOMGKEE_00195	CDS	1476	iolT_1			Major myo-inositol transporter IolT
+JAOMGKEE_00196	CDS	1611				hypothetical protein
+JAOMGKEE_00197	CDS	438				hypothetical protein
+JAOMGKEE_00198	CDS	4533	gltB	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+JAOMGKEE_00199	CDS	1521	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+JAOMGKEE_00200	CDS	243				hypothetical protein
+JAOMGKEE_00201	CDS	114				hypothetical protein
+JAOMGKEE_00202	CDS	1488	gshA	6.3.2.2		Glutamate--cysteine ligase
+JAOMGKEE_00203	CDS	3441	embC	2.4.2.-		putative arabinosyltransferase C
+JAOMGKEE_00204	CDS	2034	aftA	2.4.2.46		Galactan 5-O-arabinofuranosyltransferase
+JAOMGKEE_00205	CDS	762	dprE2	1.1.1.333	COG1028	Decaprenylphosphoryl-2-keto-beta-D-erythro-pentose reductase
+JAOMGKEE_00206	CDS	1467	dprE1	1.1.98.3	COG0277	Decaprenylphosphoryl-beta-D-ribose oxidase
+JAOMGKEE_00207	CDS	228				hypothetical protein
+JAOMGKEE_00208	CDS	480				hypothetical protein
+JAOMGKEE_00209	CDS	456				hypothetical protein
+JAOMGKEE_00210	CDS	897				hypothetical protein
+JAOMGKEE_00211	CDS	435			COG2246	Arabinogalactan biosynthesis recruiting protein
+JAOMGKEE_00212	CDS	405				hypothetical protein
+JAOMGKEE_00213	CDS	636				hypothetical protein
+JAOMGKEE_00214	CDS	942	glfT1	2.4.1.287	COG1216	Galactofuranosyltransferase GlfT1
+JAOMGKEE_00215	CDS	600				hypothetical protein
+JAOMGKEE_00216	CDS	792	tagH	7.5.2.4		Teichoic acids export ATP-binding protein TagH
+JAOMGKEE_00217	CDS	897				hypothetical protein
+JAOMGKEE_00218	CDS	1176			COG0520	putative protein
+JAOMGKEE_00219	CDS	981	mas_1	2.3.1.111		Mycocerosic acid synthase
+JAOMGKEE_00220	CDS	528				hypothetical protein
+JAOMGKEE_00221	tRNA	86				tRNA-Ser(tga)
+JAOMGKEE_00222	CDS	114				hypothetical protein
+JAOMGKEE_00223	CDS	1488	alsT		COG1115	Amino-acid carrier protein AlsT
+JAOMGKEE_00224	CDS	867				hypothetical protein
+JAOMGKEE_00225	CDS	1074	moeZ_1		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+JAOMGKEE_00226	CDS	459	moaE2_1	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit 2
+JAOMGKEE_00227	CDS	462	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+JAOMGKEE_00228	CDS	471	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+JAOMGKEE_00229	CDS	1185	moaE2_2	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase 2
+JAOMGKEE_00230	CDS	840				hypothetical protein
+JAOMGKEE_00231	CDS	807	modA		COG0725	Molybdate-binding protein ModA
+JAOMGKEE_00232	CDS	258				hypothetical protein
+JAOMGKEE_00233	CDS	915	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_00234	CDS	423				hypothetical protein
+JAOMGKEE_00235	CDS	1026	pat	2.6.1.-	COG0079	Putative phenylalanine aminotransferase
+JAOMGKEE_00236	tRNA	90				tRNA-Ser(gct)
+JAOMGKEE_00237	tRNA	74				tRNA-Arg(acg)
+JAOMGKEE_00238	CDS	909				hypothetical protein
+JAOMGKEE_00239	CDS	285				hypothetical protein
+JAOMGKEE_00240	CDS	765				hypothetical protein
+JAOMGKEE_00241	CDS	1020	adhA_1	1.1.1.-	COG1064	putative formaldehyde dehydrogenase AdhA
+JAOMGKEE_00242	CDS	804				hypothetical protein
+JAOMGKEE_00243	CDS	1353			COG2239	Magnesium transporter MgtE
+JAOMGKEE_00244	CDS	156				hypothetical protein
+JAOMGKEE_00245	CDS	1584	sdcS			Sodium-dependent dicarboxylate transporter SdcS
+JAOMGKEE_00246	tRNA	74				tRNA-Arg(acg)
+JAOMGKEE_00247	CDS	1041	tyrA	1.3.1.12	COG0287	Prephenate dehydrogenase
+JAOMGKEE_00248	CDS	495				hypothetical protein
+JAOMGKEE_00249	CDS	480	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+JAOMGKEE_00250	CDS	204				hypothetical protein
+JAOMGKEE_00251	tRNA	91				tRNA-Ser(cga)
+JAOMGKEE_00252	CDS	336				hypothetical protein
+JAOMGKEE_00253	CDS	2406	ydfJ_1		COG2409	Membrane protein YdfJ
+JAOMGKEE_00254	CDS	1296	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+JAOMGKEE_00255	CDS	753				queuosine precursor transporter
+JAOMGKEE_00256	CDS	1083				hypothetical protein
+JAOMGKEE_00257	CDS	1440				hypothetical protein
+JAOMGKEE_00258	CDS	882	gluQ	6.1.1.-	COG0008	Glutamyl-Q tRNA(Asp) synthetase
+JAOMGKEE_00259	CDS	993				hypothetical protein
+JAOMGKEE_00260	CDS	1161				hypothetical protein
+JAOMGKEE_00261	CDS	288				hypothetical protein
+JAOMGKEE_00262	tRNA	86				tRNA-Ser(gga)
+JAOMGKEE_00263	CDS	1281			COG1167	Putative aminotransferase/MSMEI_6121
+JAOMGKEE_00264	CDS	552				hypothetical protein
+JAOMGKEE_00265	CDS	2328				hypothetical protein
+JAOMGKEE_00266	CDS	312			COG0718	Nucleoid-associated protein
+JAOMGKEE_00267	CDS	657	recR		COG0353	Recombination protein RecR
+JAOMGKEE_00268	CDS	753	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+JAOMGKEE_00269	CDS	1272	murT	6.3.5.13		Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+JAOMGKEE_00270	CDS	1083				hypothetical protein
+JAOMGKEE_00271	CDS	1851	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+JAOMGKEE_00272	CDS	870				hypothetical protein
+JAOMGKEE_00273	CDS	1266	lysC	2.7.2.4	COG0527	Aspartokinase
+JAOMGKEE_00274	CDS	1035	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+JAOMGKEE_00275	CDS	1437				hypothetical protein
+JAOMGKEE_00276	CDS	189				hypothetical protein
+JAOMGKEE_00277	CDS	582	sigC		COG1595	ECF RNA polymerase sigma factor SigC
+JAOMGKEE_00278	CDS	1551	katA	1.11.1.6	COG0753	Catalase
+JAOMGKEE_00279	CDS	294				hypothetical protein
+JAOMGKEE_00280	CDS	456	lrp_1		COG1522	Leucine-responsive regulatory protein
+JAOMGKEE_00281	CDS	756				hypothetical protein
+JAOMGKEE_00282	CDS	327				hypothetical protein
+JAOMGKEE_00283	CDS	294				hypothetical protein
+JAOMGKEE_00284	CDS	450				hypothetical protein
+JAOMGKEE_00285	CDS	1038	acr3_1		COG0798	Arsenical-resistance protein Acr3
+JAOMGKEE_00286	CDS	390	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+JAOMGKEE_00287	CDS	321				hypothetical protein
+JAOMGKEE_00288	CDS	273				hypothetical protein
+JAOMGKEE_00289	CDS	456				hypothetical protein
+JAOMGKEE_00290	CDS	1533	mrpD		COG0651	Na(+)/H(+) antiporter subunit D
+JAOMGKEE_00291	CDS	384	mnhC1		COG1006	Na(+)/H(+) antiporter subunit C1
+JAOMGKEE_00292	CDS	2895	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+JAOMGKEE_00293	CDS	1479				hypothetical protein
+JAOMGKEE_00294	CDS	867				hypothetical protein
+JAOMGKEE_00295	CDS	669	tcrA		COG0745	Transcriptional regulatory protein TcrA
+JAOMGKEE_00296	CDS	1470	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+JAOMGKEE_00297	CDS	348				hypothetical protein
+JAOMGKEE_00298	CDS	621				hypothetical protein
+JAOMGKEE_00299	tRNA	75				tRNA-Pro(cgg)
+JAOMGKEE_00300	CDS	909	ypbG		COG1408	putative protein YpbG
+JAOMGKEE_00301	CDS	456	yqeY		COG1610	putative protein YqeY
+JAOMGKEE_00302	CDS	2388	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+JAOMGKEE_00303	CDS	351	whiB4			Transcriptional regulator WhiB4
+JAOMGKEE_00304	CDS	156				hypothetical protein
+JAOMGKEE_00305	CDS	462				hypothetical protein
+JAOMGKEE_00306	CDS	1356	abaF_1			Fosfomycin resistance protein AbaF
+JAOMGKEE_00307	CDS	1533		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+JAOMGKEE_00308	CDS	468				hypothetical protein
+JAOMGKEE_00309	CDS	936		1.1.1.-	COG1028	Putative short-chain type dehydrogenase/reductase
+JAOMGKEE_00310	CDS	945				hypothetical protein
+JAOMGKEE_00311	CDS	1197	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+JAOMGKEE_00312	CDS	474		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+JAOMGKEE_00313	CDS	846	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+JAOMGKEE_00314	CDS	684	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+JAOMGKEE_00315	CDS	171				hypothetical protein
+JAOMGKEE_00316	CDS	783	nth	4.2.99.18	COG0177	Endonuclease III
+JAOMGKEE_00317	CDS	561				hypothetical protein
+JAOMGKEE_00318	CDS	744	nudL	3.6.1.-		putative Nudix hydrolase NudL
+JAOMGKEE_00319	CDS	1194		3.4.21.-	COG0265	Serine protease
+JAOMGKEE_00320	CDS	996	dhmA	3.8.1.5		Haloalkane dehalogenase
+JAOMGKEE_00321	CDS	552				hypothetical protein
+JAOMGKEE_00322	CDS	969		3.1.3.-	COG0560	putative phosphatase
+JAOMGKEE_00323	CDS	1062				hypothetical protein
+JAOMGKEE_00324	CDS	1134			COG4962	Putative conjugal transfer protein
+JAOMGKEE_00325	CDS	777				hypothetical protein
+JAOMGKEE_00326	CDS	576				hypothetical protein
+JAOMGKEE_00327	CDS	201				hypothetical protein
+JAOMGKEE_00328	CDS	321				hypothetical protein
+JAOMGKEE_00329	CDS	300				hypothetical protein
+JAOMGKEE_00330	CDS	2397				hypothetical protein
+JAOMGKEE_00331	CDS	204	cspA_2		COG1278	putative cold shock protein A
+JAOMGKEE_00332	CDS	2991	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+JAOMGKEE_00333	CDS	714				hypothetical protein
+JAOMGKEE_00334	CDS	1527			COG2114	putative protein
+JAOMGKEE_00335	CDS	1260				hypothetical protein
+JAOMGKEE_00336	tRNA	76				tRNA-Thr(cgt)
+JAOMGKEE_00337	CDS	447				hypothetical protein
+JAOMGKEE_00338	CDS	222				hypothetical protein
+JAOMGKEE_00339	CDS	564				hypothetical protein
+JAOMGKEE_00340	CDS	885	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+JAOMGKEE_00341	CDS	1647	nagZ	3.2.1.52		Beta-hexosaminidase
+JAOMGKEE_00342	CDS	441				hypothetical protein
+JAOMGKEE_00343	CDS	1107		1.1.1.306		S-(hydroxymethyl)mycothiol dehydrogenase
+JAOMGKEE_00344	CDS	636		3.-.-.-		putative metallo-hydrolase
+JAOMGKEE_00345	CDS	672	phaB	1.1.1.36		Acetoacetyl-CoA reductase
+JAOMGKEE_00346	CDS	1212				hypothetical protein
+JAOMGKEE_00347	CDS	936	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+JAOMGKEE_00348	CDS	378				hypothetical protein
+JAOMGKEE_00349	CDS	711	ppm1_1	2.4.1.-		Polyprenol monophosphomannose synthase
+JAOMGKEE_00350	CDS	1023				hypothetical protein
+JAOMGKEE_00351	CDS	1038				hypothetical protein
+JAOMGKEE_00352	CDS	2085				hypothetical protein
+JAOMGKEE_00353	CDS	99				hypothetical protein
+JAOMGKEE_00354	CDS	354				hypothetical protein
+JAOMGKEE_00355	CDS	1062	adhA_2	1.1.1.-	COG1064	putative formaldehyde dehydrogenase AdhA
+JAOMGKEE_00356	CDS	858	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+JAOMGKEE_00357	CDS	1362	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+JAOMGKEE_00358	CDS	1020	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+JAOMGKEE_00359	CDS	582	nox	1.6.99.3	COG0778	NADH dehydrogenase
+JAOMGKEE_00360	CDS	795	yfiY_1		COG0614	putative siderophore-binding lipoprotein YfiY
+JAOMGKEE_00361	CDS	642				hypothetical protein
+JAOMGKEE_00362	CDS	1251				putative protein
+JAOMGKEE_00363	CDS	1383				hypothetical protein
+JAOMGKEE_00364	CDS	2121				hypothetical protein
+JAOMGKEE_00365	CDS	558				hypothetical protein
+JAOMGKEE_00366	CDS	1095				hypothetical protein
+JAOMGKEE_00367	CDS	1098	fbpA	2.3.1.122	COG0627	Diacylglycerol acyltransferase/mycolyltransferase Ag85A
+JAOMGKEE_00368	CDS	1437				Iron-sulfur cluster carrier protein
+JAOMGKEE_00369	CDS	606				hypothetical protein
+JAOMGKEE_00370	CDS	987				hypothetical protein
+JAOMGKEE_00371	CDS	1815	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+JAOMGKEE_00372	CDS	1158	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+JAOMGKEE_00373	CDS	615	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+JAOMGKEE_00374	CDS	1146	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+JAOMGKEE_00375	CDS	1494				hypothetical protein
+JAOMGKEE_00376	CDS	1317	murA_1	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+JAOMGKEE_00377	CDS	1008	murB_1	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+JAOMGKEE_00378	CDS	1038				hypothetical protein
+JAOMGKEE_00379	CDS	225				hypothetical protein
+JAOMGKEE_00380	CDS	90				hypothetical protein
+JAOMGKEE_00381	CDS	255				hypothetical protein
+JAOMGKEE_00382	CDS	1056				hypothetical protein
+JAOMGKEE_00383	CDS	996	oatA	2.3.1.-		O-acetyltransferase OatA
+JAOMGKEE_00384	CDS	1164	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+JAOMGKEE_00385	CDS	1212				hypothetical protein
+JAOMGKEE_00386	CDS	825				hypothetical protein
+JAOMGKEE_00387	CDS	648	epsM	2.3.1.-	COG0110	Putative acetyltransferase EpsM
+JAOMGKEE_00388	CDS	111				hypothetical protein
+JAOMGKEE_00389	CDS	1410	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+JAOMGKEE_00390	CDS	924	gtaB_1	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+JAOMGKEE_00391	CDS	522	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+JAOMGKEE_00392	CDS	1410	ramB		COG1396	HTH-type transcriptional regulator RamB
+JAOMGKEE_00393	CDS	774				hypothetical protein
+JAOMGKEE_00394	CDS	2022	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+JAOMGKEE_00395	CDS	750	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+JAOMGKEE_00396	CDS	330				hypothetical protein
+JAOMGKEE_00397	CDS	264				hypothetical protein
+JAOMGKEE_00398	CDS	978				hypothetical protein
+JAOMGKEE_00399	CDS	1335				hypothetical protein
+JAOMGKEE_00400	CDS	423				hypothetical protein
+JAOMGKEE_00401	CDS	294				hypothetical protein
+JAOMGKEE_00402	CDS	654				hypothetical protein
+JAOMGKEE_00403	CDS	1650	bmr3_1			Multidrug resistance protein 3
+JAOMGKEE_00404	CDS	1635	bmr3_2			Multidrug resistance protein 3
+JAOMGKEE_00405	CDS	924	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+JAOMGKEE_00406	CDS	669	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+JAOMGKEE_00407	CDS	870				hypothetical protein
+JAOMGKEE_00408	CDS	303	ricR		COG1937	Copper-sensing transcriptional repressor RicR
+JAOMGKEE_00409	CDS	2268	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+JAOMGKEE_00410	CDS	453				hypothetical protein
+JAOMGKEE_00411	CDS	1842				hypothetical protein
+JAOMGKEE_00412	CDS	1080				hypothetical protein
+JAOMGKEE_00413	CDS	1077	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+JAOMGKEE_00414	CDS	816	hmuV_1	3.6.3.-		Hemin import ATP-binding protein HmuV
+JAOMGKEE_00415	CDS	960				hypothetical protein
+JAOMGKEE_00416	CDS	840				hypothetical protein
+JAOMGKEE_00417	CDS	813				hypothetical protein
+JAOMGKEE_00418	CDS	816				hypothetical protein
+JAOMGKEE_00419	CDS	504				hypothetical protein
+JAOMGKEE_00420	CDS	1107	murB_2	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+JAOMGKEE_00421	CDS	639				hypothetical protein
+JAOMGKEE_00422	CDS	1707	fadD	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+JAOMGKEE_00423	CDS	1257	mshA_2	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+JAOMGKEE_00424	CDS	747	gpmA_1	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+JAOMGKEE_00425	CDS	1242	senX3	2.7.13.3		Signal-transduction histidine kinase senX3
+JAOMGKEE_00426	CDS	699	regX3_1		COG0745	Sensory transduction protein regX3
+JAOMGKEE_00427	CDS	882				hypothetical protein
+JAOMGKEE_00428	CDS	2571				hypothetical protein
+JAOMGKEE_00429	CDS	906				putative protein
+JAOMGKEE_00430	CDS	909	ppx1	3.6.1.11	COG0248	Exopolyphosphatase 1
+JAOMGKEE_00431	CDS	807				hypothetical protein
+JAOMGKEE_00432	CDS	813	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+JAOMGKEE_00433	CDS	192				Putative DNA-binding proteinA
+JAOMGKEE_00434	CDS	102				hypothetical protein
+JAOMGKEE_00435	CDS	1068				hypothetical protein
+JAOMGKEE_00436	CDS	237			COG0526	putative protein
+JAOMGKEE_00437	CDS	1350	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+JAOMGKEE_00438	CDS	909	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+JAOMGKEE_00439	CDS	366				hypothetical protein
+JAOMGKEE_00440	CDS	885	hdfR			HTH-type transcriptional regulator HdfR
+JAOMGKEE_00441	CDS	1404	abaF_2			Fosfomycin resistance protein AbaF
+JAOMGKEE_00442	CDS	1857				hypothetical protein
+JAOMGKEE_00443	CDS	438	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+JAOMGKEE_00444	CDS	852	aroE_1	1.1.1.-	COG0169	Quinate/shikimate dehydrogenase (NAD(+))
+JAOMGKEE_00445	CDS	276				hypothetical protein
+JAOMGKEE_00446	CDS	1053	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_00447	CDS	1647				hypothetical protein
+JAOMGKEE_00448	CDS	1080				hypothetical protein
+JAOMGKEE_00449	CDS	207				hypothetical protein
+JAOMGKEE_00450	CDS	1854	cysG	4.99.1.4		Siroheme synthase
+JAOMGKEE_00451	CDS	420				hypothetical protein
+JAOMGKEE_00452	CDS	1020	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+JAOMGKEE_00453	CDS	585				hypothetical protein
+JAOMGKEE_00454	CDS	513				hypothetical protein
+JAOMGKEE_00455	CDS	2637	ctpA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+JAOMGKEE_00456	CDS	1125	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+JAOMGKEE_00457	CDS	1347	hemY	1.3.3.4	COG1232	Protoporphyrinogen oxidase
+JAOMGKEE_00458	CDS	1305	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+JAOMGKEE_00459	CDS	609			COG0406	putative protein
+JAOMGKEE_00460	CDS	624	resA_1			Thiol-disulfide oxidoreductase ResA
+JAOMGKEE_00461	CDS	807				hypothetical protein
+JAOMGKEE_00462	CDS	1626	ccs1			Cytochrome c biogenesis protein Ccs1
+JAOMGKEE_00463	CDS	1014	ccsA			Cytochrome c biogenesis protein CcsA
+JAOMGKEE_00464	CDS	744				hypothetical protein
+JAOMGKEE_00465	CDS	474				hypothetical protein
+JAOMGKEE_00466	CDS	360				hypothetical protein
+JAOMGKEE_00467	CDS	303				hypothetical protein
+JAOMGKEE_00468	CDS	336				hypothetical protein
+JAOMGKEE_00469	CDS	897	menA_1	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+JAOMGKEE_00470	CDS	867				hypothetical protein
+JAOMGKEE_00471	CDS	1131	menE	6.2.1.26	COG0318	putative 2-succinylbenzoate--CoA ligase
+JAOMGKEE_00472	CDS	408	yqjF		COG2259	Inner membrane protein YqjF
+JAOMGKEE_00473	CDS	1563		1.2.1.26		Alpha-ketoglutaric semialdehyde dehydrogenase 2
+JAOMGKEE_00474	CDS	951		4.2.1.41	COG0329	putative 5-dehydro-4-deoxyglucarate dehydratase
+JAOMGKEE_00475	CDS	801	hcaR			Hca operon transcriptional activator HcaR
+JAOMGKEE_00476	CDS	318				hypothetical protein
+JAOMGKEE_00477	CDS	753				hypothetical protein
+JAOMGKEE_00478	CDS	420	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+JAOMGKEE_00479	CDS	264				hypothetical protein
+JAOMGKEE_00480	CDS	1386				hypothetical protein
+JAOMGKEE_00481	CDS	225				hypothetical protein
+JAOMGKEE_00482	CDS	960	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+JAOMGKEE_00483	CDS	282		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+JAOMGKEE_00484	CDS	606		3.4.21.-	COG3340	putative peptidase
+JAOMGKEE_00485	CDS	1017	menC	4.2.1.113	COG4948	o-succinylbenzoate synthase
+JAOMGKEE_00486	CDS	1632	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+JAOMGKEE_00487	CDS	444				hypothetical protein
+JAOMGKEE_00488	CDS	1224	mgtA	2.4.1.-	COG0438	GDP-mannose-dependent alpha-mannosyltransferase
+JAOMGKEE_00489	CDS	1302	cycA		COG1113	D-serine/D-alanine/glycine transporter
+JAOMGKEE_00490	CDS	693	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+JAOMGKEE_00491	CDS	1275	menJ	1.3.99.38	COG0644	Menaquinone reductase
+JAOMGKEE_00492	CDS	1053	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+JAOMGKEE_00493	tRNA	84				tRNA-Tyr(gta)
+JAOMGKEE_00494	tRNA	74				tRNA-Thr(ggt)
+JAOMGKEE_00495	tRNA	74				tRNA-Thr(ggt)
+JAOMGKEE_00496	tRNA	74				tRNA-Met(cat)
+JAOMGKEE_00497	tRNA	74				tRNA-Trp(cca)
+JAOMGKEE_00498	CDS	336	secE			Protein translocase subunit SecE
+JAOMGKEE_00499	CDS	957	nusG			Transcription termination/antitermination protein NusG
+JAOMGKEE_00500	CDS	438	rplK		COG0080	50S ribosomal protein L11
+JAOMGKEE_00501	CDS	711	rplA		COG0081	50S ribosomal protein L1
+JAOMGKEE_00502	CDS	1515				hypothetical protein
+JAOMGKEE_00503	CDS	1347	gabT	2.6.1.19	COG0160	4-aminobutyrate aminotransferase
+JAOMGKEE_00504	CDS	1362	sad_2	1.2.1.16		Succinate-semialdehyde dehydrogenase
+JAOMGKEE_00505	CDS	1248	tyrP		COG0814	Tyrosine-specific transport protein
+JAOMGKEE_00506	CDS	1953	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+JAOMGKEE_00507	CDS	1416				hypothetical protein
+JAOMGKEE_00508	CDS	606				hypothetical protein
+JAOMGKEE_00509	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+JAOMGKEE_00510	CDS	387	rplL		COG0222	50S ribosomal protein L7/L12
+JAOMGKEE_00511	CDS	1008				hypothetical protein
+JAOMGKEE_00512	CDS	3480	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+JAOMGKEE_00513	CDS	4029	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+JAOMGKEE_00514	CDS	183				hypothetical protein
+JAOMGKEE_00515	CDS	783				hypothetical protein
+JAOMGKEE_00516	CDS	696				putative protein
+JAOMGKEE_00517	CDS	369	rpsL		COG0048	30S ribosomal protein S12
+JAOMGKEE_00518	CDS	468	rpsG		COG0049	30S ribosomal protein S7
+JAOMGKEE_00519	CDS	2130	fusA		COG0480	Elongation factor G
+JAOMGKEE_00520	CDS	1191	tuf		COG0050	Elongation factor Tu
+JAOMGKEE_00521	CDS	156				hypothetical protein
+JAOMGKEE_00522	CDS	732				hypothetical protein
+JAOMGKEE_00523	CDS	795	fepC_1		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+JAOMGKEE_00524	CDS	1167	fepG_2		COG4779	Ferric enterobactin transport system permease protein FepG
+JAOMGKEE_00525	CDS	1047	fepD		COG0609	Ferric enterobactin transport system permease protein FepD
+JAOMGKEE_00526	CDS	519		2.8.3.18		Succinyl-CoA:acetate CoA-transferase
+JAOMGKEE_00527	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+JAOMGKEE_00528	CDS	657	rplC		COG0087	50S ribosomal protein L3
+JAOMGKEE_00529	CDS	657	rplD		COG0088	50S ribosomal protein L4
+JAOMGKEE_00530	CDS	306	rplW		COG0089	50S ribosomal protein L23
+JAOMGKEE_00531	CDS	843	rplB		COG0090	50S ribosomal protein L2
+JAOMGKEE_00532	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+JAOMGKEE_00533	CDS	363	rplV		COG0091	50S ribosomal protein L22
+JAOMGKEE_00534	CDS	747	rpsC		COG0092	30S ribosomal protein S3
+JAOMGKEE_00535	CDS	417	rplP		COG0197	50S ribosomal protein L16
+JAOMGKEE_00536	CDS	231	rpmC		COG0255	50S ribosomal protein L29
+JAOMGKEE_00537	CDS	279	rpsQ		COG0186	30S ribosomal protein S17
+JAOMGKEE_00538	CDS	270				hypothetical protein
+JAOMGKEE_00539	CDS	699				hypothetical protein
+JAOMGKEE_00540	CDS	369	rplN		COG0093	50S ribosomal protein L14
+JAOMGKEE_00541	CDS	315	rplX		COG0198	50S ribosomal protein L24
+JAOMGKEE_00542	CDS	576	rplE		COG0094	50S ribosomal protein L5
+JAOMGKEE_00543	CDS	1311				ISL3 family transposase IS1207
+JAOMGKEE_00544	CDS	933				hypothetical protein
+JAOMGKEE_00545	CDS	810	dkgB	1.1.1.274		2,5-diketo-D-gluconic acid reductase B
+JAOMGKEE_00546	CDS	495				hypothetical protein
+JAOMGKEE_00547	CDS	918	fdhD		COG1526	Sulfur carrier protein FdhD
+JAOMGKEE_00548	CDS	309				hypothetical protein
+JAOMGKEE_00549	CDS	2259		1.-.-.-	COG0243	putative oxidoreductase
+JAOMGKEE_00550	CDS	630				hypothetical protein
+JAOMGKEE_00551	CDS	807				hypothetical protein
+JAOMGKEE_00552	CDS	1710	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+JAOMGKEE_00553	CDS	1128	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+JAOMGKEE_00554	CDS	1074				hypothetical protein
+JAOMGKEE_00555	CDS	1185				hypothetical protein
+JAOMGKEE_00556	CDS	486				hypothetical protein
+JAOMGKEE_00557	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+JAOMGKEE_00558	CDS	537	rplF		COG0097	50S ribosomal protein L6
+JAOMGKEE_00559	CDS	405	rplR		COG0256	50S ribosomal protein L18
+JAOMGKEE_00560	CDS	636				hypothetical protein
+JAOMGKEE_00561	CDS	186	rpmD		COG1841	50S ribosomal protein L30
+JAOMGKEE_00562	CDS	447	rplO		COG0200	50S ribosomal protein L15
+JAOMGKEE_00563	CDS	213	bauC_2	1.2.1.-	COG1012	Putative 3-oxopropanoate dehydrogenase
+JAOMGKEE_00564	CDS	366				hypothetical protein
+JAOMGKEE_00565	CDS	1494	geoB_1	1.2.1.86		Geranial dehydrogenase
+JAOMGKEE_00566	CDS	738				hypothetical protein
+JAOMGKEE_00567	CDS	1269	thcD	1.18.1.-		Rhodocoxin reductase
+JAOMGKEE_00568	CDS	321	fdxE		COG0633	Ferredoxin-6
+JAOMGKEE_00569	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JAOMGKEE_00570	CDS	1902				hypothetical protein
+JAOMGKEE_00571	CDS	1095	ppsA	2.7.9.2	COG0574	Phosphoenolpyruvate synthase
+JAOMGKEE_00572	CDS	1287	thcB	1.14.-.-		Cytochrome P450 116
+JAOMGKEE_00573	CDS	807	kipR_1		COG1414	HTH-type transcriptional regulator KipR
+JAOMGKEE_00574	CDS	1323	secY		COG0201	Protein translocase subunit SecY
+JAOMGKEE_00575	CDS	546	adk	2.7.4.3	COG0563	Adenylate kinase
+JAOMGKEE_00576	CDS	795	map-1	3.4.11.18	COG0024	Methionine aminopeptidase 1
+JAOMGKEE_00577	CDS	750				hypothetical protein
+JAOMGKEE_00578	CDS	219	infA		COG0361	Translation initiation factor IF-1
+JAOMGKEE_00579	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+JAOMGKEE_00580	CDS	405	rpsK		COG0100	30S ribosomal protein S11
+JAOMGKEE_00581	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+JAOMGKEE_00582	CDS	1017	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+JAOMGKEE_00583	CDS	492				hypothetical protein
+JAOMGKEE_00584	CDS	885	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+JAOMGKEE_00585	CDS	2400				hypothetical protein
+JAOMGKEE_00586	CDS	459				hypothetical protein
+JAOMGKEE_00587	CDS	306				hypothetical protein
+JAOMGKEE_00588	CDS	1260	eccB3	3.6.-.-		ESX-3 secretion system ATPase EccB3
+JAOMGKEE_00589	CDS	1548				hypothetical protein
+JAOMGKEE_00590	CDS	1308		2.1.1.-	COG2230	putative fatty acid methyltransferase
+JAOMGKEE_00591	CDS	429				hypothetical protein
+JAOMGKEE_00592	CDS	1245	mycP1	3.4.21.-	COG1404	Mycosin-1
+JAOMGKEE_00593	CDS	1383				hypothetical protein
+JAOMGKEE_00594	CDS	3627	eccC		COG1674	ESX secretion system protein EccC
+JAOMGKEE_00595	CDS	903				hypothetical protein
+JAOMGKEE_00596	CDS	327	esxB			ESAT-6-like protein EsxB
+JAOMGKEE_00597	CDS	291	esxA			ESAT-6-like protein EsxA
+JAOMGKEE_00598	CDS	444	rplM		COG0102	50S ribosomal protein L13
+JAOMGKEE_00599	CDS	549				hypothetical protein
+JAOMGKEE_00600	CDS	1344	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+JAOMGKEE_00601	CDS	306				hypothetical protein
+JAOMGKEE_00602	CDS	1512				hypothetical protein
+JAOMGKEE_00603	CDS	237				hypothetical protein
+JAOMGKEE_00604	CDS	858				hypothetical protein
+JAOMGKEE_00605	CDS	1086	alr	5.1.1.1	COG0787	Alanine racemase
+JAOMGKEE_00606	CDS	498	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+JAOMGKEE_00607	CDS	1602	aspT_1			Aspartate/alanine antiporter
+JAOMGKEE_00608	CDS	1284	pip	3.4.11.5		Proline iminopeptidase
+JAOMGKEE_00609	CDS	678			COG1214	putative protein
+JAOMGKEE_00610	CDS	510	rimI	2.3.1.255	COG0456	N-alpha-acetyltransferase RimI
+JAOMGKEE_00611	CDS	1035	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+JAOMGKEE_00612	CDS	1725	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+JAOMGKEE_00613	CDS	423				hypothetical protein
+JAOMGKEE_00614	CDS	300	groS		COG0234	10 kDa chaperonin
+JAOMGKEE_00615	CDS	375	groL		COG0459	60 kDa chaperonin
+JAOMGKEE_00616	CDS	1311				ISL3 family transposase IS1207
+JAOMGKEE_00617	CDS	1281	groL2		COG0459	60 kDa chaperonin 2
+JAOMGKEE_00618	CDS	300	whiB3			Redox-responsive transcriptional regulator WhiB3
+JAOMGKEE_00619	CDS	567	sigD			ECF RNA polymerase sigma factor SigD
+JAOMGKEE_00620	CDS	1029				hypothetical protein
+JAOMGKEE_00621	CDS	423				putative protein
+JAOMGKEE_00622	CDS	1521	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+JAOMGKEE_00623	CDS	1125		1.-.-.-	COG0516	putative oxidoreductase/MSMEI_1564
+JAOMGKEE_00624	CDS	924	rhtA_1		COG5006	Threonine/homoserine exporter RhtA
+JAOMGKEE_00625	CDS	912	gltC_1			HTH-type transcriptional regulator GltC
+JAOMGKEE_00626	CDS	1572	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+JAOMGKEE_00627	CDS	444				hypothetical protein
+JAOMGKEE_00628	CDS	1179				hypothetical protein
+JAOMGKEE_00629	CDS	1272				hypothetical protein
+JAOMGKEE_00630	CDS	735	nreC		COG2197	Oxygen regulatory protein NreC
+JAOMGKEE_00631	CDS	327				hypothetical protein
+JAOMGKEE_00632	CDS	477				hypothetical protein
+JAOMGKEE_00633	CDS	966				hypothetical protein
+JAOMGKEE_00634	CDS	792				hypothetical protein
+JAOMGKEE_00635	CDS	1593	dinB	2.7.7.7		DNA polymerase IV
+JAOMGKEE_00636	CDS	663				hypothetical protein
+JAOMGKEE_00637	CDS	864				hypothetical protein
+JAOMGKEE_00638	CDS	864	menA_2	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+JAOMGKEE_00639	CDS	393				hypothetical protein
+JAOMGKEE_00640	CDS	399				hypothetical protein
+JAOMGKEE_00641	CDS	1647	crtN	1.3.8.-		4,4'-diapophytoene desaturase (4,4'-diaponeurosporene-forming)
+JAOMGKEE_00642	CDS	915				hypothetical protein
+JAOMGKEE_00643	CDS	2193	apeX		COG2409	Apo-petrobactin exporter
+JAOMGKEE_00644	CDS	1107				hypothetical protein
+JAOMGKEE_00645	CDS	588				hypothetical protein
+JAOMGKEE_00646	CDS	651				hypothetical protein
+JAOMGKEE_00647	CDS	1608				hypothetical protein
+JAOMGKEE_00648	CDS	1449	phrA	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+JAOMGKEE_00649	CDS	756	epsH	2.4.-.-	COG0463	Putative glycosyltransferase EpsH
+JAOMGKEE_00650	CDS	2418				hypothetical protein
+JAOMGKEE_00651	CDS	720			COG1136	putative ABC transporter ATP-binding protein
+JAOMGKEE_00652	CDS	678	metP		COG2011	Methionine import system permease protein MetP
+JAOMGKEE_00653	CDS	1083	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+JAOMGKEE_00654	CDS	900	metQ		COG1464	D-methionine-binding lipoprotein MetQ
+JAOMGKEE_00655	CDS	3168	dnaE2	2.7.7.7	COG0587	Error-prone DNA polymerase
+JAOMGKEE_00656	CDS	492				hypothetical protein
+JAOMGKEE_00657	CDS	1416				hypothetical protein
+JAOMGKEE_00658	CDS	672	ideR		COG1321	Iron-dependent repressor IdeR
+JAOMGKEE_00659	CDS	822				hypothetical protein
+JAOMGKEE_00660	CDS	777	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+JAOMGKEE_00661	CDS	495	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+JAOMGKEE_00662	CDS	999	yfmC		COG4594	Fe(3+)-citrate-binding protein YfmC
+JAOMGKEE_00663	CDS	474	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+JAOMGKEE_00664	CDS	900	folD		COG0190	Bifunctional protein FolD protein
+JAOMGKEE_00665	CDS	351				hypothetical protein
+JAOMGKEE_00666	CDS	1383				hypothetical protein
+JAOMGKEE_00667	CDS	966				hypothetical protein
+JAOMGKEE_00668	CDS	1134	metXA_1	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+JAOMGKEE_00669	CDS	1314	metY	2.5.1.49	COG2873	O-acetyl-L-homoserine sulfhydrylase
+JAOMGKEE_00670	CDS	2280	cstA		COG1966	Peptide transporter CstA
+JAOMGKEE_00671	CDS	204				hypothetical protein
+JAOMGKEE_00672	CDS	1515	prpD2_1	4.2.1.79	COG2079	2-methylcitrate dehydratase 2
+JAOMGKEE_00673	CDS	924	mmgF_1	4.1.3.-	COG2513	2-methylisocitrate lyase
+JAOMGKEE_00674	CDS	1152	prpC2	2.3.3.5	COG0372	2-methylcitrate synthase 2
+JAOMGKEE_00675	CDS	123				hypothetical protein
+JAOMGKEE_00676	CDS	1044	allD	1.1.1.350	COG2055	Ureidoglycolate dehydrogenase (NAD(+))
+JAOMGKEE_00677	CDS	723				hypothetical protein
+JAOMGKEE_00678	CDS	705				hypothetical protein
+JAOMGKEE_00679	CDS	2217	icd	1.1.1.42	COG2838	Isocitrate dehydrogenase [NADP]
+JAOMGKEE_00680	CDS	900			COG2375	putative protein
+JAOMGKEE_00681	CDS	810	fpuD_2	7.2.2.-	COG1120	Petrobactin import ATP-binding protein FpuD
+JAOMGKEE_00682	CDS	1029	yfhA		COG0609	putative siderophore transport system permease protein YfhA
+JAOMGKEE_00683	CDS	996	yfiZ		COG0609	putative siderophore transport system permease protein YfiZ
+JAOMGKEE_00684	CDS	339				hypothetical protein
+JAOMGKEE_00685	CDS	696	fpuA		COG0614	Petrobactin-binding protein FpuA
+JAOMGKEE_00686	CDS	1275	ydhP		COG2814	Inner membrane transport protein YdhP
+JAOMGKEE_00687	CDS	915	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+JAOMGKEE_00688	CDS	660				hypothetical protein
+JAOMGKEE_00689	CDS	192				hypothetical protein
+JAOMGKEE_00690	CDS	978				hypothetical protein
+JAOMGKEE_00691	CDS	783	fhuC	7.2.2.16	COG1120	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+JAOMGKEE_00692	CDS	1020	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+JAOMGKEE_00693	CDS	1038	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+JAOMGKEE_00694	CDS	1086				hypothetical protein
+JAOMGKEE_00695	CDS	906				hypothetical protein
+JAOMGKEE_00696	CDS	1311				hypothetical protein
+JAOMGKEE_00697	CDS	1230				hypothetical protein
+JAOMGKEE_00698	CDS	861				hypothetical protein
+JAOMGKEE_00699	CDS	252				hypothetical protein
+JAOMGKEE_00700	CDS	636	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+JAOMGKEE_00701	CDS	375				hypothetical protein
+JAOMGKEE_00702	CDS	1593		5.4.2.8	COG1109	putative phosphomannomutase
+JAOMGKEE_00703	CDS	1185	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+JAOMGKEE_00704	CDS	1410	lpdA	1.6.5.2	COG1249	NAD(P)H dehydrogenase (quinone)
+JAOMGKEE_00705	CDS	3474	pycA	6.4.1.1		Pyruvate carboxylase
+JAOMGKEE_00706	CDS	870				hypothetical protein
+JAOMGKEE_00707	CDS	489				hypothetical protein
+JAOMGKEE_00708	CDS	1089	yciC		COG0523	Putative metal chaperone YciC
+JAOMGKEE_00709	CDS	927	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+JAOMGKEE_00710	CDS	1497	prpD2_2	4.2.1.79	COG2079	2-methylcitrate dehydratase 2
+JAOMGKEE_00711	CDS	918	mmgF_2	4.1.3.-	COG2513	2-methylisocitrate lyase
+JAOMGKEE_00712	CDS	1146	prpC1	2.3.3.5	COG0372	2-methylcitrate synthase 1
+JAOMGKEE_00713	CDS	369				hypothetical protein
+JAOMGKEE_00714	CDS	1326	prpR		COG1396	HTH-type transcriptional regulator PrpR
+JAOMGKEE_00715	CDS	183				hypothetical protein
+JAOMGKEE_00716	CDS	1776	carB_1			Carbamoyl-phosphate synthase large chain
+JAOMGKEE_00717	CDS	906	sseA_1	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseA
+JAOMGKEE_00718	CDS	1068				hypothetical protein
+JAOMGKEE_00719	CDS	417				hypothetical protein
+JAOMGKEE_00720	CDS	2151				hypothetical protein
+JAOMGKEE_00721	CDS	594		3.6.1.9	COG0424	Nucleoside triphosphate pyrophosphatase
+JAOMGKEE_00722	CDS	249				hypothetical protein
+JAOMGKEE_00723	CDS	1614	accD5_1	6.4.1.3	COG4799	putative propionyl-CoA carboxylase beta chain 5
+JAOMGKEE_00724	CDS	1632	accD5_2	6.4.1.3	COG4799	putative propionyl-CoA carboxylase beta chain 5
+JAOMGKEE_00725	CDS	810	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+JAOMGKEE_00726	CDS	489				hypothetical protein
+JAOMGKEE_00727	CDS	1164	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+JAOMGKEE_00728	CDS	1875	kup			Low affinity potassium transport system protein kup
+JAOMGKEE_00729	CDS	360				hypothetical protein
+JAOMGKEE_00730	CDS	498	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+JAOMGKEE_00731	CDS	456				hypothetical protein
+JAOMGKEE_00732	CDS	795				hypothetical protein
+JAOMGKEE_00733	CDS	1317	ntaA	1.14.14.10		Nitrilotriacetate monooxygenase component A
+JAOMGKEE_00734	CDS	1446				IS481 family transposase ISBli23
+JAOMGKEE_00735	CDS	792		1.1.1.390		Sulfoquinovose 1-dehydrogenase
+JAOMGKEE_00736	CDS	372				hypothetical protein
+JAOMGKEE_00737	CDS	567	yyaP		COG0262	putative protein YyaP
+JAOMGKEE_00738	CDS	423				hypothetical protein
+JAOMGKEE_00739	CDS	225				hypothetical protein
+JAOMGKEE_00740	CDS	837	sugB		COG0395	Trehalose transport system permease protein SugB
+JAOMGKEE_00741	CDS	1035	sugA		COG1175	Trehalose transport system permease protein SugA
+JAOMGKEE_00742	CDS	456				hypothetical protein
+JAOMGKEE_00743	CDS	1275	lpqY		COG1653	Trehalose-binding lipoprotein LpqY
+JAOMGKEE_00744	CDS	999	msiK_1	7.5.2.-	COG3839	Diacetylchitobiose uptake system ATP-binding protein MsiK
+JAOMGKEE_00745	CDS	333				hypothetical protein
+JAOMGKEE_00746	CDS	270				hypothetical protein
+JAOMGKEE_00747	CDS	4803	rhlE_1	3.6.4.13		ATP-dependent RNA helicase RhlE
+JAOMGKEE_00748	CDS	3702				hypothetical protein
+JAOMGKEE_00749	CDS	654				hypothetical protein
+JAOMGKEE_00750	CDS	2436				hypothetical protein
+JAOMGKEE_00751	CDS	2301	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+JAOMGKEE_00752	CDS	6303	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+JAOMGKEE_00753	CDS	4599				hypothetical protein
+JAOMGKEE_00754	CDS	2889	rapA_1	3.6.4.-		RNA polymerase-associated protein RapA
+JAOMGKEE_00755	CDS	1557	lcpA		COG1316	Cell wall biosynthesis protein LcpA
+JAOMGKEE_00756	CDS	900	wbbL	2.4.1.289	COG1216	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+JAOMGKEE_00757	CDS	1089	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+JAOMGKEE_00758	CDS	315	whiB			Transcriptional regulator WhiB
+JAOMGKEE_00759	CDS	459				hypothetical protein
+JAOMGKEE_00760	CDS	393				hypothetical protein
+JAOMGKEE_00761	CDS	1377	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+JAOMGKEE_00762	CDS	1008				hypothetical protein
+JAOMGKEE_00763	CDS	1185	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase
+JAOMGKEE_00764	CDS	786				hypothetical protein
+JAOMGKEE_00765	CDS	354				hypothetical protein
+JAOMGKEE_00766	CDS	1437	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+JAOMGKEE_00767	CDS	612	tmk	2.7.4.9	COG0125	Thymidylate kinase
+JAOMGKEE_00768	CDS	681	mtrA		COG0745	DNA-binding response regulator MtrA
+JAOMGKEE_00769	CDS	1500	mtrB	2.7.13.3		Sensor histidine kinase MtrB
+JAOMGKEE_00770	CDS	1707	lpqB			Lipoprotein LpqB
+JAOMGKEE_00771	CDS	591				hypothetical protein
+JAOMGKEE_00772	CDS	666	hpf		COG1544	Ribosome hibernation promotion factor
+JAOMGKEE_00773	CDS	2538	secA1		COG0653	Protein translocase subunit SecA 1
+JAOMGKEE_00774	CDS	384				hypothetical protein
+JAOMGKEE_00775	CDS	411				hypothetical protein
+JAOMGKEE_00776	CDS	507				hypothetical protein
+JAOMGKEE_00777	CDS	990	rsgA	3.6.1.-		Small ribosomal subunit biogenesis GTPase RsgA
+JAOMGKEE_00778	CDS	1293	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+JAOMGKEE_00779	CDS	642	yedK	3.4.-.-	COG2135	SOS response-associated protein YedK
+JAOMGKEE_00780	CDS	1113				hypothetical protein
+JAOMGKEE_00781	CDS	621	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+JAOMGKEE_00782	CDS	270				hypothetical protein
+JAOMGKEE_00783	CDS	261	whiB1			Transcriptional regulator WhiB1
+JAOMGKEE_00784	CDS	423				hypothetical protein
+JAOMGKEE_00785	CDS	1203				hypothetical protein
+JAOMGKEE_00786	CDS	1227	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+JAOMGKEE_00787	CDS	228				hypothetical protein
+JAOMGKEE_00788	CDS	849				hypothetical protein
+JAOMGKEE_00789	CDS	762				hypothetical protein
+JAOMGKEE_00790	CDS	3051	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+JAOMGKEE_00791	CDS	3213	rep_3	3.6.4.12		ATP-dependent DNA helicase Rep
+JAOMGKEE_00792	CDS	1062	kefC			Glutathione-regulated potassium-efflux system protein KefC
+JAOMGKEE_00793	CDS	717	nudC	3.6.1.22		NADH pyrophosphatase
+JAOMGKEE_00794	CDS	2037	uvrD2	3.6.4.12	COG0210	ATP-dependent DNA helicase UvrD2
+JAOMGKEE_00795	CDS	801				hypothetical protein
+JAOMGKEE_00796	CDS	489				hypothetical protein
+JAOMGKEE_00797	CDS	1428				hypothetical protein
+JAOMGKEE_00798	CDS	1053	ylbL		COG3480	putative protein YlbL
+JAOMGKEE_00799	CDS	678				hypothetical protein
+JAOMGKEE_00800	CDS	525				hypothetical protein
+JAOMGKEE_00801	CDS	2958				hypothetical protein
+JAOMGKEE_00802	CDS	1362				hypothetical protein
+JAOMGKEE_00803	CDS	900	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+JAOMGKEE_00804	CDS	603	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+JAOMGKEE_00805	tRNA	75				tRNA-Met(cat)
+JAOMGKEE_00806	CDS	366				hypothetical protein
+JAOMGKEE_00807	CDS	1065				hypothetical protein
+JAOMGKEE_00808	CDS	402				hypothetical protein
+JAOMGKEE_00809	CDS	456				hypothetical protein
+JAOMGKEE_00810	CDS	162				hypothetical protein
+JAOMGKEE_00811	CDS	1584				hypothetical protein
+JAOMGKEE_00812	CDS	432				hypothetical protein
+JAOMGKEE_00813	CDS	510				hypothetical protein
+JAOMGKEE_00814	CDS	312				hypothetical protein
+JAOMGKEE_00815	CDS	783	hisN	3.1.3.15	COG0483	Histidinol-phosphatase
+JAOMGKEE_00816	CDS	867	cysQ_1	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+JAOMGKEE_00817	CDS	1107	prfB		COG1186	Peptide chain release factor 2
+JAOMGKEE_00818	CDS	690	ftsE		COG2884	Cell division ATP-binding protein FtsE
+JAOMGKEE_00819	CDS	903	ftsX		COG2177	Cell division protein FtsX
+JAOMGKEE_00820	CDS	495	smpB		COG0691	SsrA-binding protein
+JAOMGKEE_00821	CDS	354				hypothetical protein
+JAOMGKEE_00822	tmRNA	376	ssrA			transfer-messenger RNA, SsrA
+JAOMGKEE_00823	CDS	303			COG3039	IS5 family transposase ISCef8
+JAOMGKEE_00824	tRNA	75				tRNA-Met(cat)
+JAOMGKEE_00825	CDS	828	viuB		COG2375	Vibriobactin utilization protein ViuB
+JAOMGKEE_00826	CDS	921				hypothetical protein
+JAOMGKEE_00827	CDS	591				hypothetical protein
+JAOMGKEE_00828	CDS	1014	yclQ		COG4607	Petrobactin-binding protein YclQ
+JAOMGKEE_00829	CDS	1002	fatD		COG4606	Petrobactin import system permease protein FatD
+JAOMGKEE_00830	CDS	1116	fatC		COG4605	Petrobactin import system permease protein FatC
+JAOMGKEE_00831	CDS	756	fatE	7.2.2.-	COG4604	Petrobactin import ATP-binding protein FatE
+JAOMGKEE_00832	CDS	111				hypothetical protein
+JAOMGKEE_00833	rRNA	1522				16S ribosomal RNA
+JAOMGKEE_00834	rRNA	3064				23S ribosomal RNA
+JAOMGKEE_00835	rRNA	111				5S ribosomal RNA
+JAOMGKEE_00836	CDS	1164	dapC	2.6.1.17	COG0436	putative N-succinyldiaminopimelate aminotransferase DapC
+JAOMGKEE_00837	CDS	642				hypothetical protein
+JAOMGKEE_00838	CDS	1674				hypothetical protein
+JAOMGKEE_00839	CDS	2202				hypothetical protein
+JAOMGKEE_00840	CDS	222				hypothetical protein
+JAOMGKEE_00841	CDS	582				hypothetical protein
+JAOMGKEE_00842	CDS	384				hypothetical protein
+JAOMGKEE_00843	CDS	528				hypothetical protein
+JAOMGKEE_00844	CDS	828				hypothetical protein
+JAOMGKEE_00845	CDS	702				hypothetical protein
+JAOMGKEE_00846	CDS	1461	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+JAOMGKEE_00847	CDS	831	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+JAOMGKEE_00848	CDS	873				hypothetical protein
+JAOMGKEE_00849	CDS	936				putative protein
+JAOMGKEE_00850	CDS	1131	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+JAOMGKEE_00851	CDS	1314	gltA2	2.3.3.16	COG0372	Citrate synthase 1
+JAOMGKEE_00852	CDS	357	fkbP	5.2.1.8		FK506-binding protein
+JAOMGKEE_00853	CDS	1455	accD3	6.4.1.2	COG0777	Putative acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+JAOMGKEE_00854	CDS	342				hypothetical protein
+JAOMGKEE_00855	CDS	1656	mctC		COG4147	Monocarboxylic acid transporter
+JAOMGKEE_00856	CDS	777				hypothetical protein
+JAOMGKEE_00857	CDS	843		3.2.1.17		Putative peptidoglycan hydrolase
+JAOMGKEE_00858	CDS	8910				hypothetical protein
+JAOMGKEE_00859	CDS	492				hypothetical protein
+JAOMGKEE_00860	CDS	156				hypothetical protein
+JAOMGKEE_00861	CDS	1050	metXA_2	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+JAOMGKEE_00862	CDS	429				hypothetical protein
+JAOMGKEE_00863	tRNA	74				tRNA-Arg(cct)
+JAOMGKEE_00864	CDS	270				hypothetical protein
+JAOMGKEE_00865	CDS	240	mrx1	1.20.4.3	COG0695	Mycoredoxin 1
+JAOMGKEE_00866	CDS	459	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+JAOMGKEE_00867	CDS	801	thyA	2.1.1.45	COG0207	Thymidylate synthase
+JAOMGKEE_00868	CDS	759	cysQ_2	3.1.3.7	COG1218	3'-phosphoadenosine 5'-phosphate phosphatase
+JAOMGKEE_00869	CDS	4563	rhlE_2	3.6.4.13		ATP-dependent RNA helicase RhlE
+JAOMGKEE_00870	CDS	771	nei1_1	3.2.2.-	COG0266	Endonuclease 8 1
+JAOMGKEE_00871	CDS	411	yccF		COG3304	Inner membrane protein YccF
+JAOMGKEE_00872	CDS	603				hypothetical protein
+JAOMGKEE_00873	CDS	159				hypothetical protein
+JAOMGKEE_00874	CDS	1176	yycB_1		COG2807	putative transporter YycB
+JAOMGKEE_00875	CDS	1623	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+JAOMGKEE_00876	CDS	1179				hypothetical protein
+JAOMGKEE_00877	CDS	306				hypothetical protein
+JAOMGKEE_00878	CDS	2292	uvrD1	3.6.4.12	COG0210	ATP-dependent DNA helicase UvrD1
+JAOMGKEE_00879	CDS	2226				hypothetical protein
+JAOMGKEE_00880	CDS	669	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+JAOMGKEE_00881	CDS	510				hypothetical protein
+JAOMGKEE_00882	CDS	714				hypothetical protein
+JAOMGKEE_00883	CDS	1428				putative protein
+JAOMGKEE_00884	CDS	633	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+JAOMGKEE_00885	CDS	1563	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+JAOMGKEE_00886	CDS	822	citE	4.1.-.-	COG2301	Citrate lyase subunit beta-like protein
+JAOMGKEE_00887	CDS	669	slmA			Nucleoid occlusion factor SlmA
+JAOMGKEE_00888	CDS	903				hypothetical protein
+JAOMGKEE_00889	CDS	252	rpsR1		COG0238	30S ribosomal protein S18 1
+JAOMGKEE_00890	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+JAOMGKEE_00891	CDS	165	rpmG2		COG0267	50S ribosomal protein L33 2
+JAOMGKEE_00892	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+JAOMGKEE_00893	CDS	1614	dauA_1		COG0659	C4-dicarboxylic acid transporter DauA
+JAOMGKEE_00894	CDS	315			COG0640	putative HTH-type transcriptional regulator
+JAOMGKEE_00895	CDS	267	rpmE2		COG0254	50S ribosomal protein L31 type B
+JAOMGKEE_00896	CDS	174	rpmF			50S ribosomal protein L32
+JAOMGKEE_00897	CDS	699	mprA		COG0745	Response regulator MprA
+JAOMGKEE_00898	CDS	1440	mprB	2.7.13.3		Signal transduction histidine-protein kinase/phosphatase MprB
+JAOMGKEE_00899	CDS	1326				hypothetical protein
+JAOMGKEE_00900	CDS	588				hypothetical protein
+JAOMGKEE_00901	CDS	408	mscL		COG1970	Large-conductance mechanosensitive channel
+JAOMGKEE_00902	CDS	555				hypothetical protein
+JAOMGKEE_00903	CDS	573		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+JAOMGKEE_00904	CDS	948	gtaB_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+JAOMGKEE_00905	CDS	1260	moeA1	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase 1
+JAOMGKEE_00906	CDS	663	rimJ	2.3.1.267	COG1670	[Ribosomal protein S5]-alanine N-acetyltransferase
+JAOMGKEE_00907	CDS	1014				hypothetical protein
+JAOMGKEE_00908	CDS	1203	yycB_2		COG2807	putative transporter YycB
+JAOMGKEE_00909	CDS	408				hypothetical protein
+JAOMGKEE_00910	CDS	687				hypothetical protein
+JAOMGKEE_00911	CDS	1161	glgE_1	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+JAOMGKEE_00912	CDS	1563	pmt	2.4.1.109	COG1928	putative dolichyl-phosphate-mannose--protein mannosyltransferase
+JAOMGKEE_00913	CDS	849	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+JAOMGKEE_00914	CDS	360	betP_1		COG1292	Glycine betaine transporter BetP
+JAOMGKEE_00915	CDS	1473	betP_2		COG1292	Glycine betaine transporter BetP
+JAOMGKEE_00916	CDS	1833	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+JAOMGKEE_00917	CDS	2052	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+JAOMGKEE_00918	CDS	636	kynB	3.5.1.9		Kynurenine formamidase
+JAOMGKEE_00919	CDS	1161				hypothetical protein
+JAOMGKEE_00920	CDS	510				hypothetical protein
+JAOMGKEE_00921	CDS	402				hypothetical protein
+JAOMGKEE_00922	CDS	480				hypothetical protein
+JAOMGKEE_00923	CDS	384				hypothetical protein
+JAOMGKEE_00924	CDS	147				hypothetical protein
+JAOMGKEE_00925	CDS	1716	dld	1.1.5.12	COG0277	Quinone-dependent D-lactate dehydrogenase
+JAOMGKEE_00926	CDS	1158				hypothetical protein
+JAOMGKEE_00927	CDS	402				hypothetical protein
+JAOMGKEE_00928	CDS	480				hypothetical protein
+JAOMGKEE_00929	CDS	360	cmtR		COG0640	HTH-type transcriptional regulator CmtR
+JAOMGKEE_00930	CDS	597				hypothetical protein
+JAOMGKEE_00931	CDS	834	tatD	3.1.-.-	COG0084	putative metal-dependent hydrolase TatD
+JAOMGKEE_00932	CDS	1125	rpf2	3.-.-.-	COG3583	Resuscitation-promoting factor Rpf2
+JAOMGKEE_00933	CDS	882	ksgA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+JAOMGKEE_00934	CDS	936	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+JAOMGKEE_00935	CDS	1836	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_00936	CDS	795	pdxK_1	2.7.1.35	COG2240	Pyridoxine/pyridoxal/pyridoxamine kinase
+JAOMGKEE_00937	CDS	483	resA_2			Thiol-disulfide oxidoreductase ResA
+JAOMGKEE_00938	CDS	390				hypothetical protein
+JAOMGKEE_00939	CDS	324				hypothetical protein
+JAOMGKEE_00940	CDS	963	ppk2	2.7.4.-	COG2326	Polyphosphate:GDP phosphotransferase
+JAOMGKEE_00941	CDS	795	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+JAOMGKEE_00942	CDS	1020	caiD	4.2.1.149		Carnitinyl-CoA dehydratase
+JAOMGKEE_00943	CDS	723				hypothetical protein
+JAOMGKEE_00944	CDS	1215				hypothetical protein
+JAOMGKEE_00945	CDS	1452				hypothetical protein
+JAOMGKEE_00946	CDS	582				hypothetical protein
+JAOMGKEE_00947	CDS	2376	ydfJ_2		COG2409	Membrane protein YdfJ
+JAOMGKEE_00948	CDS	501	rraA	4.1.3.17	COG0684	Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase
+JAOMGKEE_00949	CDS	633				hypothetical protein
+JAOMGKEE_00950	CDS	384				hypothetical protein
+JAOMGKEE_00951	CDS	1554				hypothetical protein
+JAOMGKEE_00952	CDS	1785	prfC			Peptide chain release factor 3
+JAOMGKEE_00953	CDS	1272	amiC			Aliphatic amidase expression-regulating protein
+JAOMGKEE_00954	CDS	885	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+JAOMGKEE_00955	CDS	1080				hypothetical protein
+JAOMGKEE_00956	CDS	729	fbpC_1	7.2.2.7		Fe(3+) ions import ATP-binding protein FbpC
+JAOMGKEE_00957	CDS	702	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+JAOMGKEE_00958	CDS	606	pth_1	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+JAOMGKEE_00959	CDS	1026	nmoA	1.13.12.-	COG2070	Nitronate monooxygenase
+JAOMGKEE_00960	CDS	1443	gap2	1.2.1.-		Glyceraldehyde-3-phosphate dehydrogenase-like protein
+JAOMGKEE_00961	CDS	543	pth_2	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+JAOMGKEE_00962	CDS	603	rplY		COG1825	50S ribosomal protein L25
+JAOMGKEE_00963	CDS	432				hypothetical protein
+JAOMGKEE_00964	CDS	627				hypothetical protein
+JAOMGKEE_00965	CDS	978	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+JAOMGKEE_00966	CDS	1398	glmU		COG1207	Bifunctional protein GlmU
+JAOMGKEE_00967	CDS	1230				hypothetical protein
+JAOMGKEE_00968	CDS	1542	mco	1.-.-.-		Multicopper oxidase mco
+JAOMGKEE_00969	CDS	927	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_00970	CDS	834				hypothetical protein
+JAOMGKEE_00971	CDS	1260				hypothetical protein
+JAOMGKEE_00972	CDS	612	desR		COG2197	Transcriptional regulatory protein DesR
+JAOMGKEE_00973	CDS	135				hypothetical protein
+JAOMGKEE_00974	CDS	1158				hypothetical protein
+JAOMGKEE_00975	CDS	276				hypothetical protein
+JAOMGKEE_00976	CDS	1401				hypothetical protein
+JAOMGKEE_00977	CDS	1737		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+JAOMGKEE_00978	CDS	1974	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+JAOMGKEE_00979	CDS	252				hypothetical protein
+JAOMGKEE_00980	CDS	474				hypothetical protein
+JAOMGKEE_00981	CDS	711				IS6 family transposase IS1628
+JAOMGKEE_00982	CDS	459				hypothetical protein
+JAOMGKEE_00983	CDS	600				hypothetical protein
+JAOMGKEE_00984	tRNA	73				tRNA-Gln(ttg)
+JAOMGKEE_00985	CDS	654				hypothetical protein
+JAOMGKEE_00986	CDS	3654	mfd_1	3.6.4.-	COG1197	Transcription-repair-coupling factor
+JAOMGKEE_00987	CDS	1971		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+JAOMGKEE_00988	CDS	1734			COG1132	putative ABC transporter ATP-binding protein
+JAOMGKEE_00989	CDS	2499				hypothetical protein
+JAOMGKEE_00990	CDS	1281				hypothetical protein
+JAOMGKEE_00991	CDS	1506	arcD		COG0531	Arginine/ornithine antiporter
+JAOMGKEE_00992	CDS	213				hypothetical protein
+JAOMGKEE_00993	CDS	588	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+JAOMGKEE_00994	CDS	372				hypothetical protein
+JAOMGKEE_00995	CDS	381				hypothetical protein
+JAOMGKEE_00996	CDS	765				hypothetical protein
+JAOMGKEE_00997	CDS	1278	eno	4.2.1.11	COG0148	Enolase
+JAOMGKEE_00998	CDS	543				hypothetical protein
+JAOMGKEE_00999	CDS	555				hypothetical protein
+JAOMGKEE_01000	CDS	966	ppx2	3.6.1.11	COG0248	Exopolyphosphatase 2
+JAOMGKEE_01001	tRNA	77				tRNA-Leu(taa)
+JAOMGKEE_01002	CDS	933	psdht	4.2.1.-		Phenylserine dehydratase
+JAOMGKEE_01003	CDS	198				hypothetical protein
+JAOMGKEE_01004	CDS	333				hypothetical protein
+JAOMGKEE_01005	CDS	192				hypothetical protein
+JAOMGKEE_01006	CDS	996	ripA		COG2207	HTH-type transcriptional regulator RipA
+JAOMGKEE_01007	CDS	819				hypothetical protein
+JAOMGKEE_01008	CDS	453				hypothetical protein
+JAOMGKEE_01009	CDS	525	greA		COG0782	Transcription elongation factor GreA
+JAOMGKEE_01010	CDS	486				hypothetical protein
+JAOMGKEE_01011	CDS	876	mca	3.5.1.115	COG2120	Mycothiol S-conjugate amidase
+JAOMGKEE_01012	CDS	321				hypothetical protein
+JAOMGKEE_01013	CDS	1101	aroG_1	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+JAOMGKEE_01014	CDS	771	uppS_1	2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+JAOMGKEE_01015	CDS	522				hypothetical protein
+JAOMGKEE_01016	CDS	972	coaA	2.7.1.33	COG1072	Pantothenate kinase
+JAOMGKEE_01017	CDS	1305	glyA1	2.1.2.1	COG0112	Serine hydroxymethyltransferase 1
+JAOMGKEE_01018	CDS	1863	menF_1	5.4.4.2		Isochorismate synthase MenF
+JAOMGKEE_01019	CDS	726				hypothetical protein
+JAOMGKEE_01020	CDS	396				hypothetical protein
+JAOMGKEE_01021	CDS	675				hypothetical protein
+JAOMGKEE_01022	CDS	540	bar	2.3.1.183	COG1247	Phosphinothricin N-acetyltransferase
+JAOMGKEE_01023	CDS	882	pxpC	3.5.2.9	COG1984	5-oxoprolinase subunit C
+JAOMGKEE_01024	CDS	654	pxpB	3.5.2.9	COG2049	5-oxoprolinase subunit B
+JAOMGKEE_01025	CDS	759	pxpA	3.5.2.9	COG1540	5-oxoprolinase subunit A
+JAOMGKEE_01026	CDS	1311				hypothetical protein
+JAOMGKEE_01027	CDS	654				hypothetical protein
+JAOMGKEE_01028	CDS	1245				hypothetical protein
+JAOMGKEE_01029	CDS	1410	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+JAOMGKEE_01030	CDS	492		1.5.1.37		Flavin reductase
+JAOMGKEE_01031	CDS	264				hypothetical protein
+JAOMGKEE_01032	CDS	450				hypothetical protein
+JAOMGKEE_01033	CDS	567				hypothetical protein
+JAOMGKEE_01034	CDS	1464	dmoA	1.14.13.131		Dimethyl-sulfide monooxygenase
+JAOMGKEE_01035	CDS	1083	sfnC	1.14.14.-		putative FMNH2-dependent monooxygenase SfnC
+JAOMGKEE_01036	CDS	1200	soxC			Dibenzothiophene desulfurization enzyme C
+JAOMGKEE_01037	CDS	1179	ssuD_1	1.14.14.5	COG2141	Alkanesulfonate monooxygenase
+JAOMGKEE_01038	CDS	1008	glpX	3.1.3.11	COG1494	Fructose-1,6-bisphosphatase class 2
+JAOMGKEE_01039	CDS	531				hypothetical protein
+JAOMGKEE_01040	CDS	1905				hypothetical protein
+JAOMGKEE_01041	CDS	228				hypothetical protein
+JAOMGKEE_01042	CDS	246	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+JAOMGKEE_01043	CDS	1254	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+JAOMGKEE_01044	CDS	978	ispH2	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase 2
+JAOMGKEE_01045	CDS	699				hypothetical protein
+JAOMGKEE_01046	CDS	147				hypothetical protein
+JAOMGKEE_01047	CDS	1473				hypothetical protein
+JAOMGKEE_01048	CDS	183				hypothetical protein
+JAOMGKEE_01049	CDS	1692				hypothetical protein
+JAOMGKEE_01050	CDS	1236				hypothetical protein
+JAOMGKEE_01051	CDS	108				hypothetical protein
+JAOMGKEE_01052	CDS	1086	ychF		COG0012	Ribosome-binding ATPase YchF
+JAOMGKEE_01053	CDS	282	higB-1		COG3549	Toxin HigB-1
+JAOMGKEE_01054	CDS	300				hypothetical protein
+JAOMGKEE_01055	CDS	825	argF_1	2.1.3.3	COG0078	Ornithine carbamoyltransferase, anabolic
+JAOMGKEE_01056	CDS	504		2.3.1.-	COG1670	Acetyltransferase
+JAOMGKEE_01057	CDS	558				hypothetical protein
+JAOMGKEE_01058	CDS	303				hypothetical protein
+JAOMGKEE_01059	CDS	1209				IS110 family transposase ISSer1
+JAOMGKEE_01060	CDS	147				hypothetical protein
+JAOMGKEE_01061	CDS	3045				hypothetical protein
+JAOMGKEE_01062	CDS	1470				hypothetical protein
+JAOMGKEE_01063	CDS	222				hypothetical protein
+JAOMGKEE_01064	CDS	336				hypothetical protein
+JAOMGKEE_01065	CDS	294				ISL3 family transposase IS1207
+JAOMGKEE_01066	CDS	147				hypothetical protein
+JAOMGKEE_01067	CDS	240				hypothetical protein
+JAOMGKEE_01068	CDS	369				hypothetical protein
+JAOMGKEE_01069	CDS	501				hypothetical protein
+JAOMGKEE_01070	CDS	801	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+JAOMGKEE_01071	CDS	324				hypothetical protein
+JAOMGKEE_01072	CDS	153				hypothetical protein
+JAOMGKEE_01073	CDS	657	yhfK_1	4.-.-.-	COG0702	putative sugar epimerase YhfK
+JAOMGKEE_01074	CDS	1740			COG0659	putative sulfate transporter
+JAOMGKEE_01075	CDS	600				hypothetical protein
+JAOMGKEE_01076	CDS	501				hypothetical protein
+JAOMGKEE_01077	CDS	336				hypothetical protein
+JAOMGKEE_01078	CDS	210				hypothetical protein
+JAOMGKEE_01079	CDS	1959			COG4867	putative protein
+JAOMGKEE_01080	CDS	1374				hypothetical protein
+JAOMGKEE_01081	CDS	702	gpmB	5.4.2.-		phosphoglycerate mutase GpmB
+JAOMGKEE_01082	CDS	708				hypothetical protein
+JAOMGKEE_01083	CDS	765	bcpA	2.7.8.23		Carboxyvinyl-carboxyphosphonate phosphorylmutase
+JAOMGKEE_01084	CDS	1644	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+JAOMGKEE_01085	CDS	399			COG1765	putative protein
+JAOMGKEE_01086	CDS	345				hypothetical protein
+JAOMGKEE_01087	CDS	477				hypothetical protein
+JAOMGKEE_01088	CDS	1221	yfcJ_1			putative MFS-type transporter YfcJ
+JAOMGKEE_01089	CDS	1311				ISL3 family transposase IS1207
+JAOMGKEE_01090	CDS	1077	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+JAOMGKEE_01091	CDS	840	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+JAOMGKEE_01092	CDS	1287	nadA	2.5.1.72		Quinolinate synthase A
+JAOMGKEE_01093	CDS	645				hypothetical protein
+JAOMGKEE_01094	CDS	924				hypothetical protein
+JAOMGKEE_01095	CDS	630				hypothetical protein
+JAOMGKEE_01096	CDS	345				hypothetical protein
+JAOMGKEE_01097	CDS	1059	lipM	2.3.1.181		Octanoyltransferase LipM
+JAOMGKEE_01098	CDS	414				hypothetical protein
+JAOMGKEE_01099	CDS	1296	genK_1		COG0477	Gentisate transporter
+JAOMGKEE_01100	CDS	1188	praI	1.14.13.33		4-hydroxybenzoate 3-monooxygenase (NAD(P)H)
+JAOMGKEE_01101	CDS	606	ykoE		COG4721	Putative HMP/thiamine permease protein YkoE
+JAOMGKEE_01102	CDS	1341	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+JAOMGKEE_01103	CDS	756	ykoC			Putative HMP/thiamine permease protein YkoC
+JAOMGKEE_01104	CDS	534				hypothetical protein
+JAOMGKEE_01105	CDS	1053	chaA		COG0387	Sodium-potassium/proton antiporter ChaA
+JAOMGKEE_01106	CDS	705				hypothetical protein
+JAOMGKEE_01107	CDS	726				hypothetical protein
+JAOMGKEE_01108	CDS	2343	uvrA_1			UvrABC system protein A
+JAOMGKEE_01109	CDS	498	tpx	1.11.1.15	COG2077	Thiol peroxidase
+JAOMGKEE_01110	CDS	1779				hypothetical protein
+JAOMGKEE_01111	CDS	957	yedI		COG2354	Inner membrane protein YedI
+JAOMGKEE_01112	CDS	903		1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+JAOMGKEE_01113	CDS	369				hypothetical protein
+JAOMGKEE_01114	CDS	264				hypothetical protein
+JAOMGKEE_01115	CDS	390				hypothetical protein
+JAOMGKEE_01116	CDS	837				putative peptidase
+JAOMGKEE_01117	CDS	348	arsC_1	1.20.4.1		Arsenate reductase
+JAOMGKEE_01118	CDS	1203				hypothetical protein
+JAOMGKEE_01119	CDS	540				hypothetical protein
+JAOMGKEE_01120	CDS	717				hypothetical protein
+JAOMGKEE_01121	CDS	1914	typA		COG1217	GTP-binding protein TypA/BipA
+JAOMGKEE_01122	CDS	1452			COG0747	putative monoacyl phosphatidylinositol tetramannoside-binding protein LpqW
+JAOMGKEE_01123	CDS	873	mshB	3.5.1.103		1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase
+JAOMGKEE_01124	CDS	414				hypothetical protein
+JAOMGKEE_01125	CDS	318			COG1146	Ferredoxin
+JAOMGKEE_01126	CDS	1104	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+JAOMGKEE_01127	CDS	591				hypothetical protein
+JAOMGKEE_01128	CDS	1167				hypothetical protein
+JAOMGKEE_01129	CDS	894	dapD_1	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+JAOMGKEE_01130	CDS	1392	gabP		COG1113	GABA permease
+JAOMGKEE_01131	CDS	951	dapD_2	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+JAOMGKEE_01132	CDS	1110	dapE_1	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+JAOMGKEE_01133	CDS	771				hypothetical protein
+JAOMGKEE_01134	CDS	834	folP2		COG0294	Inactive dihydropteroate synthase 2
+JAOMGKEE_01135	CDS	717	gpgS	2.4.1.266	COG0463	Glucosyl-3-phosphoglycerate synthase
+JAOMGKEE_01136	CDS	291				hypothetical protein
+JAOMGKEE_01137	CDS	168				hypothetical protein
+JAOMGKEE_01138	CDS	867	rlmAII	2.1.1.188		23S rRNA (guanine(748)-N(1))-methyltransferase
+JAOMGKEE_01139	CDS	1497	scrB_1	3.2.1.26	COG1621	Sucrose-6-phosphate hydrolase
+JAOMGKEE_01140	CDS	1161	glgM	2.4.1.342	COG0438	Alpha-maltose-1-phosphate synthase
+JAOMGKEE_01141	CDS	1254	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+JAOMGKEE_01142	CDS	642		2.1.1.-	COG4122	Putative O-methyltransferase/MSMEI_4947
+JAOMGKEE_01143	CDS	651	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+JAOMGKEE_01144	CDS	495				hypothetical protein
+JAOMGKEE_01145	CDS	471	tatB			Sec-independent protein translocase protein TatB
+JAOMGKEE_01146	CDS	1125	mrp		COG0489	Iron-sulfur cluster carrier protein
+JAOMGKEE_01147	CDS	582				hypothetical protein
+JAOMGKEE_01148	CDS	1293				hypothetical protein
+JAOMGKEE_01149	CDS	498				hypothetical protein
+JAOMGKEE_01150	CDS	669				hypothetical protein
+JAOMGKEE_01151	CDS	597				hypothetical protein
+JAOMGKEE_01152	CDS	3666	odhA		COG0508	2-oxoglutarate dehydrogenase E1/E2 component
+JAOMGKEE_01153	CDS	3744		3.6.3.-	COG1132	Multidrug efflux ATP-binding/permease protein
+JAOMGKEE_01154	CDS	720				hypothetical protein
+JAOMGKEE_01155	CDS	807	sdhL	1.1.1.25	COG0169	Shikimate dehydrogenase-like protein
+JAOMGKEE_01156	CDS	1782	pnbA	3.1.1.-	COG2272	Para-nitrobenzyl esterase
+JAOMGKEE_01157	CDS	654				hypothetical protein
+JAOMGKEE_01158	CDS	804				hypothetical protein
+JAOMGKEE_01159	CDS	528				hypothetical protein
+JAOMGKEE_01160	CDS	1161	tetA			Tetracycline resistance protein, class C
+JAOMGKEE_01161	CDS	1350	stp			Multidrug resistance protein Stp
+JAOMGKEE_01162	CDS	2238	metE_1	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+JAOMGKEE_01163	CDS	459				hypothetical protein
+JAOMGKEE_01164	CDS	1413				hypothetical protein
+JAOMGKEE_01165	CDS	327				hypothetical protein
+JAOMGKEE_01166	CDS	897				hypothetical protein
+JAOMGKEE_01167	CDS	795	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+JAOMGKEE_01168	CDS	1650				hypothetical protein
+JAOMGKEE_01169	CDS	1557	pglK	7.5.2.5	COG1132	Protein glycosylation K
+JAOMGKEE_01170	CDS	1536	cydD		COG4988	ATP-binding/permease protein CydD
+JAOMGKEE_01171	CDS	1002	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+JAOMGKEE_01172	CDS	1542	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+JAOMGKEE_01173	CDS	2916	uvrB_1			UvrABC system protein B
+JAOMGKEE_01174	CDS	396	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+JAOMGKEE_01175	CDS	768				hypothetical protein
+JAOMGKEE_01176	CDS	1407	proY		COG1113	Proline-specific permease ProY
+JAOMGKEE_01177	CDS	2199	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+JAOMGKEE_01178	CDS	690				hypothetical protein
+JAOMGKEE_01179	CDS	1593	tsdB	1.14.13.220	COG0654	putative NADH-specific resorcinol 4-hydroxylase
+JAOMGKEE_01180	CDS	1071	linF	1.3.1.-	COG1454	Maleylacetate reductase
+JAOMGKEE_01181	CDS	888	npcC_1	1.13.11.37		Hydroxyquinol 1,2-dioxygenase
+JAOMGKEE_01182	CDS	462				hypothetical protein
+JAOMGKEE_01183	CDS	543				hypothetical protein
+JAOMGKEE_01184	CDS	1575	putP		COG0591	High-affinity proline transporter PutP
+JAOMGKEE_01185	CDS	3105	rapA_2	3.6.4.-		RNA polymerase-associated protein RapA
+JAOMGKEE_01186	CDS	855				hypothetical protein
+JAOMGKEE_01187	CDS	1176				hypothetical protein
+JAOMGKEE_01188	CDS	2631				putative protein
+JAOMGKEE_01189	CDS	750	aes	3.1.1.-		Acetyl esterase
+JAOMGKEE_01190	CDS	381	atoE		COG2031	Putative short-chain fatty acid transporter
+JAOMGKEE_01191	CDS	540				hypothetical protein
+JAOMGKEE_01192	CDS	489				hypothetical protein
+JAOMGKEE_01193	CDS	216				hypothetical protein
+JAOMGKEE_01194	CDS	423				hypothetical protein
+JAOMGKEE_01195	CDS	672	fnr		COG0664	Fumarate and nitrate reduction regulatory protein
+JAOMGKEE_01196	CDS	237	copZ_1			Copper chaperone CopZ
+JAOMGKEE_01197	CDS	1878	cadA_1	3.6.3.3		Cadmium-transporting ATPase
+JAOMGKEE_01198	CDS	633	ywaC	2.7.6.5	COG2357	GTP pyrophosphokinase YwaC
+JAOMGKEE_01199	tRNA	74				tRNA-Arg(ccg)
+JAOMGKEE_01200	CDS	1584				hypothetical protein
+JAOMGKEE_01201	CDS	1653	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+JAOMGKEE_01202	CDS	1338	lysA_1	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+JAOMGKEE_01203	CDS	606				hypothetical protein
+JAOMGKEE_01204	CDS	1338	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+JAOMGKEE_01205	CDS	930	thrB	2.7.1.39	COG0083	Homoserine kinase
+JAOMGKEE_01206	CDS	693				hypothetical protein
+JAOMGKEE_01207	CDS	780	narX		COG2180	Nitrate reductase-like protein NarX
+JAOMGKEE_01208	CDS	687				hypothetical protein
+JAOMGKEE_01209	CDS	1596	narY	1.7.5.1	COG1140	Respiratory nitrate reductase 2 beta chain
+JAOMGKEE_01210	CDS	3747	narG	1.7.5.1	COG5013	Nitrate reductase alpha subunit
+JAOMGKEE_01211	CDS	1338	narK		COG2223	Nitrate/nitrite transporter NarK
+JAOMGKEE_01212	CDS	489				hypothetical protein
+JAOMGKEE_01213	CDS	1941				hypothetical protein
+JAOMGKEE_01214	CDS	1011			COG1253	putative protein
+JAOMGKEE_01215	CDS	1404				hypothetical protein
+JAOMGKEE_01216	CDS	564	mobA_1	2.7.7.77		Molybdenum cofactor guanylyltransferase
+JAOMGKEE_01217	CDS	1212				hypothetical protein
+JAOMGKEE_01218	CDS	1209	moaA2	4.1.99.22	COG2896	GTP 3',8-cyclase 2
+JAOMGKEE_01219	CDS	1728	dmdB	6.2.1.44	COG0318	3-methylmercaptopropionyl-CoA ligase
+JAOMGKEE_01220	CDS	2289	rho	3.6.4.-		Transcription termination factor Rho
+JAOMGKEE_01221	CDS	1077	prfA		COG0216	Peptide chain release factor 1
+JAOMGKEE_01222	CDS	840	prmC_1	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+JAOMGKEE_01223	CDS	651		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+JAOMGKEE_01224	CDS	1149	wecA	2.7.8.35	COG0472	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase
+JAOMGKEE_01225	CDS	450				hypothetical protein
+JAOMGKEE_01226	CDS	813	atpB		COG0356	ATP synthase subunit a
+JAOMGKEE_01227	CDS	243	atpH			ATP synthase subunit c
+JAOMGKEE_01228	CDS	567	atpF		COG0711	ATP synthase subunit b
+JAOMGKEE_01229	CDS	816	atpFH		COG0711	ATP synthase subunit b-delta
+JAOMGKEE_01230	CDS	1644	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+JAOMGKEE_01231	CDS	978	atpG		COG0224	ATP synthase gamma chain
+JAOMGKEE_01232	CDS	1452	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+JAOMGKEE_01233	CDS	375	atpC			ATP synthase epsilon chain
+JAOMGKEE_01234	CDS	474				hypothetical protein
+JAOMGKEE_01235	CDS	693	nucS	3.1.-.-	COG1637	Endonuclease NucS
+JAOMGKEE_01236	CDS	456	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+JAOMGKEE_01237	CDS	306				hypothetical protein
+JAOMGKEE_01238	CDS	924			COG3118	putative protein
+JAOMGKEE_01239	CDS	1146	ssuD_2	1.14.14.5	COG2141	Alkanesulfonate monooxygenase
+JAOMGKEE_01240	CDS	771	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+JAOMGKEE_01241	CDS	732	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+JAOMGKEE_01242	CDS	960				hypothetical protein
+JAOMGKEE_01243	CDS	2196	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+JAOMGKEE_01244	CDS	2028	glgE_2	2.4.99.16	COG0366	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+JAOMGKEE_01245	CDS	882	ylmA_1	3.6.3.-	COG1119	putative ABC transporter ATP-binding protein YlmA
+JAOMGKEE_01246	CDS	801				hypothetical protein
+JAOMGKEE_01247	CDS	1164				hypothetical protein
+JAOMGKEE_01248	CDS	789	etfB		COG2086	Electron transfer flavoprotein subunit beta
+JAOMGKEE_01249	CDS	954	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+JAOMGKEE_01250	CDS	1092	iscS_2	2.8.1.7	COG1104	IscS-like cysteine desulfurase
+JAOMGKEE_01251	CDS	315				hypothetical protein
+JAOMGKEE_01252	CDS	1149	hipA	2.7.11.1	COG3550	Serine/threonine-protein kinase toxin HipA
+JAOMGKEE_01253	CDS	222				hypothetical protein
+JAOMGKEE_01254	CDS	564				hypothetical protein
+JAOMGKEE_01255	CDS	945	speE_1	2.5.1.16		Polyamine aminopropyltransferase
+JAOMGKEE_01256	CDS	1143				hypothetical protein
+JAOMGKEE_01257	CDS	399				hypothetical protein
+JAOMGKEE_01258	CDS	1098	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+JAOMGKEE_01259	CDS	993				hypothetical protein
+JAOMGKEE_01260	CDS	1464	ribZ_1			Riboflavin transporter RibZ
+JAOMGKEE_01261	CDS	738	polC_1	2.7.7.7		DNA polymerase III PolC-type
+JAOMGKEE_01262	CDS	2043	ligA	6.5.1.2	COG0272	DNA ligase A
+JAOMGKEE_01263	CDS	666				hypothetical protein
+JAOMGKEE_01264	CDS	300	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+JAOMGKEE_01265	CDS	1494	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+JAOMGKEE_01266	CDS	852			COG2375	putative protein
+JAOMGKEE_01267	CDS	429				hypothetical protein
+JAOMGKEE_01268	CDS	1032	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase
+JAOMGKEE_01269	CDS	1110	ccpA_2		COG1609	Catabolite control protein A
+JAOMGKEE_01270	CDS	1575	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+JAOMGKEE_01271	CDS	975	rbsC_2		COG1172	Ribose import permease protein RbsC
+JAOMGKEE_01272	CDS	945	rbsB		COG1879	Ribose import binding protein RbsB
+JAOMGKEE_01273	CDS	372	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+JAOMGKEE_01274	CDS	639				hypothetical protein
+JAOMGKEE_01275	CDS	1017				hypothetical protein
+JAOMGKEE_01276	CDS	1008	panS_1		COG0385	Pantothenate precursors transporter PanS
+JAOMGKEE_01277	CDS	1506	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+JAOMGKEE_01278	CDS	681				hypothetical protein
+JAOMGKEE_01279	CDS	1086	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+JAOMGKEE_01280	CDS	711	argO		COG1279	Arginine exporter protein ArgO
+JAOMGKEE_01281	CDS	873			COG0583	putative HTH-type transcriptional regulator
+JAOMGKEE_01282	CDS	1080				hypothetical protein
+JAOMGKEE_01283	CDS	777				hypothetical protein
+JAOMGKEE_01284	CDS	1059				hypothetical protein
+JAOMGKEE_01285	CDS	1842	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+JAOMGKEE_01286	CDS	636				hypothetical protein
+JAOMGKEE_01287	CDS	1602				hypothetical protein
+JAOMGKEE_01288	CDS	1881	ilvB1	2.2.1.6	COG0028	Acetolactate synthase large subunit IlvB1
+JAOMGKEE_01289	CDS	519	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+JAOMGKEE_01290	CDS	1017	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+JAOMGKEE_01291	CDS	501	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+JAOMGKEE_01292	CDS	270	cmpD	3.6.3.-		Bicarbonate transport ATP-binding protein CmpD
+JAOMGKEE_01293	CDS	885	cmpC	3.6.3.-	COG0715	Bicarbonate transport ATP-binding protein CmpC
+JAOMGKEE_01294	CDS	264				hypothetical protein
+JAOMGKEE_01295	CDS	435				hypothetical protein
+JAOMGKEE_01296	CDS	348				hypothetical protein
+JAOMGKEE_01297	CDS	489	hsaB	1.5.1.36	COG1853	Flavin-dependent monooxygenase, reductase subunit HsaB
+JAOMGKEE_01298	CDS	975	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+JAOMGKEE_01299	CDS	1818				hypothetical protein
+JAOMGKEE_01300	CDS	1746				hypothetical protein
+JAOMGKEE_01301	CDS	1593	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+JAOMGKEE_01302	CDS	870				hypothetical protein
+JAOMGKEE_01303	CDS	1023	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+JAOMGKEE_01304	CDS	1065				hypothetical protein
+JAOMGKEE_01305	CDS	1869	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+JAOMGKEE_01306	CDS	657	polC_2	2.7.7.7		DNA polymerase III PolC-type
+JAOMGKEE_01307	CDS	807	yisK_1		COG0179	putative protein YisK
+JAOMGKEE_01308	CDS	606				hypothetical protein
+JAOMGKEE_01309	CDS	1131	menF_2	5.4.4.2	COG1169	Putative isochorismate synthase MenF
+JAOMGKEE_01310	CDS	1491	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+JAOMGKEE_01311	CDS	216				hypothetical protein
+JAOMGKEE_01312	CDS	474				hypothetical protein
+JAOMGKEE_01313	CDS	525				hypothetical protein
+JAOMGKEE_01314	CDS	543				hypothetical protein
+JAOMGKEE_01315	CDS	291				hypothetical protein
+JAOMGKEE_01316	CDS	183				hypothetical protein
+JAOMGKEE_01317	tRNA	73				tRNA-Gln(ctg)
+JAOMGKEE_01318	tRNA	74				tRNA-Glu(ctc)
+JAOMGKEE_01319	tRNA	73				tRNA-Gln(ctg)
+JAOMGKEE_01320	tRNA	74				tRNA-Glu(ctc)
+JAOMGKEE_01321	CDS	231				hypothetical protein
+JAOMGKEE_01322	tRNA	74				tRNA-Glu(ctc)
+JAOMGKEE_01323	CDS	1146				hypothetical protein
+JAOMGKEE_01324	CDS	327				hypothetical protein
+JAOMGKEE_01325	CDS	1764	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+JAOMGKEE_01326	CDS	111				hypothetical protein
+JAOMGKEE_01327	CDS	462				hypothetical protein
+JAOMGKEE_01328	CDS	2388	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+JAOMGKEE_01329	CDS	159				hypothetical protein
+JAOMGKEE_01330	CDS	1410	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+JAOMGKEE_01331	CDS	753				hypothetical protein
+JAOMGKEE_01332	CDS	480				hypothetical protein
+JAOMGKEE_01333	CDS	534				hypothetical protein
+JAOMGKEE_01334	CDS	708	kipR_2		COG1414	HTH-type transcriptional regulator KipR
+JAOMGKEE_01335	CDS	1446	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+JAOMGKEE_01336	CDS	594	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+JAOMGKEE_01337	CDS	1011	mutT1	3.6.1.55	COG0406	putative 8-oxo-dGTP diphosphatase 1
+JAOMGKEE_01338	CDS	999	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+JAOMGKEE_01339	CDS	1083	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+JAOMGKEE_01340	CDS	981				hypothetical protein
+JAOMGKEE_01341	CDS	990	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+JAOMGKEE_01342	CDS	750	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+JAOMGKEE_01343	CDS	1704				putative protein
+JAOMGKEE_01344	CDS	2124	mfd_2	3.6.4.-		Transcription-repair-coupling factor
+JAOMGKEE_01345	CDS	216				hypothetical protein
+JAOMGKEE_01346	CDS	585	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+JAOMGKEE_01347	CDS	483	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+JAOMGKEE_01348	CDS	240				hypothetical protein
+JAOMGKEE_01349	CDS	765	glnQ_1	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+JAOMGKEE_01350	CDS	951				hypothetical protein
+JAOMGKEE_01351	CDS	1005				hypothetical protein
+JAOMGKEE_01352	CDS	810				hypothetical protein
+JAOMGKEE_01353	CDS	981				hypothetical protein
+JAOMGKEE_01354	tRNA	77				tRNA-Leu(caa)
+JAOMGKEE_01355	CDS	2718	polA	2.7.7.7	COG0258	DNA polymerase I
+JAOMGKEE_01356	CDS	1401	efpA			putative MFS-type transporter EfpA
+JAOMGKEE_01357	CDS	978				hypothetical protein
+JAOMGKEE_01358	CDS	876		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+JAOMGKEE_01359	CDS	840	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JAOMGKEE_01360	CDS	1461	rpsA		COG0539	30S ribosomal protein S1
+JAOMGKEE_01361	CDS	2052	bglF		COG1263	PTS system beta-glucoside-specific EIIBCA component
+JAOMGKEE_01362	CDS	603	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+JAOMGKEE_01363	CDS	1086				hypothetical protein
+JAOMGKEE_01364	CDS	438				hypothetical protein
+JAOMGKEE_01365	CDS	237				hypothetical protein
+JAOMGKEE_01366	CDS	939	rihB_1	3.2.2.8	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihB
+JAOMGKEE_01367	CDS	1452	qacA_1		COG0477	Antiseptic resistance protein
+JAOMGKEE_01368	CDS	936	rbsK_1	2.7.1.15		Ribokinase
+JAOMGKEE_01369	CDS	1041	ccpA_3		COG1609	Catabolite control protein A
+JAOMGKEE_01370	CDS	660				hypothetical protein
+JAOMGKEE_01371	CDS	330				hypothetical protein
+JAOMGKEE_01372	CDS	2130	uvrB_2		COG0556	UvrABC system protein B
+JAOMGKEE_01373	CDS	444			COG0589	Universal stress protein
+JAOMGKEE_01374	CDS	384	yybR		COG1733	putative HTH-type transcriptional regulator YybR
+JAOMGKEE_01375	CDS	849	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2
+JAOMGKEE_01376	CDS	2268				hypothetical protein
+JAOMGKEE_01377	CDS	915				hypothetical protein
+JAOMGKEE_01378	CDS	603	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+JAOMGKEE_01379	CDS	2850	uvrA_2		COG0178	UvrABC system protein A
+JAOMGKEE_01380	CDS	2127				hypothetical protein
+JAOMGKEE_01381	CDS	570	infC		COG0290	Translation initiation factor IF-3
+JAOMGKEE_01382	CDS	195	rpmI		COG0291	50S ribosomal protein L35
+JAOMGKEE_01383	CDS	384	rplT		COG0292	50S ribosomal protein L20
+JAOMGKEE_01384	CDS	813				hypothetical protein
+JAOMGKEE_01385	CDS	492				hypothetical protein
+JAOMGKEE_01386	CDS	933	ugpA		COG1175	sn-glycerol-3-phosphate transport system permease protein UgpA
+JAOMGKEE_01387	CDS	837	araQ		COG0395	L-arabinose transport system permease protein AraQ
+JAOMGKEE_01388	CDS	1317				hypothetical protein
+JAOMGKEE_01389	CDS	1227	msiK_2	7.5.2.-	COG3839	Diacetylchitobiose uptake system ATP-binding protein MsiK
+JAOMGKEE_01390	CDS	708				hypothetical protein
+JAOMGKEE_01391	CDS	849	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+JAOMGKEE_01392	CDS	1092	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+JAOMGKEE_01393	CDS	2508	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+JAOMGKEE_01394	CDS	975				hypothetical protein
+JAOMGKEE_01395	CDS	1386				hypothetical protein
+JAOMGKEE_01396	CDS	405				hypothetical protein
+JAOMGKEE_01397	CDS	1074	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+JAOMGKEE_01398	CDS	1167	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+JAOMGKEE_01399	CDS	954	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+JAOMGKEE_01400	CDS	1176	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+JAOMGKEE_01401	CDS	960	argF_2	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+JAOMGKEE_01402	CDS	516	argR		COG1438	Arginine repressor
+JAOMGKEE_01403	CDS	1206	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+JAOMGKEE_01404	CDS	1434	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+JAOMGKEE_01405	CDS	1146				hypothetical protein
+JAOMGKEE_01406	CDS	1578				hypothetical protein
+JAOMGKEE_01407	CDS	615				hypothetical protein
+JAOMGKEE_01408	CDS	180				hypothetical protein
+JAOMGKEE_01409	CDS	1263	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+JAOMGKEE_01410	CDS	468			COG0589	Universal stress protein
+JAOMGKEE_01411	CDS	276				hypothetical protein
+JAOMGKEE_01412	rRNA	1521				16S ribosomal RNA
+JAOMGKEE_01413	rRNA	3070				23S ribosomal RNA
+JAOMGKEE_01414	rRNA	111				5S ribosomal RNA
+JAOMGKEE_01415	CDS	1305				hypothetical protein
+JAOMGKEE_01416	CDS	987		3.1.3.21	COG0647	D,L-glycerol 3-phosphate phosphatase
+JAOMGKEE_01417	CDS	165				hypothetical protein
+JAOMGKEE_01418	CDS	822	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+JAOMGKEE_01419	CDS	963	ppnK	2.7.1.23	COG0061	NAD kinase
+JAOMGKEE_01420	CDS	1782	recN		COG0497	DNA repair protein RecN
+JAOMGKEE_01421	CDS	1194				hypothetical protein
+JAOMGKEE_01422	CDS	966	mctB			Copper transporter MctB
+JAOMGKEE_01423	CDS	1665	pyrG	6.3.4.2	COG0504	CTP synthase
+JAOMGKEE_01424	CDS	660				hypothetical protein
+JAOMGKEE_01425	CDS	915	xerD		COG4974	Tyrosine recombinase XerD
+JAOMGKEE_01426	CDS	1533	yheS_1		COG0488	putative ABC transporter ATP-binding protein YheS
+JAOMGKEE_01427	CDS	873			COG1192	putative protein
+JAOMGKEE_01428	CDS	966	scpA			Segregation and condensation protein A
+JAOMGKEE_01429	CDS	564				hypothetical protein
+JAOMGKEE_01430	CDS	870	sseA_2	2.8.1.2	COG2897	3-mercaptopyruvate sulfurtransferase
+JAOMGKEE_01431	CDS	516	scpB			Segregation and condensation protein B
+JAOMGKEE_01432	CDS	963				hypothetical protein
+JAOMGKEE_01433	CDS	711	cmk	2.7.4.25	COG0283	Cytidylate kinase
+JAOMGKEE_01434	CDS	1632	der		COG1160	GTPase Der
+JAOMGKEE_01435	CDS	669				hypothetical protein
+JAOMGKEE_01436	CDS	501				hypothetical protein
+JAOMGKEE_01437	CDS	816		2.1.1.-	COG0500	putative methyltransferase
+JAOMGKEE_01438	CDS	1485	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+JAOMGKEE_01439	CDS	1770		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+JAOMGKEE_01440	CDS	807	zupT		COG0428	Zinc transporter ZupT
+JAOMGKEE_01441	CDS	1551	nhaK		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+JAOMGKEE_01442	CDS	189				hypothetical protein
+JAOMGKEE_01443	tRNA	75				tRNA-Pro(ggg)
+JAOMGKEE_01444	CDS	390				hypothetical protein
+JAOMGKEE_01445	CDS	1137				hypothetical protein
+JAOMGKEE_01446	CDS	2292	secA2		COG0653	Protein translocase subunit SecA 2
+JAOMGKEE_01447	CDS	432	odhI		COG1716	Oxoglutarate dehydrogenase inhibitor
+JAOMGKEE_01448	CDS	759			COG0789	putative HTH-type transcriptional regulator
+JAOMGKEE_01449	CDS	636				hypothetical protein
+JAOMGKEE_01450	CDS	576			COG0789	putative HTH-type transcriptional regulator
+JAOMGKEE_01451	CDS	513				hypothetical protein
+JAOMGKEE_01452	CDS	1452				hypothetical protein
+JAOMGKEE_01453	CDS	849				hypothetical protein
+JAOMGKEE_01454	CDS	1065			COG1253	putative protein
+JAOMGKEE_01455	CDS	1383				hypothetical protein
+JAOMGKEE_01456	CDS	1347	rhlE_3	3.6.4.13		ATP-dependent RNA helicase RhlE
+JAOMGKEE_01457	CDS	738	irtA	3.6.3.-	COG1132	Iron import ATP-binding/permease protein IrtA
+JAOMGKEE_01458	CDS	1455	gndA	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+JAOMGKEE_01459	CDS	465	entH	3.1.2.-		Proofreading thioesterase EntH
+JAOMGKEE_01460	CDS	585				hypothetical protein
+JAOMGKEE_01461	CDS	744	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+JAOMGKEE_01462	CDS	744				hypothetical protein
+JAOMGKEE_01463	CDS	876	murR			HTH-type transcriptional regulator MurR
+JAOMGKEE_01464	CDS	849	phnE_1		COG3639	Phosphate-import permease protein PhnE
+JAOMGKEE_01465	CDS	807	phnE_2		COG3639	Phosphate-import permease protein PhnE
+JAOMGKEE_01466	CDS	807	phnC	7.3.2.1	COG3638	Phosphate-import ATP-binding protein PhnC
+JAOMGKEE_01467	CDS	1053				hypothetical protein
+JAOMGKEE_01468	CDS	660				hypothetical protein
+JAOMGKEE_01469	CDS	2292	thiE_1	2.5.1.3		Thiamine-phosphate synthase
+JAOMGKEE_01470	CDS	807	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+JAOMGKEE_01471	CDS	1404	norW	1.18.1.-		Nitric oxide reductase FlRd-NAD(+) reductase
+JAOMGKEE_01472	CDS	1317	ufaA1	2.1.1.-	COG2230	Tuberculostearic acid methyltransferase UfaA1
+JAOMGKEE_01473	CDS	1389	yhjE_1			Inner membrane metabolite transport protein YhjE
+JAOMGKEE_01474	CDS	477	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+JAOMGKEE_01475	CDS	573	mntP		COG1971	putative manganese efflux pump MntP
+JAOMGKEE_01476	CDS	999				hypothetical protein
+JAOMGKEE_01477	CDS	486				hypothetical protein
+JAOMGKEE_01478	CDS	696				hypothetical protein
+JAOMGKEE_01479	CDS	1518	dauA_2		COG0659	C4-dicarboxylic acid transporter DauA
+JAOMGKEE_01480	CDS	618				hypothetical protein
+JAOMGKEE_01481	CDS	192				hypothetical protein
+JAOMGKEE_01482	CDS	744				hypothetical protein
+JAOMGKEE_01483	CDS	165				hypothetical protein
+JAOMGKEE_01484	CDS	399	rbpA			RNA polymerase-binding protein RbpA
+JAOMGKEE_01485	CDS	813	ppm1_2	2.4.1.-		Polyprenol monophosphomannose synthase
+JAOMGKEE_01486	CDS	1638	lnt	2.3.1.269	COG0815	Apolipoprotein N-acyltransferase
+JAOMGKEE_01487	CDS	576				hypothetical protein
+JAOMGKEE_01488	CDS	1308				hypothetical protein
+JAOMGKEE_01489	CDS	777				hypothetical protein
+JAOMGKEE_01490	CDS	1329	cobL	2.1.1.132	COG2241	Precorrin-6Y C(5,15)-methyltransferase [decarboxylating]
+JAOMGKEE_01491	CDS	369				hypothetical protein
+JAOMGKEE_01492	CDS	741		1.-.-.-	COG1028	putative oxidoreductase
+JAOMGKEE_01493	CDS	1140	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+JAOMGKEE_01494	CDS	642				hypothetical protein
+JAOMGKEE_01495	CDS	2790	helY	3.6.4.-	COG4581	putative helicase HelY
+JAOMGKEE_01496	CDS	1029	tatC		COG0805	Sec-independent protein translocase protein TatC
+JAOMGKEE_01497	CDS	318	tatA_1			Sec-independent protein translocase protein TatA
+JAOMGKEE_01498	CDS	984	pafC		COG2378	Protein PafC
+JAOMGKEE_01499	CDS	975	pafB		COG2378	Protein PafB
+JAOMGKEE_01500	CDS	1440	pafA	6.3.1.19		Pup--protein ligase
+JAOMGKEE_01501	CDS	195	pup			Prokaryotic ubiquitin-like protein Pup
+JAOMGKEE_01502	CDS	1545	dop	3.4.-.-		Pup deamidase/depupylase
+JAOMGKEE_01503	CDS	1575	mpa		COG0464	Proteasome-associated ATPase
+JAOMGKEE_01504	CDS	837	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+JAOMGKEE_01505	CDS	1263	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+JAOMGKEE_01506	CDS	837				hypothetical protein
+JAOMGKEE_01507	CDS	261	ybaQ		COG3093	putative HTH-type transcriptional regulator YbaQ
+JAOMGKEE_01508	CDS	1212	yhhS			putative MFS-type transporter YhhS
+JAOMGKEE_01509	CDS	1581	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+JAOMGKEE_01510	CDS	846	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+JAOMGKEE_01511	CDS	273	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+JAOMGKEE_01512	CDS	696		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+JAOMGKEE_01513	CDS	3666	metH	2.1.1.13	COG0646	Methionine synthase
+JAOMGKEE_01514	CDS	537				hypothetical protein
+JAOMGKEE_01515	CDS	1026	czcO	1.-.-.-	COG2072	putative oxidoreductase CzcO
+JAOMGKEE_01516	CDS	360				hypothetical protein
+JAOMGKEE_01517	CDS	1113	acr3_2		COG0798	Arsenical-resistance protein Acr3
+JAOMGKEE_01518	CDS	423	arsC1	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC1
+JAOMGKEE_01519	CDS	642	arsC_2	1.20.4.4		Arsenate reductase
+JAOMGKEE_01520	CDS	381				hypothetical protein
+JAOMGKEE_01521	CDS	1263	mshC	6.3.1.13	COG0215	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+JAOMGKEE_01522	CDS	882	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+JAOMGKEE_01523	CDS	939	yajO_2	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+JAOMGKEE_01524	CDS	912				hypothetical protein
+JAOMGKEE_01525	CDS	1116	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+JAOMGKEE_01526	CDS	354				hypothetical protein
+JAOMGKEE_01527	CDS	810				hypothetical protein
+JAOMGKEE_01528	CDS	1161				hypothetical protein
+JAOMGKEE_01529	CDS	435				hypothetical protein
+JAOMGKEE_01530	CDS	534				hypothetical protein
+JAOMGKEE_01531	CDS	1800	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_01532	CDS	1611				hypothetical protein
+JAOMGKEE_01533	tRNA	87				tRNA-Leu(gag)
+JAOMGKEE_01534	tRNA	87				tRNA-Leu(gag)
+JAOMGKEE_01535	CDS	354				hypothetical protein
+JAOMGKEE_01536	CDS	612				hypothetical protein
+JAOMGKEE_01537	CDS	1092		3.6.-.-	COG1703	putative GTPase
+JAOMGKEE_01538	CDS	2214	mutB	5.4.99.2	COG1884	putative methylmalonyl-CoA mutase large subunit
+JAOMGKEE_01539	CDS	1851	mutA	5.4.99.2	COG1884	putative methylmalonyl-CoA mutase small subunit
+JAOMGKEE_01540	CDS	726				hypothetical protein
+JAOMGKEE_01541	CDS	600				hypothetical protein
+JAOMGKEE_01542	CDS	1299			COG0330	putative protein
+JAOMGKEE_01543	CDS	429				hypothetical protein
+JAOMGKEE_01544	CDS	846				hypothetical protein
+JAOMGKEE_01545	CDS	786				hypothetical protein
+JAOMGKEE_01546	CDS	1158	hemH	4.99.1.1	COG0276	Ferrochelatase
+JAOMGKEE_01547	CDS	1893				hypothetical protein
+JAOMGKEE_01548	CDS	501				hypothetical protein
+JAOMGKEE_01549	CDS	2820	acn	4.2.1.3	COG1048	Aconitate hydratase A
+JAOMGKEE_01550	CDS	567	acnR		COG1309	HTH-type transcriptional repressor AcnR
+JAOMGKEE_01551	CDS	759				hypothetical protein
+JAOMGKEE_01552	CDS	666	yhfK_2	4.-.-.-	COG0702	putative sugar epimerase YhfK
+JAOMGKEE_01553	CDS	255				hypothetical protein
+JAOMGKEE_01554	CDS	270				hypothetical protein
+JAOMGKEE_01555	CDS	1389				hypothetical protein
+JAOMGKEE_01556	CDS	2679	ctpF	3.6.3.-	COG0474	putative cation-transporting ATPase F
+JAOMGKEE_01557	CDS	492				hypothetical protein
+JAOMGKEE_01558	CDS	1632	yheS_2		COG0488	putative ABC transporter ATP-binding protein YheS
+JAOMGKEE_01559	CDS	1455				hypothetical protein
+JAOMGKEE_01560	CDS	1200	nedA_1	3.2.1.18		Sialidase
+JAOMGKEE_01561	CDS	711				IS6 family transposase IS1628
+JAOMGKEE_01562	CDS	588				hypothetical protein
+JAOMGKEE_01563	CDS	414				hypothetical protein
+JAOMGKEE_01564	CDS	450	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+JAOMGKEE_01565	CDS	1266	csd	2.8.1.7	COG0520	putative cysteine desulfurase
+JAOMGKEE_01566	CDS	759	sufC		COG0396	Vegetative protein 296
+JAOMGKEE_01567	CDS	1179				hypothetical protein
+JAOMGKEE_01568	CDS	1446				hypothetical protein
+JAOMGKEE_01569	CDS	687				hypothetical protein
+JAOMGKEE_01570	CDS	1809		2.4.1.-		Alpha-(1->6)-mannopyranosyltransferase
+JAOMGKEE_01571	CDS	1023	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+JAOMGKEE_01572	CDS	807				hypothetical protein
+JAOMGKEE_01573	CDS	1041	ctaA	1.3.-.-		Heme A synthase
+JAOMGKEE_01574	CDS	2352				hypothetical protein
+JAOMGKEE_01575	CDS	987	qorA	1.6.5.5	COG0604	Quinone oxidoreductase 1
+JAOMGKEE_01576	CDS	957	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+JAOMGKEE_01577	CDS	183				hypothetical protein
+JAOMGKEE_01578	CDS	2094	tkt	2.2.1.1	COG0021	Transketolase
+JAOMGKEE_01579	CDS	1083	tal	2.2.1.2	COG0176	Transaldolase
+JAOMGKEE_01580	CDS	1545	zwf2	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase 2
+JAOMGKEE_01581	CDS	960				hypothetical protein
+JAOMGKEE_01582	CDS	708	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+JAOMGKEE_01583	CDS	408				hypothetical protein
+JAOMGKEE_01584	CDS	1404				IS1380 family transposase IS1677
+JAOMGKEE_01585	CDS	843	soxA	1.5.3.1		Monomeric sarcosine oxidase
+JAOMGKEE_01586	CDS	1149	sbnB	1.5.1.51	COG2423	N-((2S)-2-amino-2-carboxyethyl)-L-glutamate dehydrogenase
+JAOMGKEE_01587	CDS	1359	amt_1			Ammonia channel
+JAOMGKEE_01588	CDS	234	secG		COG1314	putative protein-export membrane protein SecG
+JAOMGKEE_01589	CDS	2760	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+JAOMGKEE_01590	CDS	780	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+JAOMGKEE_01591	CDS	1218	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+JAOMGKEE_01592	CDS	1005	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+JAOMGKEE_01593	CDS	984	whiA		COG1481	putative cell division protein WhiA
+JAOMGKEE_01594	CDS	1026			COG0391	Putative gluconeogenesis factor
+JAOMGKEE_01595	CDS	930			COG1660	Nucleotide-binding protein
+JAOMGKEE_01596	CDS	2091	uvrC		COG0322	UvrABC system protein C
+JAOMGKEE_01597	CDS	582				hypothetical protein
+JAOMGKEE_01598	CDS	480	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+JAOMGKEE_01599	CDS	1269	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+JAOMGKEE_01600	CDS	636	ribE	2.5.1.9	COG0307	Riboflavin synthase
+JAOMGKEE_01601	CDS	987	ribD		COG0117	Riboflavin biosynthesis protein RibD
+JAOMGKEE_01602	CDS	660	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+JAOMGKEE_01603	CDS	1536		2.1.1.-	COG0144	Putative methyltransferase
+JAOMGKEE_01604	CDS	948	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+JAOMGKEE_01605	CDS	510	def_1	3.5.1.88	COG0242	Peptide deformylase
+JAOMGKEE_01606	CDS	2067	priA	3.6.4.-	COG1198	putative primosomal protein N'
+JAOMGKEE_01607	CDS	1224	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+JAOMGKEE_01608	CDS	1263	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+JAOMGKEE_01609	CDS	288	rpoZ	2.7.7.6	COG1758	DNA-directed RNA polymerase subunit omega
+JAOMGKEE_01610	CDS	573	gmk	2.7.4.8	COG0194	Guanylate kinase
+JAOMGKEE_01611	CDS	321				hypothetical protein
+JAOMGKEE_01612	CDS	837	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+JAOMGKEE_01613	CDS	3342	carB_2	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+JAOMGKEE_01614	CDS	1182	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+JAOMGKEE_01615	CDS	1344	pyrC	3.5.2.3	COG0044	Dihydroorotase
+JAOMGKEE_01616	CDS	939	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+JAOMGKEE_01617	CDS	579	pyrR		COG2065	Bifunctional protein PyrR
+JAOMGKEE_01618	CDS	1527				hypothetical protein
+JAOMGKEE_01619	CDS	480				hypothetical protein
+JAOMGKEE_01620	CDS	465				hypothetical protein
+JAOMGKEE_01621	CDS	189				hypothetical protein
+JAOMGKEE_01622	CDS	684	nusB			Transcription antitermination protein NusB
+JAOMGKEE_01623	CDS	564	efp		COG0231	Elongation factor P
+JAOMGKEE_01624	CDS	1092	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+JAOMGKEE_01625	CDS	1098	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+JAOMGKEE_01626	CDS	573	aroK	2.7.1.71	COG0703	Shikimate kinase
+JAOMGKEE_01627	CDS	1233	aroC	4.2.3.5	COG0082	Chorismate synthase
+JAOMGKEE_01628	CDS	414				hypothetical protein
+JAOMGKEE_01629	CDS	306				hypothetical protein
+JAOMGKEE_01630	CDS	1077	hmuU_3		COG0609	Hemin transport system permease protein HmuU
+JAOMGKEE_01631	CDS	960				hypothetical protein
+JAOMGKEE_01632	CDS	756	hmuV_2	3.6.3.-	COG4559	Hemin import ATP-binding protein HmuV
+JAOMGKEE_01633	CDS	831	aroE_2	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+JAOMGKEE_01634	CDS	1170	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+JAOMGKEE_01635	CDS	549		3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+JAOMGKEE_01636	CDS	2667	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+JAOMGKEE_01637	CDS	1380			COG2256	putative AAA domain-containing protein
+JAOMGKEE_01638	CDS	1200				hypothetical protein
+JAOMGKEE_01639	CDS	1827	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+JAOMGKEE_01640	CDS	906				hypothetical protein
+JAOMGKEE_01641	CDS	2679	rapA_3	3.6.4.-		RNA polymerase-associated protein RapA
+JAOMGKEE_01642	CDS	1860				hypothetical protein
+JAOMGKEE_01643	CDS	651				hypothetical protein
+JAOMGKEE_01644	CDS	597				hypothetical protein
+JAOMGKEE_01645	CDS	717				hypothetical protein
+JAOMGKEE_01646	CDS	1116				hypothetical protein
+JAOMGKEE_01647	CDS	129				hypothetical protein
+JAOMGKEE_01648	CDS	498				hypothetical protein
+JAOMGKEE_01649	CDS	1350	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+JAOMGKEE_01650	CDS	1725	glpD2	1.1.5.3	COG0578	Glycerol-3-phosphate dehydrogenase 2
+JAOMGKEE_01651	CDS	1290	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+JAOMGKEE_01652	CDS	642		3.-.-.-		putative protein
+JAOMGKEE_01653	CDS	843	ppiB	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase B
+JAOMGKEE_01654	CDS	558				putative protein/cg1859
+JAOMGKEE_01655	CDS	276				hypothetical protein
+JAOMGKEE_01656	CDS	2283	relA		COG0317	Bifunctional (p)ppGpp synthase/hydrolase RelA
+JAOMGKEE_01657	CDS	558	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+JAOMGKEE_01658	CDS	1602			COG0747	putative lipoprotein
+JAOMGKEE_01659	CDS	1212	secF		COG0341	Protein translocase subunit SecF
+JAOMGKEE_01660	CDS	1914	secD		COG0342	Protein translocase subunit SecD
+JAOMGKEE_01661	CDS	366				hypothetical protein
+JAOMGKEE_01662	CDS	1092	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+JAOMGKEE_01663	CDS	621	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+JAOMGKEE_01664	CDS	666	ruvC	3.1.22.4		Crossover junction endodeoxyribonuclease RuvC
+JAOMGKEE_01665	CDS	756			COG0217	putative transcriptional regulatory protein
+JAOMGKEE_01666	CDS	849	tesB	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+JAOMGKEE_01667	CDS	477				hypothetical protein
+JAOMGKEE_01668	CDS	465				hypothetical protein
+JAOMGKEE_01669	CDS	1086	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+JAOMGKEE_01670	CDS	966		2.3.1.265	COG1560	Phosphatidylinositol mannoside acyltransferase
+JAOMGKEE_01671	CDS	660		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+JAOMGKEE_01672	CDS	687		2.7.7.53	COG0537	AP-4-A phosphorylase
+JAOMGKEE_01673	CDS	2061	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+JAOMGKEE_01674	CDS	1209	efeN	1.11.1.-	COG2837	putative deferrochelatase/peroxidase EfeN
+JAOMGKEE_01675	CDS	549				hypothetical protein
+JAOMGKEE_01676	CDS	615				hypothetical protein
+JAOMGKEE_01677	tRNA	74				tRNA-Gly(gcc)
+JAOMGKEE_01678	tRNA	75				tRNA-Val(gac)
+JAOMGKEE_01679	tRNA	72				tRNA-Cys(gca)
+JAOMGKEE_01680	tRNA	74				tRNA-Gly(gcc)
+JAOMGKEE_01681	tRNA	75				tRNA-Val(gac)
+JAOMGKEE_01682	tRNA	74				tRNA-Gly(gcc)
+JAOMGKEE_01683	CDS	240				hypothetical protein
+JAOMGKEE_01684	CDS	435				hypothetical protein
+JAOMGKEE_01685	CDS	348				hypothetical protein
+JAOMGKEE_01686	CDS	339				hypothetical protein
+JAOMGKEE_01687	CDS	699				hypothetical protein
+JAOMGKEE_01688	CDS	1161	aftC	2.4.2.47		Alpha-(1->3)-arabinofuranosyltransferase
+JAOMGKEE_01689	CDS	411	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+JAOMGKEE_01690	CDS	699			COG3253	putative protein/MSMEI_2713
+JAOMGKEE_01691	CDS	618				hypothetical protein
+JAOMGKEE_01692	CDS	1212	rnd	3.1.13.5		Ribonuclease D
+JAOMGKEE_01693	CDS	1911	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+JAOMGKEE_01694	CDS	1239	rlmD	2.1.1.190	COG2265	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+JAOMGKEE_01695	CDS	864				hypothetical protein
+JAOMGKEE_01696	CDS	450	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+JAOMGKEE_01697	CDS	552				hypothetical protein
+JAOMGKEE_01698	CDS	210				hypothetical protein
+JAOMGKEE_01699	CDS	294				hypothetical protein
+JAOMGKEE_01700	CDS	843	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase SuhB
+JAOMGKEE_01701	CDS	753	ppgK	2.7.1.63	COG1940	Polyphosphate glucokinase
+JAOMGKEE_01702	CDS	1485	rpoD			RNA polymerase sigma factor RpoD
+JAOMGKEE_01703	CDS	105				hypothetical protein
+JAOMGKEE_01704	CDS	1338				hypothetical protein
+JAOMGKEE_01705	CDS	540				hypothetical protein
+JAOMGKEE_01706	CDS	1713				hypothetical protein
+JAOMGKEE_01707	CDS	240				hypothetical protein
+JAOMGKEE_01708	CDS	498				hypothetical protein
+JAOMGKEE_01709	CDS	1536	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+JAOMGKEE_01710	CDS	435	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+JAOMGKEE_01711	CDS	996	sigB		COG0568	RNA polymerase sigma factor SigB
+JAOMGKEE_01712	CDS	687	dtxR			Diphtheria toxin repressor
+JAOMGKEE_01713	CDS	990	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+JAOMGKEE_01714	CDS	1134				hypothetical protein
+JAOMGKEE_01715	CDS	171				hypothetical protein
+JAOMGKEE_01716	CDS	960				hypothetical protein
+JAOMGKEE_01717	CDS	2553				hypothetical protein
+JAOMGKEE_01718	CDS	984	oxyR			putative hydrogen peroxide-inducible genes activator
+JAOMGKEE_01719	CDS	1092				hypothetical protein
+JAOMGKEE_01720	CDS	3909				hypothetical protein
+JAOMGKEE_01721	CDS	453	nrdR		COG1327	Transcriptional repressor NrdR
+JAOMGKEE_01722	CDS	423				hypothetical protein
+JAOMGKEE_01723	CDS	762	lexA	3.4.21.88	COG1974	LexA repressor
+JAOMGKEE_01724	CDS	780	lacR			Lactose phosphotransferase system repressor
+JAOMGKEE_01725	CDS	963				hypothetical protein
+JAOMGKEE_01726	CDS	1698	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+JAOMGKEE_01727	CDS	795	glpR_2		COG1349	Glycerol-3-phosphate regulon repressor
+JAOMGKEE_01728	CDS	993	pfkB	2.7.1.11	COG1105	ATP-dependent 6-phosphofructokinase isozyme 2
+JAOMGKEE_01729	CDS	2067	fruA		COG1299	PTS system fructose-specific EIIABC component
+JAOMGKEE_01730	CDS	270	ptsH			Phosphocarrier protein HPr
+JAOMGKEE_01731	CDS	528				hypothetical protein
+JAOMGKEE_01732	CDS	1290	rutG		COG2233	Putative pyrimidine permease RutG
+JAOMGKEE_01733	CDS	1530	hflX		COG2262	GTPase HflX
+JAOMGKEE_01734	CDS	759				hypothetical protein
+JAOMGKEE_01735	CDS	540				hypothetical protein
+JAOMGKEE_01736	CDS	828	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+JAOMGKEE_01737	CDS	906	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+JAOMGKEE_01738	CDS	651				hypothetical protein
+JAOMGKEE_01739	CDS	1362				putative protein/MSMEI_2664
+JAOMGKEE_01740	CDS	1026				hypothetical protein
+JAOMGKEE_01741	CDS	660				hypothetical protein
+JAOMGKEE_01742	CDS	1581	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+JAOMGKEE_01743	CDS	753	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+JAOMGKEE_01744	CDS	888	glnH		COG0834	ABC transporter glutamine-binding protein GlnH
+JAOMGKEE_01745	CDS	687	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+JAOMGKEE_01746	CDS	948				hypothetical protein
+JAOMGKEE_01747	CDS	600	recX			Regulatory protein RecX
+JAOMGKEE_01748	CDS	1131	recA		COG0468	Protein RecA
+JAOMGKEE_01749	CDS	216				hypothetical protein
+JAOMGKEE_01750	CDS	681				hypothetical protein
+JAOMGKEE_01751	CDS	606	bioY		COG1268	Biotin transporter BioY
+JAOMGKEE_01752	CDS	693	bioM	3.6.3.-	COG1122	Biotin transport ATP-binding protein BioM
+JAOMGKEE_01753	CDS	612	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+JAOMGKEE_01754	CDS	831			COG1842	35 kDa protein
+JAOMGKEE_01755	CDS	324				hypothetical protein
+JAOMGKEE_01756	CDS	519	cinA			Putative competence-damage inducible protein
+JAOMGKEE_01757	CDS	606	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+JAOMGKEE_01758	CDS	288				hypothetical protein
+JAOMGKEE_01759	CDS	1110			COG0861	putative membrane protein
+JAOMGKEE_01760	CDS	102				hypothetical protein
+JAOMGKEE_01761	CDS	3033				hypothetical protein
+JAOMGKEE_01762	CDS	636				hypothetical protein
+JAOMGKEE_01763	CDS	2157	rnj	3.1.-.-		Ribonuclease J
+JAOMGKEE_01764	CDS	906	dapA_1	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+JAOMGKEE_01765	CDS	753	thyX	2.1.1.148	COG1351	Flavin-dependent thymidylate synthase
+JAOMGKEE_01766	CDS	747	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+JAOMGKEE_01767	CDS	702				hypothetical protein
+JAOMGKEE_01768	CDS	2262	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+JAOMGKEE_01769	CDS	270	rpsO			30S ribosomal protein S15
+JAOMGKEE_01770	CDS	951	rihA	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+JAOMGKEE_01771	CDS	1026	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+JAOMGKEE_01772	CDS	894	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+JAOMGKEE_01773	CDS	654	npt	2.7.8.7		4'-phosphopantetheinyl transferase Npt
+JAOMGKEE_01774	CDS	807				hypothetical protein
+JAOMGKEE_01775	CDS	1308	dinF		COG0534	DNA damage-inducible protein F
+JAOMGKEE_01776	CDS	999	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+JAOMGKEE_01777	CDS	450	rbfA		COG0858	Ribosome-binding factor A
+JAOMGKEE_01778	CDS	3015	infB			Translation initiation factor IF-2
+JAOMGKEE_01779	CDS	339				hypothetical protein
+JAOMGKEE_01780	CDS	999	nusA		COG0195	Transcription termination/antitermination protein NusA
+JAOMGKEE_01781	CDS	1257				hypothetical protein
+JAOMGKEE_01782	CDS	1605	dppE		COG4166	Dipeptide-binding protein DppE
+JAOMGKEE_01783	CDS	927	dppB		COG0601	Dipeptide transport system permease protein DppB
+JAOMGKEE_01784	CDS	1035	oppC		COG1173	Oligopeptide transport system permease protein OppC
+JAOMGKEE_01785	CDS	1734	gsiA_1	7.4.2.10	COG1123	Glutathione import ATP-binding protein GsiA
+JAOMGKEE_01786	CDS	1767	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+JAOMGKEE_01787	CDS	738				hypothetical protein
+JAOMGKEE_01788	CDS	747			COG1239	putative protein
+JAOMGKEE_01789	CDS	1104			COG1239	putative protein
+JAOMGKEE_01790	CDS	753	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+JAOMGKEE_01791	CDS	1425	selO	2.7.7.-	COG0397	Protein adenylyltransferase SelO
+JAOMGKEE_01792	CDS	921				hypothetical protein
+JAOMGKEE_01793	CDS	1503	mqo	1.1.5.4	COG0579	Malate:quinone oxidoreductase
+JAOMGKEE_01794	CDS	246				hypothetical protein
+JAOMGKEE_01795	CDS	1017				hypothetical protein
+JAOMGKEE_01796	CDS	1398	mtr	1.8.1.15	COG1249	Mycothione reductase
+JAOMGKEE_01797	CDS	348				hypothetical protein
+JAOMGKEE_01798	CDS	360				hypothetical protein
+JAOMGKEE_01799	CDS	732				hypothetical protein
+JAOMGKEE_01800	CDS	885	map	3.4.11.18	COG0024	Methionine aminopeptidase 2
+JAOMGKEE_01801	CDS	1842	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+JAOMGKEE_01802	CDS	633	liaR_1		COG2197	Transcriptional regulatory protein LiaR
+JAOMGKEE_01803	CDS	1134				hypothetical protein
+JAOMGKEE_01804	CDS	960				hypothetical protein
+JAOMGKEE_01805	CDS	693	macB_1	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+JAOMGKEE_01806	CDS	1182	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+JAOMGKEE_01807	CDS	1215	rip1	3.4.24.-		Zinc metalloprotease Rip1
+JAOMGKEE_01808	CDS	1179	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+JAOMGKEE_01809	CDS	444				hypothetical protein
+JAOMGKEE_01810	CDS	1581				hypothetical protein
+JAOMGKEE_01811	CDS	858	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_01812	CDS	1101	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+JAOMGKEE_01813	CDS	501				hypothetical protein
+JAOMGKEE_01814	CDS	894	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+JAOMGKEE_01815	CDS	558	frr		COG0233	Ribosome-recycling factor
+JAOMGKEE_01816	CDS	732	pyrH	2.7.4.22	COG0528	Uridylate kinase
+JAOMGKEE_01817	CDS	828	tsf		COG0264	Elongation factor Ts
+JAOMGKEE_01818	CDS	819	rpsB		COG0052	30S ribosomal protein S2
+JAOMGKEE_01819	CDS	495				hypothetical protein
+JAOMGKEE_01820	CDS	948	xerC		COG0582	Tyrosine recombinase XerC
+JAOMGKEE_01821	CDS	1185	dprA		COG0758	Putative DNA processing protein DprA
+JAOMGKEE_01822	CDS	1524	comM		COG0606	Competence protein ComM
+JAOMGKEE_01823	CDS	369				hypothetical protein
+JAOMGKEE_01824	CDS	306				putative protein
+JAOMGKEE_01825	CDS	669	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+JAOMGKEE_01826	CDS	789	lepB	3.4.21.89	COG0681	Signal peptidase I
+JAOMGKEE_01827	CDS	945	yfiY_2		COG0614	putative siderophore-binding lipoprotein YfiY
+JAOMGKEE_01828	CDS	342	rplS		COG0335	50S ribosomal protein L19
+JAOMGKEE_01829	CDS	666	thiE_2	2.5.1.3	COG0352	Thiamine-phosphate synthase
+JAOMGKEE_01830	CDS	1125	hcnC	1.4.99.5	COG0665	Hydrogen cyanide synthase subunit HcnC
+JAOMGKEE_01831	CDS	198				hypothetical protein
+JAOMGKEE_01832	CDS	783	thiG	2.8.1.10	COG2022	Thiazole synthase
+JAOMGKEE_01833	CDS	1077	moeZ_2		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+JAOMGKEE_01834	CDS	2277	yhgF		COG2183	Protein YhgF
+JAOMGKEE_01835	CDS	978	kdgR		COG1609	HTH-type transcriptional regulator KdgR
+JAOMGKEE_01836	CDS	1332	yflS		COG0471	Putative malate transporter YflS
+JAOMGKEE_01837	CDS	144				hypothetical protein
+JAOMGKEE_01838	CDS	1209	pcaB_1	5.5.1.2	COG0015	3-carboxy-cis,cis-muconate cycloisomerase
+JAOMGKEE_01839	CDS	372				hypothetical protein
+JAOMGKEE_01840	CDS	693				hypothetical protein
+JAOMGKEE_01841	CDS	870	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+JAOMGKEE_01842	CDS	651				hypothetical protein
+JAOMGKEE_01843	CDS	546	rimM		COG0806	Ribosome maturation factor RimM
+JAOMGKEE_01844	CDS	351				hypothetical protein
+JAOMGKEE_01845	CDS	498				hypothetical protein
+JAOMGKEE_01846	CDS	477				hypothetical protein
+JAOMGKEE_01847	CDS	870				hypothetical protein
+JAOMGKEE_01848	CDS	879	btuD_7	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_01849	CDS	1644	ffh		COG0541	Signal recognition particle protein
+JAOMGKEE_01850	CDS	2079	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+JAOMGKEE_01851	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+JAOMGKEE_01852	CDS	1317	amt_2			Ammonia channel
+JAOMGKEE_01853	CDS	1767	ftsY			Signal recognition particle receptor FtsY
+JAOMGKEE_01854	CDS	3375				hypothetical protein
+JAOMGKEE_01855	CDS	3468	smc		COG1196	Chromosome partition protein Smc
+JAOMGKEE_01856	CDS	285	acyP	3.6.1.7	COG1254	Acylphosphatase
+JAOMGKEE_01857	CDS	1857				hypothetical protein
+JAOMGKEE_01858	CDS	783				hypothetical protein
+JAOMGKEE_01859	CDS	810				hypothetical protein
+JAOMGKEE_01860	CDS	93				hypothetical protein
+JAOMGKEE_01861	CDS	450				hypothetical protein
+JAOMGKEE_01862	CDS	618				hypothetical protein
+JAOMGKEE_01863	CDS	861	fpg1	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase 1
+JAOMGKEE_01864	CDS	744	rnc	3.1.26.3	COG0571	Ribonuclease 3
+JAOMGKEE_01865	CDS	537			COG1399	putative protein
+JAOMGKEE_01866	CDS	792			COG3599	putative protein
+JAOMGKEE_01867	CDS	1626	btuD_8	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_01868	CDS	1533			COG1132	putative ABC transporter ATP-binding/permease protein
+JAOMGKEE_01869	CDS	1344	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+JAOMGKEE_01870	CDS	1224	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+JAOMGKEE_01871	CDS	444				hypothetical protein
+JAOMGKEE_01872	CDS	1287				hypothetical protein
+JAOMGKEE_01873	CDS	1266	hipO	3.5.1.32	COG1473	Hippurate hydrolase
+JAOMGKEE_01874	CDS	339				hypothetical protein
+JAOMGKEE_01875	CDS	279				hypothetical protein
+JAOMGKEE_01876	CDS	2553	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+JAOMGKEE_01877	CDS	903	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+JAOMGKEE_01878	CDS	1428	pyk	2.7.1.40	COG0469	Pyruvate kinase
+JAOMGKEE_01879	CDS	951	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+JAOMGKEE_01880	CDS	786	trpC_1	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+JAOMGKEE_01881	CDS	660				hypothetical protein
+JAOMGKEE_01882	CDS	357	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+JAOMGKEE_01883	CDS	777	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+JAOMGKEE_01884	CDS	813	impA	3.1.3.25	COG0483	putative inositol 1-monophosphatase ImpA
+JAOMGKEE_01885	CDS	741	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+JAOMGKEE_01886	CDS	636	hisH	4.3.2.10		Imidazole glycerol phosphate synthase subunit HisH
+JAOMGKEE_01887	CDS	1269				hypothetical protein
+JAOMGKEE_01888	CDS	228				hypothetical protein
+JAOMGKEE_01889	CDS	609	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+JAOMGKEE_01890	CDS	1101	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+JAOMGKEE_01891	CDS	1329	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+JAOMGKEE_01892	CDS	1203				hypothetical protein
+JAOMGKEE_01893	CDS	654				hypothetical protein
+JAOMGKEE_01894	CDS	645				hypothetical protein
+JAOMGKEE_01895	CDS	576	tetR			Tetracycline repressor protein class A from transposon 1721
+JAOMGKEE_01896	CDS	2511	glgX	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+JAOMGKEE_01897	CDS	804				hypothetical protein
+JAOMGKEE_01898	CDS	777	otnI	5.3.1.35	COG3622	2-oxo-tetronate isomerase
+JAOMGKEE_01899	CDS	1014	iolG_3	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+JAOMGKEE_01900	CDS	999	galR		COG1609	HTH-type transcriptional regulator GalR
+JAOMGKEE_01901	CDS	801	fepC_2		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+JAOMGKEE_01902	CDS	1041	hmuU_4		COG0609	Hemin transport system permease protein HmuU
+JAOMGKEE_01903	CDS	990	btuF			Vitamin B12-binding protein
+JAOMGKEE_01904	CDS	444				hypothetical protein
+JAOMGKEE_01905	CDS	1404	dinG_1	3.1.-.-		3'-5' exonuclease DinG
+JAOMGKEE_01906	CDS	609				hypothetical protein
+JAOMGKEE_01907	CDS	2436	treY	5.4.99.15	COG3280	Putative maltooligosyl trehalose synthase
+JAOMGKEE_01908	CDS	1026				hypothetical protein
+JAOMGKEE_01909	CDS	132				hypothetical protein
+JAOMGKEE_01910	CDS	375				hypothetical protein
+JAOMGKEE_01911	CDS	1041				hypothetical protein
+JAOMGKEE_01912	CDS	1047	luxA	1.14.14.3	COG2141	Alkanal monooxygenase alpha chain
+JAOMGKEE_01913	CDS	381	hslR		COG1188	Heat shock protein 15
+JAOMGKEE_01914	CDS	228				hypothetical protein
+JAOMGKEE_01915	CDS	654	yigZ		COG1739	IMPACT family member YigZ
+JAOMGKEE_01916	CDS	1725	treZ	3.2.1.141	COG0296	Malto-oligosyltrehalose trehalohydrolase
+JAOMGKEE_01917	CDS	1296	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+JAOMGKEE_01918	CDS	510				hypothetical protein
+JAOMGKEE_01919	CDS	1206	metE_2	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+JAOMGKEE_01920	CDS	3516	dnaE1	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+JAOMGKEE_01921	CDS	843	rarD		COG2962	Protein RarD
+JAOMGKEE_01922	CDS	471				hypothetical protein
+JAOMGKEE_01923	CDS	987				hypothetical protein
+JAOMGKEE_01924	CDS	888	yghA	1.-.-.-		putative oxidoreductase YghA
+JAOMGKEE_01925	CDS	2637	lysA_2	4.1.1.20		Diaminopimelate decarboxylase
+JAOMGKEE_01926	CDS	954	sbnA	2.5.1.140		N-(2-amino-2-carboxyethyl)-L-glutamate synthase
+JAOMGKEE_01927	CDS	582				hypothetical protein
+JAOMGKEE_01928	CDS	933		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+JAOMGKEE_01929	CDS	582	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+JAOMGKEE_01930	CDS	1005				hypothetical protein
+JAOMGKEE_01931	CDS	1653	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+JAOMGKEE_01932	CDS	603				hypothetical protein
+JAOMGKEE_01933	CDS	978	ansA	3.5.1.1	COG0252	putative L-asparaginase
+JAOMGKEE_01934	CDS	1611				hypothetical protein
+JAOMGKEE_01935	CDS	1404	dinB1	2.7.7.7	COG0389	DNA polymerase IV 1
+JAOMGKEE_01936	CDS	861	rhtA_2		COG5006	Threonine/homoserine exporter RhtA
+JAOMGKEE_01937	CDS	1005				hypothetical protein
+JAOMGKEE_01938	CDS	630				hypothetical protein
+JAOMGKEE_01939	CDS	3165	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+JAOMGKEE_01940	CDS	162				hypothetical protein
+JAOMGKEE_01941	CDS	1098				hypothetical protein
+JAOMGKEE_01942	CDS	288				hypothetical protein
+JAOMGKEE_01943	CDS	459	sepF			Cell division protein SepF
+JAOMGKEE_01944	CDS	705			COG0325	Pyridoxal phosphate homeostasis protein
+JAOMGKEE_01945	CDS	741		1.10.3.-	COG1496	Polyphenol oxidase
+JAOMGKEE_01946	CDS	1329	ftsZ			Cell division protein FtsZ
+JAOMGKEE_01947	CDS	669	ftsQ		COG1589	Cell division protein FtsQ
+JAOMGKEE_01948	CDS	1461	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+JAOMGKEE_01949	CDS	1092	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+JAOMGKEE_01950	CDS	1653	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+JAOMGKEE_01951	CDS	1419	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+JAOMGKEE_01952	CDS	1101	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+JAOMGKEE_01953	CDS	1545	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+JAOMGKEE_01954	CDS	1566	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+JAOMGKEE_01955	CDS	2115	pbpB		COG0768	Penicillin-binding protein PbpB
+JAOMGKEE_01956	CDS	798				hypothetical protein
+JAOMGKEE_01957	CDS	1014	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+JAOMGKEE_01958	CDS	432	mraZ		COG2001	Transcriptional regulator MraZ
+JAOMGKEE_01959	CDS	390				hypothetical protein
+JAOMGKEE_01960	CDS	426				hypothetical protein
+JAOMGKEE_01961	CDS	573				hypothetical protein
+JAOMGKEE_01962	CDS	981	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+JAOMGKEE_01963	CDS	1101		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+JAOMGKEE_01964	CDS	1530	mptA	2.4.1.-		Alpha-(1->6)-mannopyranosyltransferase A
+JAOMGKEE_01965	CDS	372				DNA-binding protein
+JAOMGKEE_01966	CDS	2223	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+JAOMGKEE_01967	CDS	1239		2.4.1.-		Polyprenol-phosphate-mannose-dependent alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase
+JAOMGKEE_01968	CDS	1311		2.4.1.-		Polyprenol-phosphate-mannose-dependent alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase
+JAOMGKEE_01969	CDS	1401	aroG_2	2.5.1.54	COG3200	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+JAOMGKEE_01970	CDS	507		3.1.13.-		3'-5' exoribonuclease
+JAOMGKEE_01971	CDS	2439				hypothetical protein
+JAOMGKEE_01972	CDS	1452				hypothetical protein
+JAOMGKEE_01973	CDS	180				hypothetical protein
+JAOMGKEE_01974	CDS	1254				hypothetical protein
+JAOMGKEE_01975	CDS	804				hypothetical protein
+JAOMGKEE_01976	CDS	972	glkA	2.7.1.2		Glucokinase
+JAOMGKEE_01977	CDS	1146	pimB	2.4.1.346	COG0438	GDP-mannose-dependent monoacylated alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+JAOMGKEE_01978	CDS	1020				hypothetical protein
+JAOMGKEE_01979	CDS	630		3.4.-.-		putative endopeptidase
+JAOMGKEE_01980	CDS	1620	qcrB	7.1.1.8	COG1290	Cytochrome bc1 complex cytochrome b subunit
+JAOMGKEE_01981	CDS	1284	qcrA		COG0723	Cytochrome bc1 complex Rieske iron-sulfur subunit
+JAOMGKEE_01982	CDS	927	qcrC	7.1.1.8	COG2010	Cytochrome bc1 complex cytochrome c subunit
+JAOMGKEE_01983	CDS	591	ctaE	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+JAOMGKEE_01984	CDS	138				hypothetical protein
+JAOMGKEE_01985	CDS	432	ctaF	1.9.3.1		Cytochrome c oxidase polypeptide 4
+JAOMGKEE_01986	CDS	1080	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+JAOMGKEE_01987	CDS	1923	asnB	6.3.5.4	COG0367	Putative asparagine synthetase [glutamine-hydrolyzing]
+JAOMGKEE_01988	CDS	345				Protein
+JAOMGKEE_01989	CDS	801				putative protein
+JAOMGKEE_01990	CDS	525	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+JAOMGKEE_01991	CDS	1077	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+JAOMGKEE_01992	CDS	924	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+JAOMGKEE_01993	CDS	183				hypothetical protein
+JAOMGKEE_01994	CDS	780		1.-.-.-	COG4221	putative oxidoreductase
+JAOMGKEE_01995	CDS	1104	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+JAOMGKEE_01996	CDS	1542	pepA	3.4.11.1	COG0260	putative cytosol aminopeptidase
+JAOMGKEE_01997	CDS	396				hypothetical protein
+JAOMGKEE_01998	CDS	2028	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+JAOMGKEE_01999	CDS	756	lipB	2.3.1.181	COG0321	Octanoyltransferase
+JAOMGKEE_02000	CDS	1047	lipA	2.8.1.8	COG0320	Lipoyl synthase
+JAOMGKEE_02001	CDS	783				putative protein
+JAOMGKEE_02002	CDS	1620	aspT_2			Aspartate/alanine antiporter
+JAOMGKEE_02003	CDS	1611				hypothetical protein
+JAOMGKEE_02004	CDS	474				hypothetical protein
+JAOMGKEE_02005	CDS	1434	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+JAOMGKEE_02006	CDS	168				hypothetical protein
+JAOMGKEE_02007	CDS	402				hypothetical protein
+JAOMGKEE_02008	CDS	537				hypothetical protein
+JAOMGKEE_02009	CDS	909			COG2141	putative protein
+JAOMGKEE_02010	CDS	360	yabJ_2	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+JAOMGKEE_02011	CDS	1446	thrC	4.2.3.1	COG0498	Threonine synthase
+JAOMGKEE_02012	CDS	219				hypothetical protein
+JAOMGKEE_02013	CDS	1227	sauU			putative sulfoacetate transporter SauU
+JAOMGKEE_02014	CDS	495				hypothetical protein
+JAOMGKEE_02015	CDS	384				hypothetical protein
+JAOMGKEE_02016	CDS	408				hypothetical protein
+JAOMGKEE_02017	CDS	483				hypothetical protein
+JAOMGKEE_02018	CDS	648	hmuO	1.14.14.18		Heme oxygenase
+JAOMGKEE_02019	CDS	3138	glnE		COG1391	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+JAOMGKEE_02020	CDS	1341	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+JAOMGKEE_02021	CDS	1107				hypothetical protein
+JAOMGKEE_02022	CDS	1818				hypothetical protein
+JAOMGKEE_02023	CDS	183				hypothetical protein
+JAOMGKEE_02024	CDS	1296	galK	2.7.1.6		Galactokinase
+JAOMGKEE_02025	CDS	1518	rnr	3.1.13.1		Ribonuclease R
+JAOMGKEE_02026	CDS	1149			COG0328	Bifunctional protein
+JAOMGKEE_02027	CDS	720				hypothetical protein
+JAOMGKEE_02028	CDS	1143			COG0327	GTP cyclohydrolase 1 type 2 
+JAOMGKEE_02029	CDS	657			COG0546	putative protein
+JAOMGKEE_02030	CDS	501	ptpA	3.1.3.48	COG0394	putative low molecular weight protein-tyrosine-phosphatase
+JAOMGKEE_02031	CDS	1002				hypothetical protein
+JAOMGKEE_02032	CDS	246				hypothetical protein
+JAOMGKEE_02033	CDS	513				hypothetical protein
+JAOMGKEE_02034	CDS	201				hypothetical protein
+JAOMGKEE_02035	tRNA	74				tRNA-Val(tac)
+JAOMGKEE_02036	CDS	432				putative protein
+JAOMGKEE_02037	CDS	2769	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+JAOMGKEE_02038	CDS	792	opuCA		COG1125	Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+JAOMGKEE_02039	CDS	891				hypothetical protein
+JAOMGKEE_02040	CDS	993				hypothetical protein
+JAOMGKEE_02041	CDS	801				hypothetical protein
+JAOMGKEE_02042	CDS	1017	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+JAOMGKEE_02043	CDS	294	acpP			Acyl carrier protein
+JAOMGKEE_02044	CDS	828	hdpA	3.1.3.-		Dihydroxyacetone phosphatase
+JAOMGKEE_02045	CDS	1035				hypothetical protein
+JAOMGKEE_02046	CDS	429				hypothetical protein
+JAOMGKEE_02047	CDS	810				hypothetical protein
+JAOMGKEE_02048	CDS	459				hypothetical protein
+JAOMGKEE_02049	CDS	768				hypothetical protein
+JAOMGKEE_02050	CDS	546				hypothetical protein
+JAOMGKEE_02051	CDS	429				hypothetical protein
+JAOMGKEE_02052	CDS	345				hypothetical protein
+JAOMGKEE_02053	tRNA	77				tRNA-Met(cat)
+JAOMGKEE_02054	CDS	1551	pld	3.1.4.4		Phospholipase D
+JAOMGKEE_02055	tRNA	74				tRNA-Asn(gtt)
+JAOMGKEE_02056	tRNA	74				tRNA-Asn(gtt)
+JAOMGKEE_02057	CDS	1929		3.2.1.28	COG3387	Trehalase
+JAOMGKEE_02058	CDS	243				hypothetical protein
+JAOMGKEE_02059	CDS	1902	dnaG	2.7.7.-	COG0358	DNA primase
+JAOMGKEE_02060	CDS	495				hypothetical protein
+JAOMGKEE_02061	CDS	246				hypothetical protein
+JAOMGKEE_02062	CDS	1878	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+JAOMGKEE_02063	CDS	174				hypothetical protein
+JAOMGKEE_02064	CDS	1275	dgt		COG0232	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+JAOMGKEE_02065	CDS	603				hypothetical protein
+JAOMGKEE_02066	CDS	2055				hypothetical protein
+JAOMGKEE_02067	CDS	489				hypothetical protein
+JAOMGKEE_02068	CDS	564				hypothetical protein
+JAOMGKEE_02069	CDS	1386	glyQS	6.1.1.14	COG0423	Glycine--tRNA ligase
+JAOMGKEE_02070	CDS	372				hypothetical protein
+JAOMGKEE_02071	CDS	435	zur		COG0735	Zinc uptake regulation protein
+JAOMGKEE_02072	CDS	1554				hypothetical protein
+JAOMGKEE_02073	CDS	1074				hypothetical protein
+JAOMGKEE_02074	CDS	732	uppS_2	2.5.1.86	COG0020	Decaprenyl diphosphate synthase
+JAOMGKEE_02075	CDS	729	recO		COG1381	DNA repair protein RecO
+JAOMGKEE_02076	CDS	999	era		COG1159	GTPase Era
+JAOMGKEE_02077	CDS	1323				hypothetical protein
+JAOMGKEE_02078	CDS	591	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+JAOMGKEE_02079	CDS	1020			COG1702	PhoH-like protein
+JAOMGKEE_02080	CDS	726	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+JAOMGKEE_02081	CDS	1149	dnaJ2		COG0484	Chaperone protein DnaJ 2
+JAOMGKEE_02082	CDS	1029	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+JAOMGKEE_02083	CDS	1143	hemW		COG0635	Heme chaperone HemW
+JAOMGKEE_02084	CDS	513				hypothetical protein
+JAOMGKEE_02085	CDS	681				hypothetical protein
+JAOMGKEE_02086	CDS	381				hypothetical protein
+JAOMGKEE_02087	CDS	1848		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+JAOMGKEE_02088	CDS	2121	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+JAOMGKEE_02089	CDS	1866		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+JAOMGKEE_02090	CDS	141				hypothetical protein
+JAOMGKEE_02091	CDS	207				hypothetical protein
+JAOMGKEE_02092	CDS	2037	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+JAOMGKEE_02093	CDS	1182				hypothetical protein
+JAOMGKEE_02094	CDS	1815	treS	3.2.1.1	COG0366	Trehalose synthase/amylase TreS
+JAOMGKEE_02095	CDS	1092		2.7.1.8		Glucosamine kinase
+JAOMGKEE_02096	CDS	588	idi	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+JAOMGKEE_02097	CDS	1758				hypothetical protein
+JAOMGKEE_02098	CDS	567				hypothetical protein
+JAOMGKEE_02099	CDS	522				hypothetical protein
+JAOMGKEE_02100	CDS	1107	metC	4.4.1.13	COG1168	Cystathionine beta-lyase
+JAOMGKEE_02101	CDS	1281	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+JAOMGKEE_02102	CDS	981				hypothetical protein
+JAOMGKEE_02103	CDS	1848	ectP		COG1292	Ectoine/glycine betaine/proline transporter EctP
+JAOMGKEE_02104	CDS	525				hypothetical protein
+JAOMGKEE_02105	CDS	915				hypothetical protein
+JAOMGKEE_02106	CDS	2847			COG0247	putative protein
+JAOMGKEE_02107	CDS	723	rspR		COG1802	HTH-type transcriptional repressor RspR
+JAOMGKEE_02108	CDS	258				hypothetical protein
+JAOMGKEE_02109	CDS	1350				hypothetical protein
+JAOMGKEE_02110	CDS	384				hypothetical protein
+JAOMGKEE_02111	CDS	1512	gsiB		COG0747	Glutathione-binding protein GsiB
+JAOMGKEE_02112	CDS	969	gsiC_1		COG0601	Glutathione transport system permease protein GsiC
+JAOMGKEE_02113	CDS	831	gsiD		COG1173	Glutathione transport system permease protein GsiD
+JAOMGKEE_02114	CDS	1440	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+JAOMGKEE_02115	CDS	552	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+JAOMGKEE_02116	CDS	906	rbsK_2	2.7.1.15		Ribokinase
+JAOMGKEE_02117	CDS	1428				hypothetical protein
+JAOMGKEE_02118	CDS	975	panS_2		COG0385	Pantothenate precursors transporter PanS
+JAOMGKEE_02119	CDS	816	yeaD	5.1.3.15	COG0676	Putative glucose-6-phosphate 1-epimerase
+JAOMGKEE_02120	CDS	2220	glcB	2.3.3.9	COG2225	Malate synthase G
+JAOMGKEE_02121	CDS	1299	aceA	4.1.3.1	COG2224	Isocitrate lyase
+JAOMGKEE_02122	CDS	573				hypothetical protein
+JAOMGKEE_02123	CDS	591				hypothetical protein
+JAOMGKEE_02124	CDS	1893	lcoP		COG1292	Betaine/ectoine transporter LcoP
+JAOMGKEE_02125	CDS	282				hypothetical protein
+JAOMGKEE_02126	CDS	999				hypothetical protein
+JAOMGKEE_02127	CDS	1605				hypothetical protein
+JAOMGKEE_02128	CDS	387				hypothetical protein
+JAOMGKEE_02129	CDS	1314	siaM		COG1593	Sialic acid TRAP transporter large permease protein SiaM
+JAOMGKEE_02130	CDS	525	siaQ		COG3090	Sialic acid TRAP transporter small permease protein SiaQ
+JAOMGKEE_02131	CDS	657	dctP		COG1638	Solute-binding protein
+JAOMGKEE_02132	CDS	1848	lepA	3.6.5.-	COG0481	Elongation factor 4
+JAOMGKEE_02133	CDS	612				hypothetical protein
+JAOMGKEE_02134	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+JAOMGKEE_02135	CDS	672	rhtC_2		COG1280	Threonine efflux protein
+JAOMGKEE_02136	CDS	402				hypothetical protein
+JAOMGKEE_02137	CDS	978				hypothetical protein
+JAOMGKEE_02138	CDS	1665				hypothetical protein
+JAOMGKEE_02139	CDS	654				hypothetical protein
+JAOMGKEE_02140	CDS	825			COG1307	DegV domain-containing protein/cg2579
+JAOMGKEE_02141	CDS	711	gpgP	3.1.3.85	COG0406	Glucosyl-3-phosphoglycerate phosphatase
+JAOMGKEE_02142	CDS	474	rsfS			Ribosomal silencing factor RsfS
+JAOMGKEE_02143	CDS	657	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+JAOMGKEE_02144	CDS	1026				hypothetical protein
+JAOMGKEE_02145	CDS	1299	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+JAOMGKEE_02146	CDS	915	ghrA	1.1.1.81		Glyoxylate/hydroxypyruvate reductase A
+JAOMGKEE_02147	CDS	1383	proB	2.7.2.11		Glutamate 5-kinase
+JAOMGKEE_02148	CDS	1506	obg	3.6.5.-	COG0536	GTPase Obg
+JAOMGKEE_02149	CDS	1980				hypothetical protein
+JAOMGKEE_02150	CDS	918	dkgA	1.1.1.346		2,5-diketo-D-gluconic acid reductase A
+JAOMGKEE_02151	CDS	624				hypothetical protein
+JAOMGKEE_02152	CDS	273				hypothetical protein
+JAOMGKEE_02153	CDS	267	rpmA		COG0211	50S ribosomal protein L27
+JAOMGKEE_02154	CDS	306	rplU		COG0261	50S ribosomal protein L21
+JAOMGKEE_02155	CDS	3066	rne	3.1.26.12		Ribonuclease E
+JAOMGKEE_02156	CDS	738				hypothetical protein
+JAOMGKEE_02157	CDS	612				hypothetical protein
+JAOMGKEE_02158	CDS	1311				ISL3 family transposase IS1207
+JAOMGKEE_02159	CDS	381				hypothetical protein
+JAOMGKEE_02160	CDS	453				hypothetical protein
+JAOMGKEE_02161	CDS	411	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+JAOMGKEE_02162	CDS	321				hypothetical protein
+JAOMGKEE_02163	CDS	345				hypothetical protein
+JAOMGKEE_02164	CDS	468				hypothetical protein
+JAOMGKEE_02165	CDS	426				hypothetical protein
+JAOMGKEE_02166	CDS	1524	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+JAOMGKEE_02167	CDS	2712	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+JAOMGKEE_02168	CDS	1578	oppA		COG4166	Oligopeptide-binding protein OppA
+JAOMGKEE_02169	CDS	1455	hscA			Chaperone protein HscA
+JAOMGKEE_02170	CDS	588		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+JAOMGKEE_02171	CDS	987	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+JAOMGKEE_02172	CDS	318				hypothetical protein
+JAOMGKEE_02173	CDS	780				hypothetical protein
+JAOMGKEE_02174	CDS	579				hypothetical protein
+JAOMGKEE_02175	CDS	1131	tsaM1	1.14.14.-		Toluene-4-sulfonate monooxygenase system iron-sulfur subunit TsaM1
+JAOMGKEE_02176	CDS	978	pcpD	1.1.1.404	COG1018	Tetrachlorobenzoquinone reductase
+JAOMGKEE_02177	CDS	1341	pcaK		COG0477	4-hydroxybenzoate transporter PcaK
+JAOMGKEE_02178	CDS	933				hypothetical protein
+JAOMGKEE_02179	CDS	1281	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+JAOMGKEE_02180	CDS	1089				hypothetical protein
+JAOMGKEE_02181	CDS	636	scoB	2.8.3.5	COG2057	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+JAOMGKEE_02182	CDS	744	scoA	2.8.3.5	COG1788	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+JAOMGKEE_02183	CDS	768	pcaR		COG1414	Pca regulon regulatory protein
+JAOMGKEE_02184	CDS	1227	bktB	2.3.1.16	COG0183	Beta-ketothiolase BktB
+JAOMGKEE_02185	CDS	756	catD	3.1.1.24	COG0596	3-oxoadipate enol-lactonase 2
+JAOMGKEE_02186	CDS	2064				hypothetical protein
+JAOMGKEE_02187	CDS	369				hypothetical protein
+JAOMGKEE_02188	CDS	1119	pcaB_2	5.5.1.2	COG0015	3-carboxy-cis,cis-muconate cycloisomerase
+JAOMGKEE_02189	CDS	615	pcaG	1.13.11.3	COG3485	Protocatechuate 3,4-dioxygenase alpha chain
+JAOMGKEE_02190	CDS	693	pcaH	1.13.11.3	COG3485	Protocatechuate 3,4-dioxygenase beta chain
+JAOMGKEE_02191	CDS	1161				hypothetical protein
+JAOMGKEE_02192	CDS	294	catC	5.3.3.4	COG4829	Muconolactone Delta-isomerase
+JAOMGKEE_02193	CDS	1164	catB	5.5.1.1	COG4948	Muconate cycloisomerase 1
+JAOMGKEE_02194	CDS	858	clcA_2	1.13.11.-		Chlorocatechol 1,2-dioxygenase
+JAOMGKEE_02195	CDS	1494	cbdA	1.14.12.13		2-halobenzoate 1,2-dioxygenase large subunit
+JAOMGKEE_02196	CDS	495	cbdB	1.14.12.13		2-halobenzoate 1,2-dioxygenase small subunit
+JAOMGKEE_02197	CDS	1539	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+JAOMGKEE_02198	CDS	831	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+JAOMGKEE_02199	CDS	2688				hypothetical protein
+JAOMGKEE_02200	CDS	1341	genK_2		COG0477	Gentisate transporter
+JAOMGKEE_02201	CDS	1245	ydcO		COG3135	Inner membrane protein YdcO
+JAOMGKEE_02202	CDS	627	clpP2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit 2
+JAOMGKEE_02203	CDS	594	clpP1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit 1
+JAOMGKEE_02204	CDS	1350	tig	5.2.1.8	COG0544	Trigger factor
+JAOMGKEE_02205	tRNA	75				tRNA-Pro(tgg)
+JAOMGKEE_02206	CDS	573				hypothetical protein
+JAOMGKEE_02207	CDS	1029				hypothetical protein
+JAOMGKEE_02208	CDS	459				hypothetical protein
+JAOMGKEE_02209	tRNA	73				tRNA-Gly(tcc)
+JAOMGKEE_02210	CDS	252				hypothetical protein
+JAOMGKEE_02211	CDS	441				IS256 family transposase ISCur2
+JAOMGKEE_02212	CDS	153				hypothetical protein
+JAOMGKEE_02213	CDS	210				hypothetical protein
+JAOMGKEE_02214	CDS	222				hypothetical protein
+JAOMGKEE_02215	CDS	840				hypothetical protein
+JAOMGKEE_02216	CDS	474	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+JAOMGKEE_02217	CDS	699				hypothetical protein
+JAOMGKEE_02218	CDS	612				Thioredoxin-like reductase
+JAOMGKEE_02219	CDS	2604	pepN	3.4.11.2		Aminopeptidase N
+JAOMGKEE_02220	CDS	1086				hypothetical protein
+JAOMGKEE_02221	CDS	1155				hypothetical protein
+JAOMGKEE_02222	CDS	669				hypothetical protein
+JAOMGKEE_02223	CDS	159				hypothetical protein
+JAOMGKEE_02224	CDS	330				hypothetical protein
+JAOMGKEE_02225	CDS	1188				hypothetical protein
+JAOMGKEE_02226	CDS	864				hypothetical protein
+JAOMGKEE_02227	CDS	1122	yfcJ_2			putative MFS-type transporter YfcJ
+JAOMGKEE_02228	CDS	1236				hypothetical protein
+JAOMGKEE_02229	CDS	1644	gsiA_2	7.4.2.10	COG1123	Glutathione import ATP-binding protein GsiA
+JAOMGKEE_02230	CDS	885	ddpC		COG1173	putative D,D-dipeptide transport system permease protein DdpC
+JAOMGKEE_02231	CDS	942	gsiC_2		COG0601	Glutathione transport system permease protein GsiC
+JAOMGKEE_02232	CDS	1710				hypothetical protein
+JAOMGKEE_02233	CDS	1944				hypothetical protein
+JAOMGKEE_02234	CDS	1371	bauA	2.6.1.18	COG0161	Beta-alanine--pyruvate aminotransferase
+JAOMGKEE_02235	CDS	1554				hypothetical protein
+JAOMGKEE_02236	CDS	750			COG0586	putative membrane protein
+JAOMGKEE_02237	CDS	711				hypothetical protein
+JAOMGKEE_02238	CDS	741				hypothetical protein
+JAOMGKEE_02239	CDS	1161	metB_1	2.5.1.48	COG0626	Cystathionine gamma-synthase
+JAOMGKEE_02240	CDS	786	ylmA_2	3.6.3.-	COG1119	putative ABC transporter ATP-binding protein YlmA
+JAOMGKEE_02241	CDS	396	glbO		COG2346	Group 2 truncated hemoglobin GlbO
+JAOMGKEE_02242	CDS	1131	srpC		COG2059	putative chromate transport protein
+JAOMGKEE_02243	CDS	630				hypothetical protein
+JAOMGKEE_02244	CDS	468				hypothetical protein
+JAOMGKEE_02245	CDS	624				hypothetical protein
+JAOMGKEE_02246	CDS	1671	ettA_3		COG0488	Energy-dependent translational throttle protein EttA
+JAOMGKEE_02247	CDS	618				Single-stranded DNA-binding protein
+JAOMGKEE_02248	CDS	2154				hypothetical protein
+JAOMGKEE_02249	tRNA	76				tRNA-Arg(tct)
+JAOMGKEE_02250	CDS	1422	phoB	3.1.3.1	COG1785	Alkaline phosphatase 3
+JAOMGKEE_02251	tRNA	75				tRNA-His(gtg)
+JAOMGKEE_02252	CDS	642				hypothetical protein
+JAOMGKEE_02253	CDS	915	ngcG		COG0395	Diacetylchitobiose uptake system permease protein NgcG
+JAOMGKEE_02254	CDS	846	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+JAOMGKEE_02255	CDS	1332				hypothetical protein
+JAOMGKEE_02256	CDS	1245				hypothetical protein
+JAOMGKEE_02257	CDS	1131	msiK_3	7.5.2.-	COG3839	Diacetylchitobiose uptake system ATP-binding protein MsiK
+JAOMGKEE_02258	CDS	687				hypothetical protein
+JAOMGKEE_02259	CDS	744				hypothetical protein
+JAOMGKEE_02260	CDS	693				hypothetical protein
+JAOMGKEE_02261	CDS	564				hypothetical protein
+JAOMGKEE_02262	CDS	627	geoB_2	1.2.1.86		Geranial dehydrogenase
+JAOMGKEE_02263	CDS	879	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+JAOMGKEE_02264	CDS	1185	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+JAOMGKEE_02265	CDS	753	hyi	5.3.1.22	COG3622	Hydroxypyruvate isomerase
+JAOMGKEE_02266	CDS	801				hypothetical protein
+JAOMGKEE_02267	CDS	660	orn	3.1.-.-	COG1949	Oligoribonuclease
+JAOMGKEE_02268	CDS	1245				hypothetical protein
+JAOMGKEE_02269	CDS	1212	lppS	2.3.2.-	COG1376	Putative L,D-transpeptidase LppS
+JAOMGKEE_02270	tRNA	76				tRNA-Lys(ctt)
+JAOMGKEE_02271	tRNA	74				tRNA-Lys(ctt)
+JAOMGKEE_02272	CDS	648				hypothetical protein
+JAOMGKEE_02273	CDS	153				hypothetical protein
+JAOMGKEE_02274	CDS	1311				ISL3 family transposase IS1207
+JAOMGKEE_02275	CDS	210				hypothetical protein
+JAOMGKEE_02276	CDS	642				hypothetical protein
+JAOMGKEE_02277	CDS	1242	glsA	3.5.1.2		Glutaminase
+JAOMGKEE_02278	CDS	456	cytR_1		COG1609	HTH-type transcriptional repressor CytR
+JAOMGKEE_02279	CDS	417	cytR_2		COG1609	HTH-type transcriptional repressor CytR
+JAOMGKEE_02280	CDS	1578	uxaC	5.3.1.12		Uronate isomerase
+JAOMGKEE_02281	CDS	504	gntK	2.7.1.12	COG3265	Thermoresistant gluconokinase
+JAOMGKEE_02282	CDS	1167				hypothetical protein
+JAOMGKEE_02283	CDS	561	pncA	3.5.1.19	COG1335	Nicotinamidase/pyrazinamidase
+JAOMGKEE_02284	CDS	276				hypothetical protein
+JAOMGKEE_02285	CDS	597		1.11.1.15		Peroxiredoxin
+JAOMGKEE_02286	CDS	666				hypothetical protein
+JAOMGKEE_02287	CDS	408	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+JAOMGKEE_02288	CDS	1428	ribZ_2			Riboflavin transporter RibZ
+JAOMGKEE_02289	CDS	306				hypothetical protein
+JAOMGKEE_02290	CDS	408				hypothetical protein
+JAOMGKEE_02291	CDS	8991				hypothetical protein
+JAOMGKEE_02292	CDS	237				hypothetical protein
+JAOMGKEE_02293	CDS	1185				hypothetical protein
+JAOMGKEE_02294	CDS	576				hypothetical protein
+JAOMGKEE_02295	tRNA	83				tRNA-Leu(tag)
+JAOMGKEE_02296	CDS	465				hypothetical protein
+JAOMGKEE_02297	CDS	357				putative protein
+JAOMGKEE_02298	CDS	621		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+JAOMGKEE_02299	CDS	738	rph	2.7.7.56	COG0689	Ribonuclease PH
+JAOMGKEE_02300	CDS	213				hypothetical protein
+JAOMGKEE_02301	CDS	696				hypothetical protein
+JAOMGKEE_02302	CDS	582				IS6 family transposase ISCgl2
+JAOMGKEE_02303	CDS	1365			COG4325	putative protein
+JAOMGKEE_02304	CDS	537				IS6 family transposase ISCgl3
+JAOMGKEE_02305	CDS	663				hypothetical protein
+JAOMGKEE_02306	CDS	768			COG1234	putative protein
+JAOMGKEE_02307	CDS	852	murI	5.1.1.3	COG0796	Glutamate racemase
+JAOMGKEE_02308	CDS	621				hypothetical protein
+JAOMGKEE_02309	CDS	495				hypothetical protein
+JAOMGKEE_02310	CDS	750				hypothetical protein
+JAOMGKEE_02311	CDS	915		3.4.11.-	COG3191	putative aminopeptidase
+JAOMGKEE_02312	CDS	540				putative protein
+JAOMGKEE_02313	CDS	375	clpS			ATP-dependent Clp protease adapter protein ClpS
+JAOMGKEE_02314	CDS	552				hypothetical protein
+JAOMGKEE_02315	CDS	1341	pncB1	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB1
+JAOMGKEE_02316	CDS	1998	dinG_2	3.6.4.12	COG1199	putative ATP-dependent helicase DinG 
+JAOMGKEE_02317	CDS	894				hypothetical protein
+JAOMGKEE_02318	CDS	726				hypothetical protein
+JAOMGKEE_02319	CDS	1341	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+JAOMGKEE_02320	CDS	1755	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+JAOMGKEE_02321	CDS	1005	nrdF2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+JAOMGKEE_02322	CDS	489	ftnA	1.16.3.2		Bacterial non-heme ferritin
+JAOMGKEE_02323	CDS	753	nanR			HTH-type transcriptional repressor NanR
+JAOMGKEE_02324	CDS	663				hypothetical protein
+JAOMGKEE_02325	CDS	279				hypothetical protein
+JAOMGKEE_02326	CDS	2106	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+JAOMGKEE_02327	CDS	447	nrdI		COG1780	Protein NrdI
+JAOMGKEE_02328	CDS	234	nrdH		COG0695	Glutaredoxin-like protein NrdH
+JAOMGKEE_02329	CDS	123	ykgO		COG0257	50S ribosomal protein L36 2
+JAOMGKEE_02330	CDS	834	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+JAOMGKEE_02331	CDS	708				hypothetical protein
+JAOMGKEE_02332	CDS	414				hypothetical protein
+JAOMGKEE_02333	CDS	1134	acuI	1.3.1.84	COG0604	putative acrylyl-CoA reductase AcuI
+JAOMGKEE_02334	CDS	1374	prpD	4.2.1.79	COG2079	2-methylcitrate dehydratase
+JAOMGKEE_02335	CDS	837				hypothetical protein
+JAOMGKEE_02336	tRNA	74				tRNA-Ala(ggc)
+JAOMGKEE_02337	CDS	726				hypothetical protein
+JAOMGKEE_02338	CDS	1665	pgm	5.4.2.2	COG0033	Phosphoglucomutase
+JAOMGKEE_02339	CDS	327	crcB			Putative fluoride ion transporter CrcB
+JAOMGKEE_02340	CDS	795		4.2.1.-	COG4336	Putative hydro-lyase
+JAOMGKEE_02341	CDS	1368				IS1380 family transposase ISCgl4
+JAOMGKEE_02342	CDS	1623				hypothetical protein
+JAOMGKEE_02343	CDS	357				hypothetical protein
+JAOMGKEE_02344	CDS	450				hypothetical protein
+JAOMGKEE_02345	CDS	1404				IS1380 family transposase IS1677
+JAOMGKEE_02346	CDS	717				hypothetical protein
+JAOMGKEE_02347	CDS	1389	gltP		COG1301	Proton/glutamate-aspartate symporter
+JAOMGKEE_02348	CDS	2562				hypothetical protein
+JAOMGKEE_02349	CDS	855	btuD_9	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_02350	rRNA	111				5S ribosomal RNA
+JAOMGKEE_02351	rRNA	3071				23S ribosomal RNA
+JAOMGKEE_02352	rRNA	1521				16S ribosomal RNA
+JAOMGKEE_02353	CDS	681				hypothetical protein
+JAOMGKEE_02354	CDS	675	rifL	1.1.1.-		Putative UDP-kanosamine synthase oxidoreductase subunit
+JAOMGKEE_02355	CDS	528				hypothetical protein
+JAOMGKEE_02356	rRNA	111				5S ribosomal RNA
+JAOMGKEE_02357	rRNA	3071				23S ribosomal RNA
+JAOMGKEE_02358	rRNA	1521				16S ribosomal RNA
+JAOMGKEE_02359	CDS	171				hypothetical protein
+JAOMGKEE_02360	CDS	1257	murA_2	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+JAOMGKEE_02361	CDS	573		2.5.1.17	COG2096	Corrinoid adenosyltransferase
+JAOMGKEE_02362	CDS	846	ramA		COG2771	HTH-type transcriptional activator RamA
+JAOMGKEE_02363	CDS	297				hypothetical protein
+JAOMGKEE_02364	CDS	936	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+JAOMGKEE_02365	CDS	600	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+JAOMGKEE_02366	CDS	291				hypothetical protein
+JAOMGKEE_02367	tRNA	76				tRNA-Phe(gaa)
+JAOMGKEE_02368	tRNA	75				tRNA-Asp(gtc)
+JAOMGKEE_02369	CDS	885	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+JAOMGKEE_02370	CDS	1197	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+JAOMGKEE_02371	tRNA	75				tRNA-Asp(gtc)
+JAOMGKEE_02372	tRNA	74				tRNA-Glu(ttc)
+JAOMGKEE_02373	CDS	738				hypothetical protein
+JAOMGKEE_02374	CDS	822				hypothetical protein
+JAOMGKEE_02375	tRNA	74				tRNA-Lys(ttt)
+JAOMGKEE_02376	CDS	1509		2.8.3.18		Succinyl-CoA:acetate CoA-transferase
+JAOMGKEE_02377	CDS	111				hypothetical protein
+JAOMGKEE_02378	CDS	1146	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+JAOMGKEE_02379	CDS	735	phoU2		COG0704	Phosphate-specific transport system accessory protein PhoU 
+JAOMGKEE_02380	CDS	774	pstB1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 1
+JAOMGKEE_02381	CDS	924	pstA1		COG0581	Phosphate transport system permease protein PstA 1
+JAOMGKEE_02382	CDS	1068	pstC2		COG0573	Phosphate transport system permease protein PstC 2
+JAOMGKEE_02383	CDS	1128	pstS3		COG0226	Phosphate-binding protein PstS 3
+JAOMGKEE_02384	CDS	879	mshD	2.3.1.189	COG0456	Mycothiol acetyltransferase
+JAOMGKEE_02385	CDS	762				hypothetical protein
+JAOMGKEE_02386	CDS	1077	dagK	2.7.1.107		Diacylglycerol kinase
+JAOMGKEE_02387	CDS	690				hypothetical protein
+JAOMGKEE_02388	CDS	945				hypothetical protein
+JAOMGKEE_02389	CDS	1122	ygfZ			tRNA-modifying protein YgfZ
+JAOMGKEE_02390	CDS	216				hypothetical protein
+JAOMGKEE_02391	CDS	1611				hypothetical protein
+JAOMGKEE_02392	CDS	1173	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+JAOMGKEE_02393	CDS	1512	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+JAOMGKEE_02394	CDS	378				hypothetical protein
+JAOMGKEE_02395	CDS	1020				hypothetical protein
+JAOMGKEE_02396	CDS	765				hypothetical protein
+JAOMGKEE_02397	CDS	2289	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+JAOMGKEE_02398	CDS	672	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+JAOMGKEE_02399	CDS	246	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+JAOMGKEE_02400	CDS	480	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+JAOMGKEE_02401	CDS	2751				hypothetical protein
+JAOMGKEE_02402	CDS	690				hypothetical protein
+JAOMGKEE_02403	CDS	1341	dctA		COG1301	Aerobic C4-dicarboxylate transport protein
+JAOMGKEE_02404	CDS	2121	dapb1	3.4.14.-		Dipeptidyl aminopeptidase BI
+JAOMGKEE_02405	CDS	969	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+JAOMGKEE_02406	CDS	117				hypothetical protein
+JAOMGKEE_02407	CDS	1431	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+JAOMGKEE_02408	CDS	1152	aspC_1	2.6.1.1	COG0436	Aspartate aminotransferase
+JAOMGKEE_02409	CDS	1266	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+JAOMGKEE_02410	CDS	411			COG0537	putative HIT-like protein
+JAOMGKEE_02411	CDS	756	MENG	2.1.1.329		2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic
+JAOMGKEE_02412	CDS	1446	dtpT_1		COG3104	Di-/tripeptide transporter
+JAOMGKEE_02413	CDS	1272	bioA	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+JAOMGKEE_02414	CDS	675	bioD	6.3.3.3		ATP-dependent dethiobiotin synthetase BioD
+JAOMGKEE_02415	CDS	1458	tcrY	2.7.13.3		putative sensor histidine kinase TcrY
+JAOMGKEE_02416	CDS	723	tcrX		COG0745	putative transcriptional regulatory protein TcrX
+JAOMGKEE_02417	CDS	756	tipA			HTH-type transcriptional activator TipA
+JAOMGKEE_02418	CDS	1032	dthadh	4.3.1.27		D-threo-3-hydroxyaspartate dehydratase
+JAOMGKEE_02419	CDS	1740	poxB	1.2.5.1	COG0028	Pyruvate dehydrogenase [ubiquinone]
+JAOMGKEE_02420	CDS	1485	qacA_2		COG0477	Antiseptic resistance protein
+JAOMGKEE_02421	CDS	534				hypothetical protein
+JAOMGKEE_02422	CDS	1323				hypothetical protein
+JAOMGKEE_02423	CDS	2133				hypothetical protein
+JAOMGKEE_02424	CDS	948	kstD	1.3.99.4	COG1053	3-oxosteroid 1-dehydrogenase
+JAOMGKEE_02425	CDS	708	gltC_2			HTH-type transcriptional regulator GltC
+JAOMGKEE_02426	CDS	1023	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+JAOMGKEE_02427	CDS	813				hypothetical protein
+JAOMGKEE_02428	CDS	816	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+JAOMGKEE_02429	CDS	432				hypothetical protein
+JAOMGKEE_02430	CDS	402				hypothetical protein
+JAOMGKEE_02431	tRNA	74				tRNA-Thr(tgt)
+JAOMGKEE_02432	CDS	1491				hypothetical protein
+JAOMGKEE_02433	CDS	330				hypothetical protein
+JAOMGKEE_02434	CDS	1458	otsA	2.4.1.15	COG0380	Trehalose-6-phosphate synthase
+JAOMGKEE_02435	CDS	489				hypothetical protein
+JAOMGKEE_02436	CDS	771	otsB	3.1.3.12	COG1877	Trehalose-6-phosphate phosphatase
+JAOMGKEE_02437	CDS	1008	ipsA			HTH-type transcriptional regulator IpsA
+JAOMGKEE_02438	CDS	954				hypothetical protein
+JAOMGKEE_02439	CDS	693			COG1120	putative ABC transporter ATP-binding protein
+JAOMGKEE_02440	CDS	882	mntC		COG1108	Manganese transport system membrane protein MntC
+JAOMGKEE_02441	CDS	1446				IS481 family transposase ISBli23
+JAOMGKEE_02442	CDS	1692	ksdD	1.3.99.4	COG1053	3-oxosteroid 1-dehydrogenase
+JAOMGKEE_02443	CDS	750				hypothetical protein
+JAOMGKEE_02444	CDS	621				hypothetical protein
+JAOMGKEE_02445	CDS	438	apsD	1.1.1.-		D-apiose dehydrogenase
+JAOMGKEE_02446	CDS	858	proP_1			Proline/betaine transporter
+JAOMGKEE_02447	CDS	429	yhjE_2			Inner membrane metabolite transport protein YhjE
+JAOMGKEE_02448	CDS	612				hypothetical protein
+JAOMGKEE_02449	CDS	942		2.1.1.-	COG0566	putative tRNA/rRNA methyltransferase
+JAOMGKEE_02450	CDS	1383	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+JAOMGKEE_02451	CDS	1986				hypothetical protein
+JAOMGKEE_02452	CDS	1302	scrB_2	3.2.1.26	COG1621	Sucrose-6-phosphate hydrolase
+JAOMGKEE_02453	CDS	762	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+JAOMGKEE_02454	CDS	1167	nagA	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+JAOMGKEE_02455	CDS	939	dapA_2	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+JAOMGKEE_02456	CDS	912	nanK	2.7.1.60	COG1940	N-acetylmannosamine kinase
+JAOMGKEE_02457	CDS	699	nanE	5.1.3.9		Putative N-acetylmannosamine-6-phosphate 2-epimerase
+JAOMGKEE_02458	CDS	1218	nedA_2	3.2.1.18		Sialidase
+JAOMGKEE_02459	CDS	723	lutR		COG2186	HTH-type transcriptional regulator LutR
+JAOMGKEE_02460	CDS	1611	sgrR			HTH-type transcriptional regulator SgrR
+JAOMGKEE_02461	CDS	966	gsiC_3		COG0601	Glutathione transport system permease protein GsiC
+JAOMGKEE_02462	CDS	2004	btuD_10	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_02463	CDS	819	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+JAOMGKEE_02464	CDS	624				hypothetical protein
+JAOMGKEE_02465	CDS	501	lrp_2		COG1522	Leucine-responsive regulatory protein
+JAOMGKEE_02466	CDS	363				hypothetical protein
+JAOMGKEE_02467	CDS	483	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+JAOMGKEE_02468	CDS	771	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+JAOMGKEE_02469	CDS	597				hypothetical protein
+JAOMGKEE_02470	CDS	726	regX3_2		COG0745	Sensory transduction protein regX3
+JAOMGKEE_02471	CDS	1119	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+JAOMGKEE_02472	CDS	570				hypothetical protein
+JAOMGKEE_02473	CDS	1395	radA_1	3.6.4.-	COG1066	DNA repair protein RadA
+JAOMGKEE_02474	CDS	1101	disA	2.7.7.85	COG1623	DNA integrity scanning protein DisA
+JAOMGKEE_02475	CDS	681				hypothetical protein
+JAOMGKEE_02476	CDS	1455	pchA	1.2.1.96		4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+JAOMGKEE_02477	CDS	624	mtcA2	4.2.1.1	COG0288	Carbonic anhydrase 2
+JAOMGKEE_02478	CDS	882	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+JAOMGKEE_02479	CDS	1158				hypothetical protein
+JAOMGKEE_02480	CDS	777	budC_1	1.1.1.76		L-2,3-butanediol dehydrogenase
+JAOMGKEE_02481	CDS	327				hypothetical protein
+JAOMGKEE_02482	CDS	744				hypothetical protein
+JAOMGKEE_02483	CDS	294	mhuD_1	1.14.99.57	COG2329	Heme oxygenase (mycobilin-producing)
+JAOMGKEE_02484	CDS	108				hypothetical protein
+JAOMGKEE_02485	CDS	2778	clpC1		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpC1
+JAOMGKEE_02486	CDS	1434	guaB1	1.-.-.-	COG0516	putative oxidoreductase
+JAOMGKEE_02487	CDS	933				hypothetical protein
+JAOMGKEE_02488	CDS	1884	mobA_2	1.14.13.23	COG0654	3-hydroxybenzoate 4-monooxygenase
+JAOMGKEE_02489	CDS	1719				hypothetical protein
+JAOMGKEE_02490	CDS	1944				hypothetical protein
+JAOMGKEE_02491	CDS	1725				hypothetical protein
+JAOMGKEE_02492	CDS	1446	ribZ_3			Riboflavin transporter RibZ
+JAOMGKEE_02493	CDS	954				hypothetical protein
+JAOMGKEE_02494	CDS	1581	lysS1	6.1.1.6	COG1190	Lysine--tRNA ligase 1
+JAOMGKEE_02495	CDS	801	panC_2	6.3.2.1	COG0414	Pantothenate synthetase
+JAOMGKEE_02496	CDS	696				hypothetical protein
+JAOMGKEE_02497	CDS	750				hypothetical protein
+JAOMGKEE_02498	CDS	468				hypothetical protein
+JAOMGKEE_02499	CDS	480	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+JAOMGKEE_02500	CDS	393	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+JAOMGKEE_02501	CDS	855	folP1	2.5.1.15	COG0294	Dihydropteroate synthase
+JAOMGKEE_02502	CDS	606	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+JAOMGKEE_02503	CDS	2562	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+JAOMGKEE_02504	CDS	603	hpt	2.4.2.8	COG0634	Hypoxanthine-guanine phosphoribosyltransferase
+JAOMGKEE_02505	CDS	945	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+JAOMGKEE_02506	CDS	1284		3.4.16.-	COG2027	Carboxypeptidase
+JAOMGKEE_02507	CDS	477	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+JAOMGKEE_02508	CDS	1542	speE_2	2.5.1.16		Polyamine aminopropyltransferase
+JAOMGKEE_02509	CDS	426				hypothetical protein
+JAOMGKEE_02510	CDS	414				hypothetical protein
+JAOMGKEE_02511	CDS	501				hypothetical protein
+JAOMGKEE_02512	CDS	612				putative protein
+JAOMGKEE_02513	CDS	252				hypothetical protein
+JAOMGKEE_02514	CDS	1236	ddmA2	1.18.1.3		Dicamba O-demethylase 2, ferredoxin reductase component
+JAOMGKEE_02515	CDS	291		2.8.1.-	COG0607	Sulfurtransferase
+JAOMGKEE_02516	CDS	447				hypothetical protein
+JAOMGKEE_02517	CDS	3888	dltA	6.2.1.54		D-alanine--D-alanyl carrier protein ligase
+JAOMGKEE_02518	CDS	1566	gabD2	1.2.1.79	COG1012	Putative succinate-semialdehyde dehydrogenase [NADP(+)] 2
+JAOMGKEE_02519	CDS	921	ppk2B	2.7.4.1	COG2326	Polyphosphate kinase PPK2B
+JAOMGKEE_02520	CDS	138				hypothetical protein
+JAOMGKEE_02521	CDS	174				hypothetical protein
+JAOMGKEE_02522	CDS	1647	groL1		COG0459	60 kDa chaperonin 1
+JAOMGKEE_02523	CDS	183				hypothetical protein
+JAOMGKEE_02524	CDS	1212				hypothetical protein
+JAOMGKEE_02525	CDS	966				hypothetical protein
+JAOMGKEE_02526	CDS	1986				hypothetical protein
+JAOMGKEE_02527	CDS	2457				hypothetical protein
+JAOMGKEE_02528	CDS	2802				hypothetical protein
+JAOMGKEE_02529	CDS	3594				hypothetical protein
+JAOMGKEE_02530	CDS	2682				hypothetical protein
+JAOMGKEE_02531	CDS	615				hypothetical protein
+JAOMGKEE_02532	CDS	1374	dapE_2	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+JAOMGKEE_02533	CDS	162				hypothetical protein
+JAOMGKEE_02534	CDS	561				hypothetical protein
+JAOMGKEE_02535	CDS	3060	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+JAOMGKEE_02536	CDS	492				hypothetical protein
+JAOMGKEE_02537	CDS	1701	ndhB_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+JAOMGKEE_02538	CDS	510				hypothetical protein
+JAOMGKEE_02539	CDS	276				hypothetical protein
+JAOMGKEE_02540	CDS	381	mrpG		COG1320	Na(+)/H(+) antiporter subunit G
+JAOMGKEE_02541	CDS	600				hypothetical protein
+JAOMGKEE_02542	CDS	1131		6.3.2.2	COG2170	Putative glutamate--cysteine ligase 2
+JAOMGKEE_02543	CDS	594				hypothetical protein
+JAOMGKEE_02544	CDS	213				hypothetical protein
+JAOMGKEE_02545	CDS	582	def_2	3.5.1.88	COG0242	Peptide deformylase
+JAOMGKEE_02546	CDS	1008				hypothetical protein
+JAOMGKEE_02547	CDS	792	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+JAOMGKEE_02548	CDS	1503	clsA	2.7.8.-	COG1502	Cardiolipin synthase A
+JAOMGKEE_02549	CDS	1197	bcr			Bicyclomycin resistance protein
+JAOMGKEE_02550	CDS	1311				hypothetical protein
+JAOMGKEE_02551	CDS	783	phzF	5.3.3.17		Trans-2,3-dihydro-3-hydroxyanthranilate isomerase
+JAOMGKEE_02552	CDS	759				hypothetical protein
+JAOMGKEE_02553	CDS	933	bcrA			Bacitracin transport ATP-binding protein BcrA
+JAOMGKEE_02554	CDS	495	mutT3	3.6.1.55	COG0494	Putative 8-oxo-dGTP diphosphatase 3
+JAOMGKEE_02555	CDS	1473				hypothetical protein
+JAOMGKEE_02556	CDS	1035				hypothetical protein
+JAOMGKEE_02557	CDS	2469	pknG	2.7.11.1	COG0515	Serine/threonine-protein kinase PknG
+JAOMGKEE_02558	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+JAOMGKEE_02559	CDS	1386				hypothetical protein
+JAOMGKEE_02560	CDS	1368	fprA_1	1.18.1.2	COG0493	NADPH-ferredoxin reductase FprA
+JAOMGKEE_02561	CDS	549	elaA		COG2153	Protein ElaA
+JAOMGKEE_02562	CDS	1011				hypothetical protein
+JAOMGKEE_02563	CDS	1032				hypothetical protein
+JAOMGKEE_02564	CDS	402				hypothetical protein
+JAOMGKEE_02565	CDS	1227	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+JAOMGKEE_02566	CDS	450				hypothetical protein
+JAOMGKEE_02567	CDS	891				hypothetical protein
+JAOMGKEE_02568	CDS	897				IS3 family transposase IS1206
+JAOMGKEE_02569	CDS	270				hypothetical protein
+JAOMGKEE_02570	CDS	1047				hypothetical protein
+JAOMGKEE_02571	CDS	621	narL		COG2197	putative transcriptional regulatory protein NarL
+JAOMGKEE_02572	CDS	228				hypothetical protein
+JAOMGKEE_02573	CDS	1293	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+JAOMGKEE_02574	CDS	852				hypothetical protein
+JAOMGKEE_02575	CDS	267				hypothetical protein
+JAOMGKEE_02576	CDS	1170				hypothetical protein
+JAOMGKEE_02577	CDS	1035	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+JAOMGKEE_02578	CDS	1218				hypothetical protein
+JAOMGKEE_02579	CDS	669	trmH	2.1.1.34		tRNA (guanosine(18)-2'-O)-methyltransferase
+JAOMGKEE_02580	CDS	555	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+JAOMGKEE_02581	CDS	1338				hypothetical protein
+JAOMGKEE_02582	CDS	825	sseB	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase SseB
+JAOMGKEE_02583	CDS	723				hypothetical protein
+JAOMGKEE_02584	CDS	1380				hypothetical protein
+JAOMGKEE_02585	CDS	402				hypothetical protein
+JAOMGKEE_02586	CDS	2559	clpB		COG0542	Chaperone protein ClpB
+JAOMGKEE_02587	CDS	1350				hypothetical protein
+JAOMGKEE_02588	CDS	372	kmtR		COG0640	HTH-type transcriptional regulator KmtR
+JAOMGKEE_02589	CDS	1023			COG0053	putative cation efflux system protein
+JAOMGKEE_02590	CDS	1173		1.18.1.2		Ferredoxin--NADP reductase
+JAOMGKEE_02591	CDS	1044				hypothetical protein
+JAOMGKEE_02592	CDS	1149	metB_2	2.5.1.48	COG0626	Cystathionine gamma-synthase
+JAOMGKEE_02593	CDS	570				hypothetical protein
+JAOMGKEE_02594	CDS	243				hypothetical protein
+JAOMGKEE_02595	CDS	1128				hypothetical protein
+JAOMGKEE_02596	CDS	810				hypothetical protein
+JAOMGKEE_02597	CDS	1158				hypothetical protein
+JAOMGKEE_02598	CDS	801		3.5.-.-	COG0388	Hydrolase
+JAOMGKEE_02599	CDS	246				hypothetical protein
+JAOMGKEE_02600	CDS	1137				hypothetical protein
+JAOMGKEE_02601	CDS	1521	thcA	1.2.1.3	COG1012	EPTC-inducible aldehyde dehydrogenase
+JAOMGKEE_02602	CDS	441				hypothetical protein
+JAOMGKEE_02603	CDS	1188	dnaJ1		COG0484	Chaperone protein DnaJ 1
+JAOMGKEE_02604	CDS	657	grpE			Protein GrpE
+JAOMGKEE_02605	CDS	1857	dnaK		COG0443	Chaperone protein DnaK
+JAOMGKEE_02606	CDS	1431				hypothetical protein
+JAOMGKEE_02607	CDS	636	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+JAOMGKEE_02608	CDS	1107				hypothetical protein
+JAOMGKEE_02609	CDS	3336				hypothetical protein
+JAOMGKEE_02610	CDS	639				hypothetical protein
+JAOMGKEE_02611	CDS	1488				putative protein/MSMEI_1241
+JAOMGKEE_02612	CDS	1038	adh	1.1.1.1		Alcohol dehydrogenase
+JAOMGKEE_02613	CDS	219				hypothetical protein
+JAOMGKEE_02614	CDS	930				hypothetical protein
+JAOMGKEE_02615	CDS	726	sirB	4.99.1.4	COG2138	Sirohydrochlorin ferrochelatase
+JAOMGKEE_02616	CDS	1302	cysNC		COG0529	Bifunctional enzyme CysN/CysC
+JAOMGKEE_02617	CDS	915	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2
+JAOMGKEE_02618	CDS	786	cysH	1.8.4.8	COG0175	putative phosphoadenosine phosphosulfate reductase
+JAOMGKEE_02619	CDS	1686	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+JAOMGKEE_02620	CDS	1374	fprA_2	1.18.1.2	COG0493	NADPH-ferredoxin reductase FprA
+JAOMGKEE_02621	CDS	1365				hypothetical protein
+JAOMGKEE_02622	CDS	207				hypothetical protein
+JAOMGKEE_02623	CDS	417				hypothetical protein
+JAOMGKEE_02624	CDS	225				hypothetical protein
+JAOMGKEE_02625	CDS	1533				hypothetical protein
+JAOMGKEE_02626	CDS	567				hypothetical protein
+JAOMGKEE_02627	CDS	1005				hypothetical protein
+JAOMGKEE_02628	CDS	732				hypothetical protein
+JAOMGKEE_02629	CDS	723				hypothetical protein
+JAOMGKEE_02630	CDS	1212	rfnT			Riboflavin transporter RfnT
+JAOMGKEE_02631	CDS	1326	dapE_3	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+JAOMGKEE_02632	CDS	1740				hypothetical protein
+JAOMGKEE_02633	CDS	1029	btuD_11	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JAOMGKEE_02634	CDS	645				hypothetical protein
+JAOMGKEE_02635	CDS	753				hypothetical protein
+JAOMGKEE_02636	CDS	870				hypothetical protein
+JAOMGKEE_02637	CDS	906	rihB_2	3.2.2.8	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihB
+JAOMGKEE_02638	CDS	978				hypothetical protein
+JAOMGKEE_02639	CDS	195				hypothetical protein
+JAOMGKEE_02640	CDS	591	tag_2	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+JAOMGKEE_02641	CDS	1161	hmp	1.14.12.17		Flavohemoprotein
+JAOMGKEE_02642	CDS	606				hypothetical protein
+JAOMGKEE_02643	CDS	627				hypothetical protein
+JAOMGKEE_02644	CDS	567	bglG		COG3711	Cryptic beta-glucoside bgl operon antiterminator
+JAOMGKEE_02645	CDS	282				hypothetical protein
+JAOMGKEE_02646	CDS	363	bglH	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+JAOMGKEE_02647	CDS	384				hypothetical protein
+JAOMGKEE_02648	CDS	1314	aspC_2	2.6.1.1	COG0436	putative aspartate aminotransferase
+JAOMGKEE_02649	CDS	1611				hypothetical protein
+JAOMGKEE_02650	CDS	1260				hypothetical protein
+JAOMGKEE_02651	CDS	1320	rkpK	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+JAOMGKEE_02652	CDS	570	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+JAOMGKEE_02653	tRNA	74				tRNA-Gly(ccc)
+JAOMGKEE_02654	CDS	774				hypothetical protein
+JAOMGKEE_02655	CDS	1692				hypothetical protein
+JAOMGKEE_02656	CDS	1158	lpqI	3.2.1.52	COG1472	Beta-hexosaminidase LpqI
+JAOMGKEE_02657	CDS	447				hypothetical protein
+JAOMGKEE_02658	CDS	204				hypothetical protein
+JAOMGKEE_02659	CDS	3108				hypothetical protein
+JAOMGKEE_02660	CDS	1071				hypothetical protein
+JAOMGKEE_02661	CDS	819				hypothetical protein
+JAOMGKEE_02662	CDS	1425				hypothetical protein
+JAOMGKEE_02663	CDS	1104	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+JAOMGKEE_02664	CDS	591				hypothetical protein
+JAOMGKEE_02665	CDS	774		2.1.1.-		putative methyltransferase
+JAOMGKEE_02666	CDS	1833	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+JAOMGKEE_02667	CDS	1020				hypothetical protein
+JAOMGKEE_02668	CDS	768	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+JAOMGKEE_02669	CDS	687				hypothetical protein
+JAOMGKEE_02670	CDS	2319	mmpL3		COG2409	Trehalose monomycolate exporter MmpL3
+JAOMGKEE_02671	CDS	1086				hypothetical protein
+JAOMGKEE_02672	CDS	366				hypothetical protein
+JAOMGKEE_02673	CDS	1551	accD5_3	6.4.1.3	COG4799	putative propionyl-CoA carboxylase beta chain 5
+JAOMGKEE_02674	CDS	4833				hypothetical protein
+JAOMGKEE_02675	CDS	1863		6.2.1.-	COG0318	Long-chain-fatty-acid--AMP ligase FadD32
+JAOMGKEE_02676	CDS	930				hypothetical protein
+JAOMGKEE_02677	CDS	501				hypothetical protein
+JAOMGKEE_02678	CDS	1974				hypothetical protein
+JAOMGKEE_02679	CDS	1374				hypothetical protein
+JAOMGKEE_02680	CDS	1026	fbpC_2	2.3.1.122	COG0627	Diacylglycerol acyltransferase/mycolyltransferase Ag85C
+JAOMGKEE_02681	CDS	2079	aftB	2.4.2.-		Terminal beta-(1->2)-arabinofuranosyltransferase
+JAOMGKEE_02682	CDS	999		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+JAOMGKEE_02683	CDS	507		3.1.3.-	COG0671	Putative decaprenylphosphoryl-5-phosphoribose phosphatase
+JAOMGKEE_02684	CDS	1971	glfT2	2.4.1.288	COG1216	Galactofuranosyltransferase GlfT2
+JAOMGKEE_02685	CDS	1431				hypothetical protein
+JAOMGKEE_02686	CDS	480	pgpB	3.1.3.27	COG0671	Phosphatidylglycerophosphatase B
+JAOMGKEE_02687	CDS	660				hypothetical protein
+JAOMGKEE_02688	CDS	1791				hypothetical protein
+JAOMGKEE_02689	CDS	1206	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+JAOMGKEE_02690	CDS	2079				hypothetical protein
+JAOMGKEE_02691	CDS	1530	glpK_1	2.7.1.30	COG0554	Glycerol kinase
+JAOMGKEE_02692	CDS	837	yidA	3.1.3.23	COG0561	Sugar phosphatase YidA
+JAOMGKEE_02693	CDS	879				hypothetical protein
+JAOMGKEE_02694	CDS	1299	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+JAOMGKEE_02695	CDS	810	dasR		COG2188	HTH-type transcriptional repressor DasR
+JAOMGKEE_02696	CDS	1116				hypothetical protein
+JAOMGKEE_02697	CDS	345				hypothetical protein
+JAOMGKEE_02698	CDS	672	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+JAOMGKEE_02699	CDS	948	pheA	4.2.1.51	COG0077	Prephenate dehydratase
+JAOMGKEE_02700	CDS	1140	cnbH	3.5.99.5		2-amino-5-chloromuconic acid deaminase
+JAOMGKEE_02701	CDS	717				hypothetical protein
+JAOMGKEE_02702	CDS	216				hypothetical protein
+JAOMGKEE_02703	CDS	1038	lcpB		COG1316	putative cell wall biosynthesis protein LcpB
+JAOMGKEE_02704	CDS	873				hypothetical protein
+JAOMGKEE_02705	CDS	330				hypothetical protein
+JAOMGKEE_02706	CDS	1287				hypothetical protein
+JAOMGKEE_02707	CDS	921				hypothetical protein
+JAOMGKEE_02708	CDS	762	glpQ1	3.1.4.46	COG0584	putative glycerophosphodiester phosphodiesterase 1
+JAOMGKEE_02709	CDS	1392	ygbN		COG2610	Inner membrane permease YgbN
+JAOMGKEE_02710	CDS	120				hypothetical protein
+JAOMGKEE_02711	CDS	1860				hypothetical protein
+JAOMGKEE_02712	CDS	945	ldh1	1.1.1.27		L-lactate dehydrogenase 1
+JAOMGKEE_02713	CDS	1779				hypothetical protein
+JAOMGKEE_02714	CDS	639	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+JAOMGKEE_02715	CDS	546				hypothetical protein
+JAOMGKEE_02716	CDS	696	glcC		COG2186	Glc operon transcriptional activator
+JAOMGKEE_02717	CDS	789				hypothetical protein
+JAOMGKEE_02718	CDS	1302	proP_2			Proline/betaine transporter
+JAOMGKEE_02719	CDS	1263	lldD	1.1.-.-	COG1304	Putative L-lactate dehydrogenase
+JAOMGKEE_02720	CDS	237				hypothetical protein
+JAOMGKEE_02721	CDS	315				hypothetical protein
+JAOMGKEE_02722	CDS	1620	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JAOMGKEE_02723	CDS	549				hypothetical protein
+JAOMGKEE_02724	CDS	405		3.5.1.47		N-acetyldiaminopimelate deacetylase
+JAOMGKEE_02725	CDS	654	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+JAOMGKEE_02726	CDS	603	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+JAOMGKEE_02727	CDS	927	gltC_3			HTH-type transcriptional regulator GltC
+JAOMGKEE_02728	CDS	1251	ynfM			Inner membrane transport protein YnfM
+JAOMGKEE_02729	CDS	1542				hypothetical protein
+JAOMGKEE_02730	CDS	1416				hypothetical protein
+JAOMGKEE_02731	CDS	636				hypothetical protein
+JAOMGKEE_02732	CDS	1467	mdtD			Putative multidrug resistance protein MdtD
+JAOMGKEE_02733	CDS	459				hypothetical protein
+JAOMGKEE_02734	CDS	639	liaR_2		COG2197	Transcriptional regulatory protein LiaR
+JAOMGKEE_02735	CDS	1335				hypothetical protein
+JAOMGKEE_02736	CDS	513				hypothetical protein
+JAOMGKEE_02737	CDS	153				hypothetical protein
+JAOMGKEE_02738	CDS	825	srtE1	3.4.22.70	COG3764	Sortase SrtE1
+JAOMGKEE_02739	CDS	1269	yidC_1			Membrane protein insertase YidC
+JAOMGKEE_02740	CDS	642				hypothetical protein
+JAOMGKEE_02741	CDS	264				hypothetical protein
+JAOMGKEE_02742	CDS	906			COG0589	Universal stress protein
+JAOMGKEE_02743	CDS	990				hypothetical protein
+JAOMGKEE_02744	CDS	1029				hypothetical protein
+JAOMGKEE_02745	rRNA	111				5S ribosomal RNA
+JAOMGKEE_02746	rRNA	3070				23S ribosomal RNA
+JAOMGKEE_02747	rRNA	1521				16S ribosomal RNA
+JAOMGKEE_02748	CDS	366				hypothetical protein
+JAOMGKEE_02749	CDS	1419				hypothetical protein
+JAOMGKEE_02750	CDS	876			COG1842	35 kDa protein
+JAOMGKEE_02751	CDS	1008				IS481 family transposase ISAar27
+JAOMGKEE_02752	CDS	945				hypothetical protein
+JAOMGKEE_02753	CDS	246				hypothetical protein
+JAOMGKEE_02754	CDS	255				hypothetical protein
+JAOMGKEE_02755	CDS	207				hypothetical protein
+JAOMGKEE_02756	CDS	774				hypothetical protein
+JAOMGKEE_02757	CDS	723				hypothetical protein
+JAOMGKEE_02758	CDS	231				hypothetical protein
+JAOMGKEE_02759	CDS	297				hypothetical protein
+JAOMGKEE_02760	CDS	324	fdxA		COG1146	Ferredoxin
+JAOMGKEE_02761	CDS	246				hypothetical protein
+JAOMGKEE_02762	CDS	147				hypothetical protein
+JAOMGKEE_02763	CDS	228				hypothetical protein
+JAOMGKEE_02764	CDS	129				hypothetical protein
+JAOMGKEE_02765	CDS	663				hypothetical protein
+JAOMGKEE_02766	CDS	2220	copB	7.2.2.8		Copper-exporting P-type ATPase B
+JAOMGKEE_02767	CDS	333				hypothetical protein
+JAOMGKEE_02768	CDS	1200	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+JAOMGKEE_02769	CDS	723	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+JAOMGKEE_02770	CDS	576				hypothetical protein
+JAOMGKEE_02771	CDS	1482	mmcO	1.16.3.1	COG2132	Multicopper oxidase MmcO
+JAOMGKEE_02772	CDS	222				hypothetical protein
+JAOMGKEE_02773	CDS	366	resA_3			Thiol-disulfide oxidoreductase ResA
+JAOMGKEE_02774	CDS	921	pikAII	2.3.1.239		Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4
+JAOMGKEE_02775	CDS	474				hypothetical protein
+JAOMGKEE_02776	CDS	237	copZ_2			Copper chaperone CopZ
+JAOMGKEE_02777	CDS	318				hypothetical protein
+JAOMGKEE_02778	CDS	1878	cadA_2	3.6.3.3		Cadmium-transporting ATPase
+JAOMGKEE_02779	CDS	375	trxC		COG0526	Putative thioredoxin 2
+JAOMGKEE_02780	CDS	207				hypothetical protein
+JAOMGKEE_02781	CDS	1320	naiP			Putative niacin/nicotinamide transporter NaiP
+JAOMGKEE_02782	CDS	213				hypothetical protein
+JAOMGKEE_02783	CDS	579	yqjI		COG1695	Transcriptional regulator YqjI
+JAOMGKEE_02784	CDS	1533	radA_2			DNA repair protein RadA
+JAOMGKEE_02785	CDS	453	rplI		COG0359	50S ribosomal protein L9
+JAOMGKEE_02786	CDS	678				Single-stranded DNA-binding protein
+JAOMGKEE_02787	CDS	288	rpsF		COG0360	30S ribosomal protein S6
+JAOMGKEE_02788	CDS	144				hypothetical protein
+JAOMGKEE_02789	CDS	192				hypothetical protein
+JAOMGKEE_02790	CDS	1461				hypothetical protein
+JAOMGKEE_02791	CDS	2163	ponA1		COG0744	Penicillin-binding protein 1A
+JAOMGKEE_02792	CDS	393				putative protein
+JAOMGKEE_02793	CDS	474				hypothetical protein
+JAOMGKEE_02794	CDS	942			COG0589	Universal stress protein
+JAOMGKEE_02795	CDS	474				hypothetical protein
+JAOMGKEE_02796	CDS	324	mhuD_2	1.14.99.57	COG2329	Heme oxygenase (mycobilin-producing)
+JAOMGKEE_02797	CDS	939				hypothetical protein
+JAOMGKEE_02798	CDS	1266	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+JAOMGKEE_02799	CDS	678	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+JAOMGKEE_02800	CDS	1980				hypothetical protein
+JAOMGKEE_02801	CDS	1092	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+JAOMGKEE_02802	CDS	546				hypothetical protein
+JAOMGKEE_02803	CDS	1488				hypothetical protein
+JAOMGKEE_02804	CDS	201				hypothetical protein
+JAOMGKEE_02805	CDS	498	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+JAOMGKEE_02806	CDS	810	nei1_2	3.2.2.-	COG0266	Endonuclease 8 1
+JAOMGKEE_02807	CDS	1152	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+JAOMGKEE_02808	CDS	567				hypothetical protein
+JAOMGKEE_02809	CDS	477	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+JAOMGKEE_02810	CDS	1002				Zinc-type alcohol dehydrogenase-like protein
+JAOMGKEE_02811	CDS	1179			COG2814	Chloramphenicol efflux pump
+JAOMGKEE_02812	CDS	1179		1.1.1.38		NAD-dependent malic enzyme
+JAOMGKEE_02813	CDS	1485	glpK_2	2.7.1.30	COG0554	Glycerol kinase
+JAOMGKEE_02814	CDS	573				hypothetical protein
+JAOMGKEE_02815	CDS	612				hypothetical protein
+JAOMGKEE_02816	CDS	1323	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+JAOMGKEE_02817	CDS	1233	dadA1	1.4.99.-	COG0665	D-amino acid dehydrogenase 1
+JAOMGKEE_02818	CDS	1506				hypothetical protein
+JAOMGKEE_02819	CDS	186				hypothetical protein
+JAOMGKEE_02820	CDS	324				hypothetical protein
+JAOMGKEE_02821	CDS	612	rutE	1.1.1.298	COG0778	putative malonic semialdehyde reductase RutE
+JAOMGKEE_02822	CDS	927				hypothetical protein
+JAOMGKEE_02823	CDS	2859	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+JAOMGKEE_02824	CDS	432				hypothetical protein
+JAOMGKEE_02825	CDS	381				hypothetical protein
+JAOMGKEE_02826	CDS	726				hypothetical protein
+JAOMGKEE_02827	CDS	840	yisK_2		COG0179	putative protein YisK
+JAOMGKEE_02828	CDS	1128	sdgD	1.13.11.4		Gentisate 1,2-dioxygenase
+JAOMGKEE_02829	CDS	777	xynR		COG1414	HTH-type transcriptional regulator XynR
+JAOMGKEE_02830	CDS	1302	genK_3		COG0477	Gentisate transporter
+JAOMGKEE_02831	CDS	1329		1.14.13.24	COG0654	3-hydroxybenzoate 6-hydroxylase
+JAOMGKEE_02832	CDS	1254	sstT			Serine/threonine transporter SstT
+JAOMGKEE_02833	CDS	513				hypothetical protein
+JAOMGKEE_02834	CDS	1557	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+JAOMGKEE_02835	CDS	627	trpG	4.1.3.27		Anthranilate synthase component 2
+JAOMGKEE_02836	CDS	1047	trpGD		COG0512	Bifunctional protein TrpGD
+JAOMGKEE_02837	CDS	1425	trpC_2		COG0134	Tryptophan biosynthesis protein TrpCF
+JAOMGKEE_02838	CDS	1254	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+JAOMGKEE_02839	CDS	843	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+JAOMGKEE_02840	CDS	1542				hypothetical protein
+JAOMGKEE_02841	CDS	813				hypothetical protein
+JAOMGKEE_02842	CDS	918		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+JAOMGKEE_02843	CDS	1587			COG3559	Multidrug efflux system permease protein
+JAOMGKEE_02844	CDS	384				hypothetical protein
+JAOMGKEE_02845	CDS	1086	namA_1	1.6.99.1	COG1902	NADPH dehydrogenase
+JAOMGKEE_02846	CDS	981				hypothetical protein
+JAOMGKEE_02847	CDS	777				hypothetical protein
+JAOMGKEE_02848	CDS	339				hypothetical protein
+JAOMGKEE_02849	CDS	1122	namA_2	1.6.99.1	COG1902	NADPH dehydrogenase
+JAOMGKEE_02850	CDS	651	yhfK_3	4.-.-.-	COG0702	putative sugar epimerase YhfK
+JAOMGKEE_02851	CDS	156				hypothetical protein
+JAOMGKEE_02852	CDS	159				hypothetical protein
+JAOMGKEE_02853	CDS	171				hypothetical protein
+JAOMGKEE_02854	CDS	756	budC_2	1.1.1.304		Diacetyl reductase [(S)-acetoin forming]
+JAOMGKEE_02855	CDS	183	tatA_2			Sec-independent protein translocase protein TatA
+JAOMGKEE_02856	CDS	1527	dtpT_2		COG3104	Di-/tripeptide transporter
+JAOMGKEE_02857	CDS	558				hypothetical protein
+JAOMGKEE_02858	CDS	906	npcC_2	1.13.11.37		Hydroxyquinol 1,2-dioxygenase
+JAOMGKEE_02859	CDS	1104	tfdF	1.3.1.32		Maleylacetate reductase
+JAOMGKEE_02860	CDS	1527	iolT_2			Major myo-inositol transporter IolT
+JAOMGKEE_02861	CDS	1485				hypothetical protein
+JAOMGKEE_02862	CDS	1080	iolG_4	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+JAOMGKEE_02863	CDS	882				hypothetical protein
+JAOMGKEE_02864	CDS	1008	idhA	1.1.1.18		Inositol 2-dehydrogenase
+JAOMGKEE_02865	CDS	1086	iolG_5	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+JAOMGKEE_02866	CDS	4386	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JAOMGKEE_02867	CDS	1089				hypothetical protein
+JAOMGKEE_02868	CDS	1515	proP_3			Ectoine/proline transporter ProP
+JAOMGKEE_02869	CDS	747				hypothetical protein
+JAOMGKEE_02870	CDS	972				hypothetical protein
+JAOMGKEE_02871	CDS	4941				hypothetical protein
+JAOMGKEE_02872	CDS	510				hypothetical protein
+JAOMGKEE_02873	CDS	603	pdxK_2	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+JAOMGKEE_02874	CDS	207	copZ_3			Copper chaperone CopZ
+JAOMGKEE_02875	CDS	768	proP_4			Ectoine/proline transporter ProP
+JAOMGKEE_02876	CDS	1029				hypothetical protein
+JAOMGKEE_02877	CDS	978	mas_2	2.3.1.111		Mycocerosic acid synthase
+JAOMGKEE_02878	CDS	387				hypothetical protein
+JAOMGKEE_02879	CDS	207				hypothetical protein
+JAOMGKEE_02880	CDS	801	pdxK_3	2.7.1.35	COG0351	Pyridoxine kinase
+JAOMGKEE_02881	CDS	348				hypothetical protein
+JAOMGKEE_02882	CDS	204	copZ_4			Copper chaperone CopZ
+JAOMGKEE_02883	CDS	348				hypothetical protein
+JAOMGKEE_02884	CDS	714	ygaZ		COG1296	Inner membrane protein YgaZ
+JAOMGKEE_02885	CDS	606				hypothetical protein
+JAOMGKEE_02886	CDS	1671	cca	2.7.7.72		CCA-adding enzyme
+JAOMGKEE_02887	CDS	270				hypothetical protein
+JAOMGKEE_02888	CDS	531	mutT4	3.6.1.-	COG0494	Putative mutator protein MutT4
+JAOMGKEE_02889	CDS	2514				hypothetical protein
+JAOMGKEE_02890	CDS	3345	murJ			lipid II flippase MurJ
+JAOMGKEE_02891	CDS	606	sigM			ECF RNA polymerase sigma factor SigM
+JAOMGKEE_02892	CDS	954	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+JAOMGKEE_02893	CDS	324	trxA			Thioredoxin 1
+JAOMGKEE_02894	CDS	1191	cwlM	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase CwlM
+JAOMGKEE_02895	CDS	621				hypothetical protein
+JAOMGKEE_02896	CDS	1140	parB		COG1475	putative chromosome-partitioning protein ParB
+JAOMGKEE_02897	CDS	924	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+JAOMGKEE_02898	CDS	630	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+JAOMGKEE_02899	CDS	954	yidC_2		COG0706	Membrane protein insertase YidC
+JAOMGKEE_02900	CDS	402	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+JAOMGKEE_02901	CDS	144	rpmH		COG0230	50S ribosomal protein L34
+JAOMGKEE_02902	CDS	222				hypothetical protein

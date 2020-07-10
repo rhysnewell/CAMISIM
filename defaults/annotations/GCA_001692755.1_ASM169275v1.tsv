@@ -1,0 +1,3141 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EPHAPNAE_00001	CDS	1332	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+EPHAPNAE_00002	CDS	1101	dnaN			Beta sliding clamp
+EPHAPNAE_00003	CDS	207				hypothetical protein
+EPHAPNAE_00004	CDS	1110	recF_1		COG1195	DNA replication and repair protein RecF
+EPHAPNAE_00005	CDS	315				hypothetical protein
+EPHAPNAE_00006	CDS	1926	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+EPHAPNAE_00007	CDS	777	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+EPHAPNAE_00008	CDS	870	spo0J		COG1475	Stage 0 sporulation protein J
+EPHAPNAE_00009	CDS	510				hypothetical protein
+EPHAPNAE_00010	CDS	741	cpoB_1			Cell division coordinator CpoB
+EPHAPNAE_00011	CDS	1272	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+EPHAPNAE_00012	tRNA	91				tRNA-Ser(tga)
+EPHAPNAE_00013	tRNA	94				tRNA-Ser(gct)
+EPHAPNAE_00014	CDS	1401	mdtL			Multidrug resistance protein MdtL
+EPHAPNAE_00015	CDS	915				hypothetical protein
+EPHAPNAE_00016	CDS	570				Surface layer protein
+EPHAPNAE_00017	CDS	534				hypothetical protein
+EPHAPNAE_00018	CDS	1710				hypothetical protein
+EPHAPNAE_00019	CDS	1272		3.4.19.11		Gamma-D-glutamyl-L-diamino acid endopeptidase 1
+EPHAPNAE_00020	CDS	324				hypothetical protein
+EPHAPNAE_00021	CDS	279				hypothetical protein
+EPHAPNAE_00022	CDS	579	porC_1	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+EPHAPNAE_00023	CDS	306	porD_1		COG1144	Pyruvate synthase subunit PorD
+EPHAPNAE_00024	CDS	1185	porA_1	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+EPHAPNAE_00025	CDS	936	porB_1	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+EPHAPNAE_00026	CDS	840				hypothetical protein
+EPHAPNAE_00027	CDS	720				hypothetical protein
+EPHAPNAE_00028	CDS	264				hypothetical protein
+EPHAPNAE_00029	CDS	1221				hypothetical protein
+EPHAPNAE_00030	CDS	990	cotS_1			Spore coat protein S
+EPHAPNAE_00031	CDS	1671	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+EPHAPNAE_00032	CDS	876	yabG_1	3.4.-.-		Sporulation-specific protease YabG
+EPHAPNAE_00033	CDS	264	veg		COG4466	Protein Veg
+EPHAPNAE_00034	CDS	1569				hypothetical protein
+EPHAPNAE_00035	CDS	837	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EPHAPNAE_00036	CDS	693	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+EPHAPNAE_00037	CDS	207	copA_1	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+EPHAPNAE_00038	CDS	513				hypothetical protein
+EPHAPNAE_00039	CDS	1623	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+EPHAPNAE_00040	CDS	729				hypothetical protein
+EPHAPNAE_00041	CDS	807				hypothetical protein
+EPHAPNAE_00042	CDS	1593				hypothetical protein
+EPHAPNAE_00043	CDS	1146	yhaO		COG0420	putative metallophosphoesterase YhaO
+EPHAPNAE_00044	CDS	2652				hypothetical protein
+EPHAPNAE_00045	CDS	1023				hypothetical protein
+EPHAPNAE_00046	CDS	390	ugtP_1	2.4.1.315		Processive diacylglycerol beta-glucosyltransferase
+EPHAPNAE_00047	CDS	636	ugtP_2	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+EPHAPNAE_00048	CDS	702	sleB_1		COG3409	Spore cortex-lytic enzyme
+EPHAPNAE_00049	CDS	1395	ypeB			Sporulation protein YpeB
+EPHAPNAE_00050	CDS	1089				hypothetical protein
+EPHAPNAE_00051	CDS	1044				hypothetical protein
+EPHAPNAE_00052	CDS	978				hypothetical protein
+EPHAPNAE_00053	tRNA	77				tRNA-Arg(acg)
+EPHAPNAE_00054	CDS	1782				hypothetical protein
+EPHAPNAE_00055	CDS	249				hypothetical protein
+EPHAPNAE_00056	CDS	1074				hypothetical protein
+EPHAPNAE_00057	CDS	3006				hypothetical protein
+EPHAPNAE_00058	CDS	831				hypothetical protein
+EPHAPNAE_00059	CDS	840	pomA		COG1291	Chemotaxis protein PomA
+EPHAPNAE_00060	CDS	801	motB		COG1360	Motility protein B
+EPHAPNAE_00061	CDS	957				hypothetical protein
+EPHAPNAE_00062	CDS	909	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+EPHAPNAE_00063	CDS	1071				Sodium-lithium/proton antiporter
+EPHAPNAE_00064	CDS	1320	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+EPHAPNAE_00065	CDS	966	rnfD	7.2.1.2	COG4658	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+EPHAPNAE_00066	CDS	594	rnfG	7.2.1.2	COG4659	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit G
+EPHAPNAE_00067	CDS	657	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+EPHAPNAE_00068	CDS	588	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+EPHAPNAE_00069	CDS	804	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+EPHAPNAE_00070	CDS	237				hypothetical protein
+EPHAPNAE_00071	CDS	510	aroK_1	2.7.1.71	COG0703	Shikimate kinase 1
+EPHAPNAE_00072	CDS	168				hypothetical protein
+EPHAPNAE_00073	CDS	480				hypothetical protein
+EPHAPNAE_00074	CDS	426				hypothetical protein
+EPHAPNAE_00075	CDS	804	glpR		COG1349	Glycerol-3-phosphate regulon repressor
+EPHAPNAE_00076	CDS	1485	glpK	2.7.1.30	COG0554	Glycerol kinase
+EPHAPNAE_00077	CDS	837	aptA_1	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+EPHAPNAE_00078	CDS	942	aptB_1	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+EPHAPNAE_00079	CDS	1044	ydjJ	1.-.-.-	COG1063	putative zinc-type alcohol dehydrogenase-like protein YdjJ
+EPHAPNAE_00080	CDS	1119				hypothetical protein
+EPHAPNAE_00081	CDS	1488	mglA_1	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+EPHAPNAE_00082	CDS	984	rbsC_1		COG1172	Ribose import permease protein RbsC
+EPHAPNAE_00083	CDS	615	cobC	3.1.3.73	COG0406	Adenosylcobalamin/alpha-ribazole phosphatase
+EPHAPNAE_00084	CDS	3264				hypothetical protein
+EPHAPNAE_00085	CDS	1809	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+EPHAPNAE_00086	CDS	357				hypothetical protein
+EPHAPNAE_00087	CDS	3129				hypothetical protein
+EPHAPNAE_00088	tRNA	77				tRNA-Arg(cct)
+EPHAPNAE_00089	CDS	486	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+EPHAPNAE_00090	tRNA	91				tRNA-Ser(cga)
+EPHAPNAE_00091	CDS	165				hypothetical protein
+EPHAPNAE_00092	CDS	609				hypothetical protein
+EPHAPNAE_00093	CDS	1290				hypothetical protein
+EPHAPNAE_00094	CDS	1029	exuR_1		COG1609	putative HTH-type transcriptional repressor ExuR
+EPHAPNAE_00095	CDS	3312				hypothetical protein
+EPHAPNAE_00096	CDS	816	yabG_2	3.4.-.-		Sporulation-specific protease YabG
+EPHAPNAE_00097	CDS	1959	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+EPHAPNAE_00098	CDS	858				hypothetical protein
+EPHAPNAE_00099	CDS	849	mscS		COG0668	Small-conductance mechanosensitive channel
+EPHAPNAE_00100	CDS	201				hypothetical protein
+EPHAPNAE_00101	CDS	1179				hypothetical protein
+EPHAPNAE_00102	CDS	294				hypothetical protein
+EPHAPNAE_00103	CDS	465	guaD	3.5.4.3	COG0590	Guanine deaminase
+EPHAPNAE_00104	CDS	1629	ilvB_1	2.2.1.6	COG0028	Acetolactate synthase large subunit
+EPHAPNAE_00105	CDS	513	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+EPHAPNAE_00106	CDS	996	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+EPHAPNAE_00107	CDS	1581	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+EPHAPNAE_00108	CDS	258				hypothetical protein
+EPHAPNAE_00109	CDS	708	sigI7		COG1191	RNA polymerase sigma factor SigI7
+EPHAPNAE_00110	CDS	1623	rsgI7			Anti-sigma-I factor RsgI7
+EPHAPNAE_00111	CDS	381				hypothetical protein
+EPHAPNAE_00112	CDS	444	cymR_1			HTH-type transcriptional regulator CymR
+EPHAPNAE_00113	CDS	996	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+EPHAPNAE_00114	CDS	474	sirC	1.3.1.76		Precorrin-2 dehydrogenase
+EPHAPNAE_00115	CDS	879	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+EPHAPNAE_00116	CDS	1482	cysG	4.99.1.4		Siroheme synthase
+EPHAPNAE_00117	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+EPHAPNAE_00118	CDS	1284	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+EPHAPNAE_00119	CDS	1071	sbp		COG1613	Sulfate-binding protein
+EPHAPNAE_00120	CDS	849	cysT		COG0555	Sulfate transport system permease protein CysT
+EPHAPNAE_00121	CDS	885	cysW		COG4208	Sulfate transport system permease protein CysW
+EPHAPNAE_00122	CDS	1065	cysA	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+EPHAPNAE_00123	CDS	720	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+EPHAPNAE_00124	CDS	882	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2
+EPHAPNAE_00125	CDS	1800	cysNC		COG0529	Bifunctional enzyme CysN/CysC
+EPHAPNAE_00126	CDS	210				hypothetical protein
+EPHAPNAE_00127	CDS	813	ttuC	2.7.7.80	COG0476	Sulfur carrier protein adenylyltransferase
+EPHAPNAE_00128	CDS	420	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+EPHAPNAE_00129	CDS	873	asrC	1.8.1.-	COG2221	Anaerobic sulfite reductase subunit C
+EPHAPNAE_00130	CDS	246				hypothetical protein
+EPHAPNAE_00131	CDS	1398				hypothetical protein
+EPHAPNAE_00132	CDS	582	algU_1		COG1595	RNA polymerase sigma-H factor
+EPHAPNAE_00133	CDS	564				hypothetical protein
+EPHAPNAE_00134	CDS	489				hypothetical protein
+EPHAPNAE_00135	CDS	246				hypothetical protein
+EPHAPNAE_00136	CDS	96				hypothetical protein
+EPHAPNAE_00137	CDS	183				hypothetical protein
+EPHAPNAE_00138	CDS	327				hypothetical protein
+EPHAPNAE_00139	CDS	1512		3.2.1.55	COG3534	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+EPHAPNAE_00140	CDS	177				hypothetical protein
+EPHAPNAE_00141	CDS	975				hypothetical protein
+EPHAPNAE_00142	CDS	984				hypothetical protein
+EPHAPNAE_00143	CDS	1035	moaA_1			GTP 3',8-cyclase
+EPHAPNAE_00144	CDS	1023	moaA_2			GTP 3',8-cyclase
+EPHAPNAE_00145	CDS	1026	moaA_3			GTP 3',8-cyclase
+EPHAPNAE_00146	CDS	1254				hypothetical protein
+EPHAPNAE_00147	CDS	1152				hypothetical protein
+EPHAPNAE_00148	CDS	1014	moaA_4			GTP 3',8-cyclase
+EPHAPNAE_00149	CDS	1500				hypothetical protein
+EPHAPNAE_00150	CDS	918	fcl	1.1.1.271		GDP-L-fucose synthase
+EPHAPNAE_00151	CDS	1374	spnQ	4.2.1.164		dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase
+EPHAPNAE_00152	CDS	549	rmlC_1	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+EPHAPNAE_00153	CDS	1140	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+EPHAPNAE_00154	CDS	780	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+EPHAPNAE_00155	CDS	1782				hypothetical protein
+EPHAPNAE_00156	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_00157	CDS	687				hypothetical protein
+EPHAPNAE_00158	CDS	1362	bchR	2.1.1.331	COG1032	Bacteriochlorophyllide d C-12(1)-methyltransferase
+EPHAPNAE_00159	CDS	171				hypothetical protein
+EPHAPNAE_00160	CDS	675				hypothetical protein
+EPHAPNAE_00161	CDS	360				hypothetical protein
+EPHAPNAE_00162	CDS	210				hypothetical protein
+EPHAPNAE_00163	CDS	2391				hypothetical protein
+EPHAPNAE_00164	CDS	180				hypothetical protein
+EPHAPNAE_00165	CDS	621				hypothetical protein
+EPHAPNAE_00166	CDS	768	nrtD_1	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+EPHAPNAE_00167	CDS	813	ssuC_1		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+EPHAPNAE_00168	CDS	1011				hypothetical protein
+EPHAPNAE_00169	CDS	1293				hypothetical protein
+EPHAPNAE_00170	CDS	471		3.6.1.25	COG2954	Inorganic triphosphatase
+EPHAPNAE_00171	CDS	1521	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+EPHAPNAE_00172	CDS	1107	dhaT	1.1.1.202	COG1454	1,3-propanediol dehydrogenase
+EPHAPNAE_00173	CDS	486				hypothetical protein
+EPHAPNAE_00174	CDS	1182				hypothetical protein
+EPHAPNAE_00175	CDS	378	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+EPHAPNAE_00176	CDS	516				hypothetical protein
+EPHAPNAE_00177	CDS	627				hypothetical protein
+EPHAPNAE_00178	CDS	1017	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+EPHAPNAE_00179	CDS	789				hypothetical protein
+EPHAPNAE_00180	CDS	498				hypothetical protein
+EPHAPNAE_00181	CDS	768	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+EPHAPNAE_00182	CDS	1359				hypothetical protein
+EPHAPNAE_00183	CDS	1920				hypothetical protein
+EPHAPNAE_00184	CDS	417				hypothetical protein
+EPHAPNAE_00185	CDS	468				hypothetical protein
+EPHAPNAE_00186	CDS	1083	prfA		COG0216	Peptide chain release factor 1
+EPHAPNAE_00187	CDS	741	zupT_1		COG0428	Zinc transporter ZupT
+EPHAPNAE_00188	CDS	1056	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+EPHAPNAE_00189	CDS	480	ywle	3.9.1.2		Protein-arginine-phosphatase
+EPHAPNAE_00190	CDS	450	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+EPHAPNAE_00191	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+EPHAPNAE_00192	CDS	525	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+EPHAPNAE_00193	CDS	1131	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+EPHAPNAE_00194	CDS	1155	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+EPHAPNAE_00195	CDS	756	atpB		COG0356	ATP synthase subunit a
+EPHAPNAE_00196	CDS	222	atpE_1		COG0636	ATP synthase subunit c
+EPHAPNAE_00197	CDS	546	atpF			ATP synthase subunit b, sodium ion specific
+EPHAPNAE_00198	CDS	567	atpH			ATP synthase subunit delta
+EPHAPNAE_00199	CDS	1521	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+EPHAPNAE_00200	CDS	888	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+EPHAPNAE_00201	CDS	1395	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+EPHAPNAE_00202	CDS	408	atpC		COG0355	ATP synthase epsilon chain
+EPHAPNAE_00203	CDS	1755				hypothetical protein
+EPHAPNAE_00204	CDS	4887				hypothetical protein
+EPHAPNAE_00205	CDS	3831				hypothetical protein
+EPHAPNAE_00206	CDS	861				hypothetical protein
+EPHAPNAE_00207	CDS	753				hypothetical protein
+EPHAPNAE_00208	CDS	1269	murAA_1	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+EPHAPNAE_00209	CDS	1005			COG2385	putative protein
+EPHAPNAE_00210	CDS	921				hypothetical protein
+EPHAPNAE_00211	CDS	264	spoIIID			Stage III sporulation protein D
+EPHAPNAE_00212	CDS	1035	mreB_1		COG1077	Cell shape-determining protein MreB
+EPHAPNAE_00213	CDS	780	flgG_1		COG4786	Flagellar basal-body rod protein FlgG
+EPHAPNAE_00214	CDS	801	flgG_2		COG4786	Flagellar basal-body rod protein FlgG
+EPHAPNAE_00215	CDS	351				hypothetical protein
+EPHAPNAE_00216	CDS	1149				hypothetical protein
+EPHAPNAE_00217	CDS	351	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+EPHAPNAE_00218	CDS	441	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+EPHAPNAE_00219	CDS	1410	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+EPHAPNAE_00220	CDS	819	purR_1		COG0503	Pur operon repressor
+EPHAPNAE_00221	CDS	285	spoVG		COG2088	Putative septation protein SpoVG
+EPHAPNAE_00222	CDS	1386	glmU			Bifunctional protein GlmU
+EPHAPNAE_00223	CDS	963	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+EPHAPNAE_00224	CDS	570	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+EPHAPNAE_00225	CDS	3537	mfd	3.6.4.-		Transcription-repair-coupling factor
+EPHAPNAE_00226	CDS	1095	prsA_1	5.2.1.8		Foldase protein PrsA
+EPHAPNAE_00227	CDS	99				hypothetical protein
+EPHAPNAE_00228	CDS	615	rhaR_1			HTH-type transcriptional activator RhaR
+EPHAPNAE_00229	CDS	435				hypothetical protein
+EPHAPNAE_00230	CDS	1539	murJ_1		COG0728	Lipid II flippase MurJ
+EPHAPNAE_00231	CDS	1125	bshA_1	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+EPHAPNAE_00232	CDS	1287				hypothetical protein
+EPHAPNAE_00233	CDS	693	neuA	2.7.7.43		N-acylneuraminate cytidylyltransferase
+EPHAPNAE_00234	CDS	1176	legG	3.2.1.184	COG0381	GDP/UDP-N,N'-diacetylbacillosamine 2-epimerase (hydrolyzing)
+EPHAPNAE_00235	CDS	993	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+EPHAPNAE_00236	CDS	645	lpxD	2.3.1.191		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+EPHAPNAE_00237	CDS	1047	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+EPHAPNAE_00238	CDS	1170	per	2.6.1.102	COG0399	GDP-perosamine synthase
+EPHAPNAE_00239	CDS	981	rmd	1.1.1.281		GDP-6-deoxy-D-mannose reductase
+EPHAPNAE_00240	CDS	1218				hypothetical protein
+EPHAPNAE_00241	CDS	927	ddl_1	6.3.2.4		D-alanine--D-alanine ligase
+EPHAPNAE_00242	CDS	609	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+EPHAPNAE_00243	CDS	828				hypothetical protein
+EPHAPNAE_00244	CDS	1824	pglF_1	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+EPHAPNAE_00245	CDS	333				hypothetical protein
+EPHAPNAE_00246	CDS	672	ywqC		COG3944	putative capsular polysaccharide biosynthesis protein YwqC
+EPHAPNAE_00247	CDS	750	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+EPHAPNAE_00248	CDS	711	ywqE_1	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+EPHAPNAE_00249	CDS	552	spoVT		COG2002	Stage V sporulation protein T
+EPHAPNAE_00250	CDS	786	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+EPHAPNAE_00251	CDS	276	hup_1			DNA-binding protein HU
+EPHAPNAE_00252	CDS	240				hypothetical protein
+EPHAPNAE_00253	CDS	291	yabP			Spore protein YabP
+EPHAPNAE_00254	CDS	510				hypothetical protein
+EPHAPNAE_00255	CDS	282	ftsL_1			Cell division protein FtsL
+EPHAPNAE_00256	CDS	423	pnp_1	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+EPHAPNAE_00257	tRNA	90				tRNA-Leu(taa)
+EPHAPNAE_00258	tRNA	76				tRNA-Met(cat)
+EPHAPNAE_00259	CDS	1257	mcpC_1		COG0840	Methyl-accepting chemotaxis protein McpC
+EPHAPNAE_00260	CDS	1701	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+EPHAPNAE_00261	CDS	405				hypothetical protein
+EPHAPNAE_00262	CDS	2595		7.2.2.10		Calcium-transporting ATPase 1
+EPHAPNAE_00263	CDS	561				hypothetical protein
+EPHAPNAE_00264	CDS	390				hypothetical protein
+EPHAPNAE_00265	CDS	654				hypothetical protein
+EPHAPNAE_00266	CDS	93				hypothetical protein
+EPHAPNAE_00267	CDS	735				hypothetical protein
+EPHAPNAE_00268	CDS	471				hypothetical protein
+EPHAPNAE_00269	CDS	141				hypothetical protein
+EPHAPNAE_00270	CDS	258				hypothetical protein
+EPHAPNAE_00271	CDS	162				hypothetical protein
+EPHAPNAE_00272	CDS	270				hypothetical protein
+EPHAPNAE_00273	CDS	216				hypothetical protein
+EPHAPNAE_00274	CDS	423				hypothetical protein
+EPHAPNAE_00275	CDS	669				hypothetical protein
+EPHAPNAE_00276	CDS	1431				hypothetical protein
+EPHAPNAE_00277	CDS	609	atoS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+EPHAPNAE_00278	CDS	534				hypothetical protein
+EPHAPNAE_00279	CDS	1086				hypothetical protein
+EPHAPNAE_00280	CDS	2238	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+EPHAPNAE_00281	tRNA	77				tRNA-Met(cat)
+EPHAPNAE_00282	tRNA	75				tRNA-Glu(ttc)
+EPHAPNAE_00283	tRNA	76				tRNA-Val(tac)
+EPHAPNAE_00284	CDS	2397	spoIIE	3.1.3.16	COG2208	Stage II sporulation protein E
+EPHAPNAE_00285	CDS	342				hypothetical protein
+EPHAPNAE_00286	CDS	684				hypothetical protein
+EPHAPNAE_00287	tRNA	75				tRNA-Arg(ccg)
+EPHAPNAE_00288	CDS	435				hypothetical protein
+EPHAPNAE_00289	CDS	969	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+EPHAPNAE_00290	CDS	1104	ftsA_1			Cell division protein FtsA
+EPHAPNAE_00291	CDS	504		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+EPHAPNAE_00292	CDS	1554	spoVB		COG2244	Stage V sporulation protein B
+EPHAPNAE_00293	CDS	171				hypothetical protein
+EPHAPNAE_00294	CDS	1497	hisC_1	2.6.1.9		Histidinol-phosphate aminotransferase
+EPHAPNAE_00295	CDS	906		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+EPHAPNAE_00296	CDS	537	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+EPHAPNAE_00297	CDS	1104	bshA_2	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+EPHAPNAE_00298	CDS	498				hypothetical protein
+EPHAPNAE_00299	CDS	1599				hypothetical protein
+EPHAPNAE_00300	CDS	633				hypothetical protein
+EPHAPNAE_00301	CDS	1548	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+EPHAPNAE_00302	CDS	1176	alr1	5.1.1.1	COG0787	Alanine racemase 1
+EPHAPNAE_00303	CDS	288				hypothetical protein
+EPHAPNAE_00304	CDS	351	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+EPHAPNAE_00305	CDS	498				hypothetical protein
+EPHAPNAE_00306	CDS	750	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+EPHAPNAE_00307	CDS	2238	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EPHAPNAE_00308	CDS	906				hypothetical protein
+EPHAPNAE_00309	CDS	846	aptA_2	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+EPHAPNAE_00310	CDS	936	aptB_2	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+EPHAPNAE_00311	CDS	1110	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EPHAPNAE_00312	CDS	723				hypothetical protein
+EPHAPNAE_00313	CDS	1422				hypothetical protein
+EPHAPNAE_00314	CDS	1479				hypothetical protein
+EPHAPNAE_00315	CDS	1110				hypothetical protein
+EPHAPNAE_00316	CDS	1182				hypothetical protein
+EPHAPNAE_00317	CDS	720				hypothetical protein
+EPHAPNAE_00318	CDS	1665	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+EPHAPNAE_00319	CDS	1668	ilvB_2	2.2.1.6	COG0028	Acetolactate synthase large subunit
+EPHAPNAE_00320	CDS	150	rpmG		COG0267	50S ribosomal protein L33
+EPHAPNAE_00321	CDS	243	secE			Protein translocase subunit SecE
+EPHAPNAE_00322	CDS	534	nusG_1			Transcription termination/antitermination protein NusG
+EPHAPNAE_00323	CDS	426	rplK		COG0080	50S ribosomal protein L11
+EPHAPNAE_00324	CDS	696	rplA			50S ribosomal protein L1
+EPHAPNAE_00325	CDS	537	rplJ		COG0244	50S ribosomal protein L10
+EPHAPNAE_00326	CDS	390	rplL			50S ribosomal protein L7/L12
+EPHAPNAE_00327	CDS	3753	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+EPHAPNAE_00328	CDS	3498	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+EPHAPNAE_00329	CDS	240	rplGB		COG1358	Ribosome-associated protein L7Ae-like protein
+EPHAPNAE_00330	CDS	429	rpsL		COG0048	30S ribosomal protein S12
+EPHAPNAE_00331	CDS	471	rpsG			30S ribosomal protein S7
+EPHAPNAE_00332	CDS	2094	fusA_1		COG0480	Elongation factor G
+EPHAPNAE_00333	CDS	1203	tuf		COG0050	Elongation factor Tu
+EPHAPNAE_00334	CDS	555	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+EPHAPNAE_00335	CDS	603				hypothetical protein
+EPHAPNAE_00336	CDS	375				hypothetical protein
+EPHAPNAE_00337	CDS	840				hypothetical protein
+EPHAPNAE_00338	CDS	270	crh_1		COG1925	HPr-like protein Crh
+EPHAPNAE_00339	CDS	1755	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+EPHAPNAE_00340	CDS	1878	uvrC		COG0322	UvrABC system protein C
+EPHAPNAE_00341	CDS	708				hypothetical protein
+EPHAPNAE_00342	CDS	1287	tig	5.2.1.8	COG0544	Trigger factor
+EPHAPNAE_00343	CDS	585	clpP_1	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+EPHAPNAE_00344	CDS	1296	clpX_1		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+EPHAPNAE_00345	CDS	1677	lon2	3.4.21.53	COG1067	Lon protease 2
+EPHAPNAE_00346	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+EPHAPNAE_00347	CDS	687	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+EPHAPNAE_00348	CDS	324				hypothetical protein
+EPHAPNAE_00349	CDS	471				hypothetical protein
+EPHAPNAE_00350	CDS	849	yciV	3.1.13.-	COG0613	5'-3' exoribonuclease
+EPHAPNAE_00351	CDS	465	smpB		COG0691	SsrA-binding protein
+EPHAPNAE_00352	tmRNA	387	ssrA			transfer-messenger RNA, SsrA
+EPHAPNAE_00353	CDS	180				hypothetical protein
+EPHAPNAE_00354	CDS	393				hypothetical protein
+EPHAPNAE_00355	CDS	174				hypothetical protein
+EPHAPNAE_00356	CDS	1332				hypothetical protein
+EPHAPNAE_00357	CDS	213				hypothetical protein
+EPHAPNAE_00358	CDS	717	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+EPHAPNAE_00359	CDS	822	draG	3.2.2.24	COG1397	ADP-ribosyl-[dinitrogen reductase] glycohydrolase
+EPHAPNAE_00360	CDS	1617	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+EPHAPNAE_00361	CDS	129				hypothetical protein
+EPHAPNAE_00362	CDS	879	rhaR_2			HTH-type transcriptional activator RhaR
+EPHAPNAE_00363	CDS	2886	celI_1	3.2.1.4		Endoglucanase 1
+EPHAPNAE_00364	CDS	2124	celI_2	3.2.1.4		Endoglucanase 1
+EPHAPNAE_00365	CDS	1443				hypothetical protein
+EPHAPNAE_00366	CDS	1053				hypothetical protein
+EPHAPNAE_00367	CDS	1464	rsr			60 kDa SS-A/Ro ribonucleoprotein 
+EPHAPNAE_00368	CDS	1581				hypothetical protein
+EPHAPNAE_00369	CDS	240				hypothetical protein
+EPHAPNAE_00370	CDS	1398	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+EPHAPNAE_00371	CDS	2613	apaH	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+EPHAPNAE_00372	CDS	702	scdA			Iron-sulfur cluster repair protein ScdA
+EPHAPNAE_00373	CDS	1230	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+EPHAPNAE_00374	CDS	699	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+EPHAPNAE_00375	CDS	621				hypothetical protein
+EPHAPNAE_00376	CDS	120				hypothetical protein
+EPHAPNAE_00377	CDS	144				hypothetical protein
+EPHAPNAE_00378	CDS	705	pnuC		COG3201	Nicotinamide riboside transporter PnuC
+EPHAPNAE_00379	CDS	1023	nadR		COG1056	Trifunctional NAD biosynthesis/regulator protein NadR
+EPHAPNAE_00380	CDS	387				hypothetical protein
+EPHAPNAE_00381	CDS	186				hypothetical protein
+EPHAPNAE_00382	CDS	342				hypothetical protein
+EPHAPNAE_00383	CDS	687				hypothetical protein
+EPHAPNAE_00384	CDS	741				hypothetical protein
+EPHAPNAE_00385	CDS	162				hypothetical protein
+EPHAPNAE_00386	CDS	666	glmS_1	5.4.99.1		Glutamate mutase sigma subunit
+EPHAPNAE_00387	CDS	1119	hemE_1	4.1.1.37		Uroporphyrinogen decarboxylase
+EPHAPNAE_00388	CDS	534				hypothetical protein
+EPHAPNAE_00389	CDS	477	hemE_2	4.1.1.37		Uroporphyrinogen decarboxylase
+EPHAPNAE_00390	CDS	1677	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+EPHAPNAE_00391	CDS	657				hypothetical protein
+EPHAPNAE_00392	CDS	1083	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+EPHAPNAE_00393	CDS	807	nrtD_2	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+EPHAPNAE_00394	CDS	909	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+EPHAPNAE_00395	CDS	1323		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+EPHAPNAE_00396	CDS	1173	ybdL	2.6.1.88	COG0436	Methionine aminotransferase
+EPHAPNAE_00397	CDS	546	porC_2	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+EPHAPNAE_00398	CDS	312	porD_2		COG1144	Pyruvate synthase subunit PorD
+EPHAPNAE_00399	CDS	1188	porA_2	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+EPHAPNAE_00400	CDS	906	porB_2	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+EPHAPNAE_00401	CDS	213				hypothetical protein
+EPHAPNAE_00402	CDS	381	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+EPHAPNAE_00403	CDS	1161	mccB	4.4.1.1	COG0626	Cystathionine gamma-lyase
+EPHAPNAE_00404	CDS	1182	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+EPHAPNAE_00405	CDS	2013	cooS1	1.2.7.4	COG1151	Carbon monoxide dehydrogenase 1
+EPHAPNAE_00406	CDS	984				hypothetical protein
+EPHAPNAE_00407	CDS	780	ssuC_2		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+EPHAPNAE_00408	CDS	771	cmpD	3.6.3.-		Bicarbonate transport ATP-binding protein CmpD
+EPHAPNAE_00409	CDS	2133				hypothetical protein
+EPHAPNAE_00410	CDS	1032		3.2.1.4		Endoglucanase C307
+EPHAPNAE_00411	CDS	1038	degA		COG1609	HTH-type transcriptional regulator DegA
+EPHAPNAE_00412	CDS	4407				hypothetical protein
+EPHAPNAE_00413	CDS	1755				hypothetical protein
+EPHAPNAE_00414	CDS	1776				hypothetical protein
+EPHAPNAE_00415	CDS	1839				hypothetical protein
+EPHAPNAE_00416	CDS	696	walR_1		COG0745	Transcriptional regulatory protein WalR
+EPHAPNAE_00417	CDS	2040	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_00418	CDS	1602	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+EPHAPNAE_00419	CDS	426	cheW_1		COG0835	Chemotaxis protein CheW
+EPHAPNAE_00420	CDS	1809				hypothetical protein
+EPHAPNAE_00421	CDS	4425	smc_1			Chromosome partition protein Smc
+EPHAPNAE_00422	CDS	834	cheR2_1	2.1.1.80		Chemotaxis protein methyltransferase Cher2
+EPHAPNAE_00423	CDS	1095	cheB_1	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+EPHAPNAE_00424	CDS	987	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+EPHAPNAE_00425	CDS	1302				hypothetical protein
+EPHAPNAE_00426	CDS	513	tipA			HTH-type transcriptional activator TipA
+EPHAPNAE_00427	CDS	1701				hypothetical protein
+EPHAPNAE_00428	CDS	702				hypothetical protein
+EPHAPNAE_00429	CDS	1818	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+EPHAPNAE_00430	CDS	534	hpf			Ribosome hibernation promotion factor
+EPHAPNAE_00431	CDS	2226	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+EPHAPNAE_00432	CDS	1758				hypothetical protein
+EPHAPNAE_00433	CDS	894				hypothetical protein
+EPHAPNAE_00434	CDS	1536				hypothetical protein
+EPHAPNAE_00435	CDS	1257	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+EPHAPNAE_00436	CDS	642	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+EPHAPNAE_00437	CDS	1308	hisD	1.1.1.23		Histidinol dehydrogenase
+EPHAPNAE_00438	CDS	1077	hisC_2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+EPHAPNAE_00439	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+EPHAPNAE_00440	CDS	885	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EPHAPNAE_00441	CDS	621	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+EPHAPNAE_00442	CDS	714	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+EPHAPNAE_00443	CDS	762	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+EPHAPNAE_00444	CDS	663	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+EPHAPNAE_00445	CDS	1170				hypothetical protein
+EPHAPNAE_00446	CDS	285	groS		COG0234	10 kDa chaperonin
+EPHAPNAE_00447	CDS	1626	groL		COG0459	60 kDa chaperonin
+EPHAPNAE_00448	CDS	1056				hypothetical protein
+EPHAPNAE_00449	CDS	531				hypothetical protein
+EPHAPNAE_00450	CDS	1752				hypothetical protein
+EPHAPNAE_00451	CDS	954				hypothetical protein
+EPHAPNAE_00452	CDS	480	greA_1		COG0782	Transcription elongation factor GreA
+EPHAPNAE_00453	CDS	315	rsbV		COG1366	Anti-sigma-B factor antagonist
+EPHAPNAE_00454	CDS	393	rsbW_1	2.7.11.1	COG2172	Serine-protein kinase RsbW
+EPHAPNAE_00455	CDS	759	sigB		COG1191	RNA polymerase sigma-B factor
+EPHAPNAE_00456	CDS	435	rsbW_2	2.7.11.1		Serine-protein kinase RsbW
+EPHAPNAE_00457	rRNA	1526				16S ribosomal RNA
+EPHAPNAE_00458	tRNA	77				tRNA-Ile(gat)
+EPHAPNAE_00459	rRNA	2904				23S ribosomal RNA
+EPHAPNAE_00460	rRNA	112				5S ribosomal RNA
+EPHAPNAE_00461	CDS	159				hypothetical protein
+EPHAPNAE_00462	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+EPHAPNAE_00463	CDS	639	rplC		COG0087	50S ribosomal protein L3
+EPHAPNAE_00464	CDS	627	rplD			50S ribosomal protein L4
+EPHAPNAE_00465	CDS	354				hypothetical protein
+EPHAPNAE_00466	CDS	828	rplB			50S ribosomal protein L2
+EPHAPNAE_00467	CDS	285	rpsS		COG0185	30S ribosomal protein S19
+EPHAPNAE_00468	CDS	477				hypothetical protein
+EPHAPNAE_00469	CDS	681	rpsC		COG0092	30S ribosomal protein S3
+EPHAPNAE_00470	CDS	438	rplP		COG0197	50S ribosomal protein L16
+EPHAPNAE_00471	CDS	204	rpmC			50S ribosomal protein L29
+EPHAPNAE_00472	CDS	258	rpsQ			30S ribosomal protein S17
+EPHAPNAE_00473	CDS	369	rplN			50S ribosomal protein L14
+EPHAPNAE_00474	CDS	351	rplX		COG0198	50S ribosomal protein L24
+EPHAPNAE_00475	CDS	543	rplE			50S ribosomal protein L5
+EPHAPNAE_00476	CDS	399	rpsH			30S ribosomal protein S8
+EPHAPNAE_00477	CDS	552	rplF			50S ribosomal protein L6
+EPHAPNAE_00478	CDS	369	rplR			50S ribosomal protein L18
+EPHAPNAE_00479	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+EPHAPNAE_00480	CDS	180	rpmD			50S ribosomal protein L30
+EPHAPNAE_00481	CDS	441	rplO		COG0200	50S ribosomal protein L15
+EPHAPNAE_00482	CDS	1284	secY		COG0201	Protein translocase subunit SecY
+EPHAPNAE_00483	CDS	654	adk	2.7.4.3		Adenylate kinase
+EPHAPNAE_00484	CDS	771	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+EPHAPNAE_00485	CDS	273				hypothetical protein
+EPHAPNAE_00486	CDS	219	infA		COG0361	Translation initiation factor IF-1
+EPHAPNAE_00487	CDS	114	rpmJ			50S ribosomal protein L36
+EPHAPNAE_00488	CDS	372	rpsM		COG0099	30S ribosomal protein S13
+EPHAPNAE_00489	CDS	405	rpsK			30S ribosomal protein S11
+EPHAPNAE_00490	CDS	627	rpsD		COG0522	30S ribosomal protein S4
+EPHAPNAE_00491	CDS	948	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+EPHAPNAE_00492	CDS	525	rplQ			50S ribosomal protein L17
+EPHAPNAE_00493	CDS	858	ecfA1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+EPHAPNAE_00494	CDS	591	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+EPHAPNAE_00495	CDS	2526				hypothetical protein
+EPHAPNAE_00496	CDS	1164				hypothetical protein
+EPHAPNAE_00497	CDS	1872				hypothetical protein
+EPHAPNAE_00498	CDS	279				hypothetical protein
+EPHAPNAE_00499	CDS	2028				hypothetical protein
+EPHAPNAE_00500	CDS	267				hypothetical protein
+EPHAPNAE_00501	CDS	384				hypothetical protein
+EPHAPNAE_00502	CDS	1320				hypothetical protein
+EPHAPNAE_00503	CDS	1707				hypothetical protein
+EPHAPNAE_00504	CDS	846	ecfA2_1	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+EPHAPNAE_00505	CDS	810	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+EPHAPNAE_00506	CDS	954	glkA	2.7.1.2		Glucokinase
+EPHAPNAE_00507	CDS	735	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+EPHAPNAE_00508	CDS	477	carD		COG1329	RNA polymerase-binding transcription factor CarD
+EPHAPNAE_00509	CDS	714	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+EPHAPNAE_00510	CDS	756	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+EPHAPNAE_00511	CDS	1218	natB	7.2.2.4	COG1668	ABC transporter permease protein NatB
+EPHAPNAE_00512	CDS	1815	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_00513	CDS	1851	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_00514	CDS	471	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+EPHAPNAE_00515	CDS	1719	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+EPHAPNAE_00516	CDS	843				hypothetical protein
+EPHAPNAE_00517	CDS	1704				hypothetical protein
+EPHAPNAE_00518	CDS	1665				hypothetical protein
+EPHAPNAE_00519	CDS	633				hypothetical protein
+EPHAPNAE_00520	CDS	726				IS21 family transposase ISCth12
+EPHAPNAE_00521	CDS	249				hypothetical protein
+EPHAPNAE_00522	CDS	933				hypothetical protein
+EPHAPNAE_00523	CDS	522				hypothetical protein
+EPHAPNAE_00524	CDS	468				hypothetical protein
+EPHAPNAE_00525	CDS	294				IS3 family transposase IS120
+EPHAPNAE_00526	CDS	843				IS3 family transposase IS120
+EPHAPNAE_00527	CDS	843				IS3 family transposase IS120
+EPHAPNAE_00528	CDS	294				IS3 family transposase IS120
+EPHAPNAE_00529	CDS	333				hypothetical protein
+EPHAPNAE_00530	CDS	1626	oppA		COG4166	Oligopeptide-binding protein OppA
+EPHAPNAE_00531	CDS	1029	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+EPHAPNAE_00532	CDS	1017	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+EPHAPNAE_00533	CDS	1056	oppC		COG1173	Oligopeptide transport system permease protein OppC
+EPHAPNAE_00534	CDS	924	oppB		COG0601	Oligopeptide transport system permease protein OppB
+EPHAPNAE_00535	CDS	747				hypothetical protein
+EPHAPNAE_00536	CDS	1179				hypothetical protein
+EPHAPNAE_00537	CDS	780				hypothetical protein
+EPHAPNAE_00538	CDS	375				hypothetical protein
+EPHAPNAE_00539	CDS	852	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+EPHAPNAE_00540	CDS	612				hypothetical protein
+EPHAPNAE_00541	CDS	2052				hypothetical protein
+EPHAPNAE_00542	CDS	1374	xynA	3.2.1.8		Endo-1,4-beta-xylanase A
+EPHAPNAE_00543	CDS	702	sfsA		COG1489	Sugar fermentation stimulation protein A
+EPHAPNAE_00544	CDS	1215	rsgI6_1	3.2.1.8		Anti-sigma-I factor RsgI6
+EPHAPNAE_00545	CDS	765	sigI1_1			RNA polymerase sigma factor SigI1
+EPHAPNAE_00546	CDS	1371	smc_2			Chromosome partition protein Smc
+EPHAPNAE_00547	CDS	708	anr			Transcriptional activator protein Anr
+EPHAPNAE_00548	CDS	198	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EPHAPNAE_00549	CDS	591				hypothetical protein
+EPHAPNAE_00550	CDS	513				hypothetical protein
+EPHAPNAE_00551	CDS	873				hypothetical protein
+EPHAPNAE_00552	CDS	1656				hypothetical protein
+EPHAPNAE_00553	CDS	237	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+EPHAPNAE_00554	CDS	351				hypothetical protein
+EPHAPNAE_00555	CDS	783				hypothetical protein
+EPHAPNAE_00556	CDS	354				hypothetical protein
+EPHAPNAE_00557	CDS	354				hypothetical protein
+EPHAPNAE_00558	CDS	300				hypothetical protein
+EPHAPNAE_00559	CDS	2955				hypothetical protein
+EPHAPNAE_00560	CDS	222				hypothetical protein
+EPHAPNAE_00561	CDS	597	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+EPHAPNAE_00562	CDS	1938	fldZ	1.3.1.-		Cinnamate reductase
+EPHAPNAE_00563	CDS	525				hypothetical protein
+EPHAPNAE_00564	CDS	1047				hypothetical protein
+EPHAPNAE_00565	CDS	2025				hypothetical protein
+EPHAPNAE_00566	CDS	234				hypothetical protein
+EPHAPNAE_00567	CDS	579	yraA	3.2.-.-	COG0693	Putative cysteine protease YraA
+EPHAPNAE_00568	CDS	780				hypothetical protein
+EPHAPNAE_00569	CDS	1728		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+EPHAPNAE_00570	CDS	573				hypothetical protein
+EPHAPNAE_00571	CDS	1053				hypothetical protein
+EPHAPNAE_00572	CDS	624				hypothetical protein
+EPHAPNAE_00573	CDS	549				hypothetical protein
+EPHAPNAE_00574	CDS	3450		1.18.1.2		Ferredoxin--NADP reductase
+EPHAPNAE_00575	CDS	1272	yneA_1			Cell division suppressor protein YneA
+EPHAPNAE_00576	CDS	870				hypothetical protein
+EPHAPNAE_00577	CDS	693				hypothetical protein
+EPHAPNAE_00578	CDS	672	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+EPHAPNAE_00579	CDS	294				hypothetical protein
+EPHAPNAE_00580	CDS	558				hypothetical protein
+EPHAPNAE_00581	CDS	384				hypothetical protein
+EPHAPNAE_00582	CDS	1893				hypothetical protein
+EPHAPNAE_00583	CDS	978	hypE	4.2.1.-	COG0309	Carbamoyl dehydratase HypE
+EPHAPNAE_00584	CDS	1050	hypD		COG0409	Hydrogenase maturation factor HypD
+EPHAPNAE_00585	CDS	228				hypothetical protein
+EPHAPNAE_00586	CDS	2262	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+EPHAPNAE_00587	CDS	654	hypB			Hydrogenase maturation factor HypB
+EPHAPNAE_00588	CDS	339	hybF		COG0375	Hydrogenase maturation factor HybF
+EPHAPNAE_00589	CDS	387	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+EPHAPNAE_00590	CDS	1080	hycE		COG3261	Formate hydrogenlyase subunit 5
+EPHAPNAE_00591	CDS	360				hypothetical protein
+EPHAPNAE_00592	CDS	438	hycG		COG3260	Formate hydrogenlyase subunit 7
+EPHAPNAE_00593	CDS	876	hycD		COG0650	Formate hydrogenlyase subunit 4
+EPHAPNAE_00594	CDS	1911	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+EPHAPNAE_00595	CDS	159				hypothetical protein
+EPHAPNAE_00596	CDS	483	greA_2			Transcription elongation factor GreA
+EPHAPNAE_00597	CDS	1371				hypothetical protein
+EPHAPNAE_00598	CDS	1197	hdc	4.1.1.22		Histidine decarboxylase
+EPHAPNAE_00599	CDS	492	cheW_2		COG0835	Chemotaxis protein CheW
+EPHAPNAE_00600	CDS	2499				hypothetical protein
+EPHAPNAE_00601	CDS	417				hypothetical protein
+EPHAPNAE_00602	CDS	435				hypothetical protein
+EPHAPNAE_00603	CDS	420				hypothetical protein
+EPHAPNAE_00604	CDS	453				hypothetical protein
+EPHAPNAE_00605	CDS	1176	pdxB	1.1.1.290		Erythronate-4-phosphate dehydrogenase
+EPHAPNAE_00606	CDS	1713				hypothetical protein
+EPHAPNAE_00607	CDS	639	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+EPHAPNAE_00608	CDS	708				hypothetical protein
+EPHAPNAE_00609	CDS	2466				hypothetical protein
+EPHAPNAE_00610	CDS	435				hypothetical protein
+EPHAPNAE_00611	CDS	963	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+EPHAPNAE_00612	CDS	822				hypothetical protein
+EPHAPNAE_00613	CDS	639				hypothetical protein
+EPHAPNAE_00614	CDS	750				hypothetical protein
+EPHAPNAE_00615	CDS	450				hypothetical protein
+EPHAPNAE_00616	CDS	1269	rodA		COG0772	putative FtsW-like protein
+EPHAPNAE_00617	CDS	1413	pbpA		COG0768	Penicillin-binding protein A
+EPHAPNAE_00618	CDS	666				hypothetical protein
+EPHAPNAE_00619	CDS	1776	ycf3			Photosystem I assembly protein Ycf3
+EPHAPNAE_00620	CDS	2184				hypothetical protein
+EPHAPNAE_00621	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_00622	CDS	8922				hypothetical protein
+EPHAPNAE_00623	CDS	558				hypothetical protein
+EPHAPNAE_00624	CDS	390				hypothetical protein
+EPHAPNAE_00625	CDS	138				hypothetical protein
+EPHAPNAE_00626	CDS	441				hypothetical protein
+EPHAPNAE_00627	CDS	921				ISL3 family transposase ISCsa1
+EPHAPNAE_00628	CDS	270				hypothetical protein
+EPHAPNAE_00629	CDS	480				hypothetical protein
+EPHAPNAE_00630	CDS	540	kptA	2.7.1.-	COG1859	putative RNA 2'-phosphotransferase
+EPHAPNAE_00631	CDS	243				hypothetical protein
+EPHAPNAE_00632	CDS	1383				hypothetical protein
+EPHAPNAE_00633	CDS	963	cah	3.1.1.41	COG3458	Cephalosporin-C deacetylase
+EPHAPNAE_00634	rRNA	1526				16S ribosomal RNA
+EPHAPNAE_00635	rRNA	2904				23S ribosomal RNA
+EPHAPNAE_00636	rRNA	112				5S ribosomal RNA
+EPHAPNAE_00637	CDS	1608	murJ_2		COG2244	Lipid II flippase MurJ
+EPHAPNAE_00638	CDS	1242				hypothetical protein
+EPHAPNAE_00639	CDS	726	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+EPHAPNAE_00640	CDS	753				hypothetical protein
+EPHAPNAE_00641	CDS	1440	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_00642	CDS	693	walR_2		COG0745	Transcriptional regulatory protein WalR
+EPHAPNAE_00643	CDS	591				hypothetical protein
+EPHAPNAE_00644	CDS	177				hypothetical protein
+EPHAPNAE_00645	CDS	762				hypothetical protein
+EPHAPNAE_00646	CDS	672		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+EPHAPNAE_00647	CDS	921	ywtE	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YwtE
+EPHAPNAE_00648	CDS	1617				hypothetical protein
+EPHAPNAE_00649	CDS	1293	moaA_5			GTP 3',8-cyclase
+EPHAPNAE_00650	CDS	5049	cipA		COG2730	Cellulosomal-scaffolding protein A
+EPHAPNAE_00651	CDS	6831				hypothetical protein
+EPHAPNAE_00652	CDS	2067				Cell surface glycoprotein 2
+EPHAPNAE_00653	CDS	1338	ancA			Cellulosome-anchoring protein
+EPHAPNAE_00654	CDS	843				hypothetical protein
+EPHAPNAE_00655	CDS	204				hypothetical protein
+EPHAPNAE_00656	CDS	282				hypothetical protein
+EPHAPNAE_00657	CDS	1137	rlmL_1	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+EPHAPNAE_00658	CDS	927				hypothetical protein
+EPHAPNAE_00659	CDS	1272	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+EPHAPNAE_00660	CDS	810	spo0A_1			Stage 0 sporulation protein A
+EPHAPNAE_00661	CDS	276	hup_2			DNA-binding protein HU
+EPHAPNAE_00662	CDS	411				hypothetical protein
+EPHAPNAE_00663	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+EPHAPNAE_00664	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+EPHAPNAE_00665	CDS	207				hypothetical protein
+EPHAPNAE_00666	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+EPHAPNAE_00667	tRNA	76				tRNA-Lys(ttt)
+EPHAPNAE_00668	tRNA	75				tRNA-Glu(ttc)
+EPHAPNAE_00669	tRNA	77				tRNA-Asp(gtc)
+EPHAPNAE_00670	tRNA	76				tRNA-Thr(tgt)
+EPHAPNAE_00671	tRNA	85				tRNA-Tyr(gta)
+EPHAPNAE_00672	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_00673	CDS	975		2.4.-.-		putative glycosyltransferase
+EPHAPNAE_00674	CDS	2907				hypothetical protein
+EPHAPNAE_00675	CDS	936				hypothetical protein
+EPHAPNAE_00676	CDS	966		2.4.-.-		putative glycosyltransferase
+EPHAPNAE_00677	CDS	351				hypothetical protein
+EPHAPNAE_00678	CDS	699		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+EPHAPNAE_00679	CDS	843	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+EPHAPNAE_00680	CDS	1233	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+EPHAPNAE_00681	CDS	936	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+EPHAPNAE_00682	CDS	987				hypothetical protein
+EPHAPNAE_00683	CDS	780	hadI	3.-.-.-	COG1924	2-hydroxyisocaproyl-CoA dehydratase activator
+EPHAPNAE_00684	CDS	669	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+EPHAPNAE_00685	CDS	384				hypothetical protein
+EPHAPNAE_00686	CDS	633	queE_1	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+EPHAPNAE_00687	CDS	570	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+EPHAPNAE_00688	CDS	579	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+EPHAPNAE_00689	rRNA	1526				16S ribosomal RNA
+EPHAPNAE_00690	tRNA	76				tRNA-Ala(tgc)
+EPHAPNAE_00691	rRNA	2904				23S ribosomal RNA
+EPHAPNAE_00692	rRNA	112				5S ribosomal RNA
+EPHAPNAE_00693	tRNA	76				tRNA-Asn(gtt)
+EPHAPNAE_00694	CDS	765				hypothetical protein
+EPHAPNAE_00695	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_00696	CDS	480				hypothetical protein
+EPHAPNAE_00697	CDS	123				hypothetical protein
+EPHAPNAE_00698	CDS	993		2.4.1.319	COG2152	Beta-1,4-mannooligosaccharide phosphorylase
+EPHAPNAE_00699	CDS	1044	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+EPHAPNAE_00700	CDS	1176	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EPHAPNAE_00701	CDS	1014				hypothetical protein
+EPHAPNAE_00702	CDS	1092	gmuF	5.3.1.8	COG1482	putative mannose-6-phosphate isomerase GmuF
+EPHAPNAE_00703	CDS	756	zupT_2		COG0428	Zinc transporter ZupT
+EPHAPNAE_00704	CDS	390				Bacteriohemerythrin
+EPHAPNAE_00705	CDS	663	hrb		COG1773	High molecular weight rubredoxin
+EPHAPNAE_00706	CDS	3528		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+EPHAPNAE_00707	CDS	168				hypothetical protein
+EPHAPNAE_00708	CDS	2505				hypothetical protein
+EPHAPNAE_00709	CDS	3462				hypothetical protein
+EPHAPNAE_00710	CDS	1638	lcfB_1	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EPHAPNAE_00711	CDS	450			COG0071	18 kDa heat shock protein
+EPHAPNAE_00712	CDS	954				hypothetical protein
+EPHAPNAE_00713	CDS	1389				hypothetical protein
+EPHAPNAE_00714	CDS	1338				hypothetical protein
+EPHAPNAE_00715	CDS	1113	ybiR		COG0471	Inner membrane protein YbiR
+EPHAPNAE_00716	CDS	735				hypothetical protein
+EPHAPNAE_00717	CDS	1698				hypothetical protein
+EPHAPNAE_00718	CDS	1236				hypothetical protein
+EPHAPNAE_00719	CDS	810		3.1.1.2		Arylesterase
+EPHAPNAE_00720	CDS	201				hypothetical protein
+EPHAPNAE_00721	CDS	333				hypothetical protein
+EPHAPNAE_00722	CDS	1818				hypothetical protein
+EPHAPNAE_00723	CDS	165				hypothetical protein
+EPHAPNAE_00724	CDS	561				hypothetical protein
+EPHAPNAE_00725	CDS	639				hypothetical protein
+EPHAPNAE_00726	CDS	2496				hypothetical protein
+EPHAPNAE_00727	CDS	489				hypothetical protein
+EPHAPNAE_00728	CDS	351				hypothetical protein
+EPHAPNAE_00729	CDS	732				hypothetical protein
+EPHAPNAE_00730	CDS	363	blaI_1		COG3682	Penicillinase repressor
+EPHAPNAE_00731	CDS	2187				hypothetical protein
+EPHAPNAE_00732	CDS	1746			COG1132	putative ABC transporter ATP-binding protein
+EPHAPNAE_00733	CDS	1899			COG1132	putative ABC transporter ATP-binding protein
+EPHAPNAE_00734	CDS	1443	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+EPHAPNAE_00735	CDS	1056	cbiB			Cobalamin biosynthesis protein CbiB
+EPHAPNAE_00736	CDS	564	cobU	2.7.1.156	COG2087	Bifunctional adenosylcobalamin biosynthesis protein CobU
+EPHAPNAE_00737	CDS	720	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+EPHAPNAE_00738	CDS	591	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+EPHAPNAE_00739	CDS	552				hypothetical protein
+EPHAPNAE_00740	CDS	735			COG1234	putative protein
+EPHAPNAE_00741	CDS	1251	mcpC_2		COG0840	Methyl-accepting chemotaxis protein McpC
+EPHAPNAE_00742	CDS	1380		2.3.3.3	COG0119	Citrate (Re)-synthase
+EPHAPNAE_00743	CDS	1929	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+EPHAPNAE_00744	CDS	672	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+EPHAPNAE_00745	CDS	1371	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+EPHAPNAE_00746	CDS	735	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+EPHAPNAE_00747	CDS	1170				hypothetical protein
+EPHAPNAE_00748	CDS	492				hypothetical protein
+EPHAPNAE_00749	CDS	1635	rssB_1			Regulator of RpoS
+EPHAPNAE_00750	CDS	1107				hypothetical protein
+EPHAPNAE_00751	CDS	1281	glgC_1	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+EPHAPNAE_00752	CDS	1122	glgC_2	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+EPHAPNAE_00753	CDS	879	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+EPHAPNAE_00754	CDS	759	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+EPHAPNAE_00755	CDS	672	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+EPHAPNAE_00756	CDS	2448				hypothetical protein
+EPHAPNAE_00757	CDS	1416	ytrF		COG0577	ABC transporter permease YtrF
+EPHAPNAE_00758	tRNA	77				tRNA-Val(gac)
+EPHAPNAE_00759	CDS	999				hypothetical protein
+EPHAPNAE_00760	CDS	390				hypothetical protein
+EPHAPNAE_00761	CDS	684				hypothetical protein
+EPHAPNAE_00762	CDS	210				hypothetical protein
+EPHAPNAE_00763	CDS	1266	ugtP_3	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+EPHAPNAE_00764	CDS	1590				hypothetical protein
+EPHAPNAE_00765	CDS	1191	dacF_1	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+EPHAPNAE_00766	CDS	912				hypothetical protein
+EPHAPNAE_00767	CDS	1398	trkA		COG0569	Trk system potassium uptake protein TrkA
+EPHAPNAE_00768	CDS	1452	trkH		COG0168	Trk system potassium uptake protein TrkH
+EPHAPNAE_00769	CDS	1035	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+EPHAPNAE_00770	CDS	1752				hypothetical protein
+EPHAPNAE_00771	CDS	423	spoIIAB_1	2.7.11.1		Anti-sigma F factor
+EPHAPNAE_00772	CDS	1488				hypothetical protein
+EPHAPNAE_00773	CDS	702				hypothetical protein
+EPHAPNAE_00774	CDS	2142	recD2_1	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+EPHAPNAE_00775	CDS	1221				hypothetical protein
+EPHAPNAE_00776	CDS	630				hypothetical protein
+EPHAPNAE_00777	CDS	711	plc	3.1.4.3		Phospholipase C
+EPHAPNAE_00778	CDS	651				hypothetical protein
+EPHAPNAE_00779	CDS	426				hypothetical protein
+EPHAPNAE_00780	CDS	1362				hypothetical protein
+EPHAPNAE_00781	CDS	555				hypothetical protein
+EPHAPNAE_00782	CDS	186				hypothetical protein
+EPHAPNAE_00783	CDS	1050	yhhT		COG0628	Putative transport protein YhhT
+EPHAPNAE_00784	CDS	2643	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+EPHAPNAE_00785	CDS	750				hypothetical protein
+EPHAPNAE_00786	CDS	711				hypothetical protein
+EPHAPNAE_00787	CDS	252				hypothetical protein
+EPHAPNAE_00788	CDS	987				hypothetical protein
+EPHAPNAE_00789	CDS	990				hypothetical protein
+EPHAPNAE_00790	CDS	1506				hypothetical protein
+EPHAPNAE_00791	CDS	666				hypothetical protein
+EPHAPNAE_00792	CDS	1602				hypothetical protein
+EPHAPNAE_00793	CDS	1383				hypothetical protein
+EPHAPNAE_00794	CDS	468				hypothetical protein
+EPHAPNAE_00795	CDS	2079				hypothetical protein
+EPHAPNAE_00796	CDS	180				hypothetical protein
+EPHAPNAE_00797	CDS	1467				hypothetical protein
+EPHAPNAE_00798	CDS	627	cas1_1	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+EPHAPNAE_00799	CDS	240				hypothetical protein
+EPHAPNAE_00800	CDS	291	cas2_1	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+EPHAPNAE_00801	CDS	630				hypothetical protein
+EPHAPNAE_00802	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_00803	CDS	249				hypothetical protein
+EPHAPNAE_00804	CDS	648				hypothetical protein
+EPHAPNAE_00805	CDS	798				hypothetical protein
+EPHAPNAE_00806	CDS	498				hypothetical protein
+EPHAPNAE_00807	CDS	861				hypothetical protein
+EPHAPNAE_00808	CDS	843				IS3 family transposase IS120
+EPHAPNAE_00809	CDS	294				IS3 family transposase IS120
+EPHAPNAE_00810	CDS	102				hypothetical protein
+EPHAPNAE_00811	CDS	513				hypothetical protein
+EPHAPNAE_00812	CDS	789				hypothetical protein
+EPHAPNAE_00813	CDS	804				hypothetical protein
+EPHAPNAE_00814	CDS	801				hypothetical protein
+EPHAPNAE_00815	CDS	2931				hypothetical protein
+EPHAPNAE_00816	CDS	480				hypothetical protein
+EPHAPNAE_00817	CDS	5805				hypothetical protein
+EPHAPNAE_00818	CDS	930				hypothetical protein
+EPHAPNAE_00819	CDS	1221				IS256 family transposase ISCth5
+EPHAPNAE_00820	CDS	5298				hypothetical protein
+EPHAPNAE_00821	CDS	255				hypothetical protein
+EPHAPNAE_00822	CDS	234				hypothetical protein
+EPHAPNAE_00823	CDS	249				hypothetical protein
+EPHAPNAE_00824	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_00825	CDS	1572	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+EPHAPNAE_00826	CDS	1524				hypothetical protein
+EPHAPNAE_00827	CDS	810	fliY		COG0834	L-cystine-binding protein FliY
+EPHAPNAE_00828	CDS	663				hypothetical protein
+EPHAPNAE_00829	CDS	786	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+EPHAPNAE_00830	CDS	675				hypothetical protein
+EPHAPNAE_00831	CDS	390				hypothetical protein
+EPHAPNAE_00832	CDS	1656				hypothetical protein
+EPHAPNAE_00833	CDS	474				hypothetical protein
+EPHAPNAE_00834	CDS	786				hypothetical protein
+EPHAPNAE_00835	CDS	459				hypothetical protein
+EPHAPNAE_00836	CDS	1413	mepA		COG0534	Multidrug export protein MepA
+EPHAPNAE_00837	CDS	537				hypothetical protein
+EPHAPNAE_00838	CDS	2538				hypothetical protein
+EPHAPNAE_00839	CDS	246				hypothetical protein
+EPHAPNAE_00840	CDS	111				hypothetical protein
+EPHAPNAE_00841	CDS	426				hypothetical protein
+EPHAPNAE_00842	CDS	924				hypothetical protein
+EPHAPNAE_00843	CDS	933	malT			HTH-type transcriptional regulator MalT
+EPHAPNAE_00844	CDS	648				hypothetical protein
+EPHAPNAE_00845	CDS	345				hypothetical protein
+EPHAPNAE_00846	CDS	504	sigV		COG1595	RNA polymerase sigma factor SigV
+EPHAPNAE_00847	CDS	903	rsiV			Anti-sigma-V factor RsiV
+EPHAPNAE_00848	CDS	582	gpmB	5.4.2.-		phosphoglycerate mutase GpmB
+EPHAPNAE_00849	CDS	591				hypothetical protein
+EPHAPNAE_00850	CDS	774	gno	1.1.1.-		Gluconate 5-dehydrogenase
+EPHAPNAE_00851	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_00852	CDS	1956				hypothetical protein
+EPHAPNAE_00853	CDS	1014				hypothetical protein
+EPHAPNAE_00854	CDS	900				hypothetical protein
+EPHAPNAE_00855	CDS	1329	bglA_1	3.2.1.21		Beta-glucosidase A
+EPHAPNAE_00856	CDS	303				hypothetical protein
+EPHAPNAE_00857	CDS	735	ygaZ		COG1296	Inner membrane protein YgaZ
+EPHAPNAE_00858	CDS	2124	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+EPHAPNAE_00859	CDS	942				hypothetical protein
+EPHAPNAE_00860	CDS	1119				hypothetical protein
+EPHAPNAE_00861	CDS	99				hypothetical protein
+EPHAPNAE_00862	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_00863	CDS	792				hypothetical protein
+EPHAPNAE_00864	CDS	981	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+EPHAPNAE_00865	CDS	597	mntP		COG1971	putative manganese efflux pump MntP
+EPHAPNAE_00866	CDS	423				hypothetical protein
+EPHAPNAE_00867	CDS	2106				hypothetical protein
+EPHAPNAE_00868	CDS	861	yxlF_1	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+EPHAPNAE_00869	CDS	1254				hypothetical protein
+EPHAPNAE_00870	CDS	1917				hypothetical protein
+EPHAPNAE_00871	CDS	1185	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+EPHAPNAE_00872	CDS	771	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+EPHAPNAE_00873	CDS	951	mneS		COG0053	Manganese efflux system protein MneS
+EPHAPNAE_00874	CDS	1470	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_00875	CDS	699	regX3_1		COG0745	Sensory transduction protein regX3
+EPHAPNAE_00876	CDS	687				hypothetical protein
+EPHAPNAE_00877	CDS	687				hypothetical protein
+EPHAPNAE_00878	CDS	2112				hypothetical protein
+EPHAPNAE_00879	CDS	2151	feoB_1		COG0370	Fe(2+) transporter FeoB
+EPHAPNAE_00880	CDS	240				hypothetical protein
+EPHAPNAE_00881	CDS	480	mntR_1			HTH-type transcriptional regulator MntR
+EPHAPNAE_00882	CDS	333				hypothetical protein
+	repeat_region	5390				
+EPHAPNAE_00883	CDS	1248				hypothetical protein
+EPHAPNAE_00884	CDS	447				hypothetical protein
+EPHAPNAE_00885	CDS	2529	xghA	3.2.1.-		Xyloglucanase Xgh74A
+EPHAPNAE_00886	CDS	819	gspA		COG1442	General stress protein A
+EPHAPNAE_00887	CDS	1545		2.7.8.-		Cardiolipin synthase
+EPHAPNAE_00888	CDS	192				hypothetical protein
+EPHAPNAE_00889	CDS	720	walR_3		COG0745	Transcriptional regulatory protein WalR
+EPHAPNAE_00890	CDS	1770	walK	2.7.13.3		Sensor histidine kinase WalK
+EPHAPNAE_00891	CDS	1536	leuA	2.3.3.13		2-isopropylmalate synthase
+EPHAPNAE_00892	CDS	933		3.1.1.23	COG2267	Monoacylglycerol lipase
+EPHAPNAE_00893	CDS	1329	cca	2.7.7.72		CCA-adding enzyme
+EPHAPNAE_00894	CDS	294				hypothetical protein
+EPHAPNAE_00895	CDS	396				hypothetical protein
+EPHAPNAE_00896	CDS	600				hypothetical protein
+EPHAPNAE_00897	CDS	2733	secA		COG0653	Protein translocase subunit SecA
+EPHAPNAE_00898	CDS	1287	fpgS	6.3.2.17		Folylpolyglutamate synthase
+EPHAPNAE_00899	CDS	1158	cpoB_2			Cell division coordinator CpoB
+EPHAPNAE_00900	CDS	1158				hypothetical protein
+EPHAPNAE_00901	CDS	1686				hypothetical protein
+EPHAPNAE_00902	CDS	375	cheY_1		COG0784	Chemotaxis protein CheY
+EPHAPNAE_00903	CDS	1089	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+EPHAPNAE_00904	CDS	1593				hypothetical protein
+EPHAPNAE_00905	CDS	444				hypothetical protein
+EPHAPNAE_00906	CDS	1248	hom_1	1.1.1.3	COG0460	Homoserine dehydrogenase
+EPHAPNAE_00907	CDS	1350	yclM	2.7.2.4	COG0527	Aspartokinase 3
+EPHAPNAE_00908	CDS	789				hypothetical protein
+EPHAPNAE_00909	CDS	5754				hypothetical protein
+EPHAPNAE_00910	CDS	459				hypothetical protein
+EPHAPNAE_00911	CDS	639				hypothetical protein
+EPHAPNAE_00912	CDS	177				hypothetical protein
+EPHAPNAE_00913	CDS	279				hypothetical protein
+EPHAPNAE_00914	CDS	5880				hypothetical protein
+EPHAPNAE_00915	CDS	462				hypothetical protein
+EPHAPNAE_00916	CDS	192				hypothetical protein
+EPHAPNAE_00917	CDS	345		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+EPHAPNAE_00918	CDS	2133				hypothetical protein
+EPHAPNAE_00919	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_00920	CDS	777	ywqE_2	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+EPHAPNAE_00921	CDS	552	rmlC_2	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+EPHAPNAE_00922	CDS	567				hypothetical protein
+EPHAPNAE_00923	CDS	1179				hypothetical protein
+EPHAPNAE_00924	CDS	1395				Iron-sulfur cluster carrier protein
+EPHAPNAE_00925	CDS	558	nusG_2			Transcription termination/antitermination protein NusG
+EPHAPNAE_00926	CDS	1044	wbgU_1	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+EPHAPNAE_00927	CDS	492				hypothetical protein
+EPHAPNAE_00928	CDS	495				hypothetical protein
+EPHAPNAE_00929	CDS	891				hypothetical protein
+EPHAPNAE_00930	CDS	1146	pglJ	2.4.1.291	COG0438	N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase
+EPHAPNAE_00931	CDS	906				hypothetical protein
+EPHAPNAE_00932	CDS	933				hypothetical protein
+EPHAPNAE_00933	CDS	1272				hypothetical protein
+EPHAPNAE_00934	CDS	1461	murJ_3			lipid II flippase MurJ
+EPHAPNAE_00935	CDS	1326	rkpK	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+EPHAPNAE_00936	CDS	480				hypothetical protein
+EPHAPNAE_00937	CDS	405				Single-stranded DNA-binding protein
+EPHAPNAE_00938	CDS	1404				hypothetical protein
+EPHAPNAE_00939	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+EPHAPNAE_00940	CDS	444	yqeY		COG1610	putative protein YqeY
+EPHAPNAE_00941	CDS	2484				hypothetical protein
+EPHAPNAE_00942	CDS	516	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+EPHAPNAE_00943	CDS	2175	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+EPHAPNAE_00944	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+EPHAPNAE_00945	CDS	606		3.-.-.-		putative protein
+EPHAPNAE_00946	CDS	1518	hemZ	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+EPHAPNAE_00947	CDS	1128				hypothetical protein
+EPHAPNAE_00948	CDS	1239				hypothetical protein
+EPHAPNAE_00949	CDS	807				hypothetical protein
+EPHAPNAE_00950	CDS	870				hypothetical protein
+EPHAPNAE_00951	CDS	207				hypothetical protein
+EPHAPNAE_00952	CDS	702				hypothetical protein
+EPHAPNAE_00953	CDS	630				hypothetical protein
+EPHAPNAE_00954	CDS	1563				hypothetical protein
+EPHAPNAE_00955	CDS	1131				hypothetical protein
+EPHAPNAE_00956	CDS	1254	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+EPHAPNAE_00957	CDS	1788	aspS_1	6.1.1.12		Aspartate--tRNA ligase
+EPHAPNAE_00958	CDS	525	sipT_1	3.4.21.89	COG0681	Signal peptidase I T
+EPHAPNAE_00959	CDS	4302				hypothetical protein
+EPHAPNAE_00960	CDS	210				hypothetical protein
+EPHAPNAE_00961	CDS	1278				hypothetical protein
+EPHAPNAE_00962	CDS	282				hypothetical protein
+EPHAPNAE_00963	CDS	1812	lepA	3.6.5.-	COG0481	Elongation factor 4
+EPHAPNAE_00964	CDS	1143	hemW		COG0635	Heme chaperone HemW
+EPHAPNAE_00965	CDS	1056	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+EPHAPNAE_00966	CDS	681	grpE			Protein GrpE
+EPHAPNAE_00967	CDS	1827	dnaK		COG0443	Chaperone protein DnaK
+EPHAPNAE_00968	CDS	1161	dnaJ			Chaperone protein DnaJ
+EPHAPNAE_00969	CDS	942	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+EPHAPNAE_00970	CDS	765	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+EPHAPNAE_00971	CDS	372	cheY_2		COG0784	Chemotaxis protein CheY
+EPHAPNAE_00972	CDS	204				hypothetical protein
+EPHAPNAE_00973	CDS	885				hypothetical protein
+EPHAPNAE_00974	CDS	282	remA		COG2052	Extracellular matrix regulatory protein A
+EPHAPNAE_00975	CDS	612	gmk	2.7.4.8	COG0194	Guanylate kinase
+EPHAPNAE_00976	CDS	237	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+EPHAPNAE_00977	CDS	1302	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+EPHAPNAE_00978	CDS	1389	glyQS	6.1.1.14		Glycine--tRNA ligase
+EPHAPNAE_00979	CDS	1332				hypothetical protein
+EPHAPNAE_00980	CDS	165				hypothetical protein
+EPHAPNAE_00981	CDS	600	agrB_1	3.4.-.-		Accessory gene regulator protein B
+EPHAPNAE_00982	CDS	1074	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+EPHAPNAE_00983	CDS	2652	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+EPHAPNAE_00984	CDS	1896				hypothetical protein
+EPHAPNAE_00985	tRNA	74				tRNA-Gln(ctg)
+EPHAPNAE_00986	CDS	402				hypothetical protein
+EPHAPNAE_00987	CDS	348			COG0662	Oxalate-binding protein
+EPHAPNAE_00988	CDS	1374				hypothetical protein
+EPHAPNAE_00989	CDS	1227		2.4.1.11	COG0438	Glycogen synthase
+EPHAPNAE_00990	CDS	1668	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+EPHAPNAE_00991	CDS	1248	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+EPHAPNAE_00992	CDS	999				hypothetical protein
+EPHAPNAE_00993	CDS	315				hypothetical protein
+EPHAPNAE_00994	CDS	318				hypothetical protein
+EPHAPNAE_00995	CDS	1056	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+EPHAPNAE_00996	CDS	687				hypothetical protein
+EPHAPNAE_00997	CDS	576	yqgN		COG0212	putative protein YqgN
+EPHAPNAE_00998	CDS	117				hypothetical protein
+EPHAPNAE_00999	CDS	1428				hypothetical protein
+EPHAPNAE_01000	CDS	1008				hypothetical protein
+EPHAPNAE_01001	CDS	1209	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EPHAPNAE_01002	CDS	867				hypothetical protein
+EPHAPNAE_01003	CDS	342				hypothetical protein
+EPHAPNAE_01004	CDS	189				hypothetical protein
+EPHAPNAE_01005	CDS	687	srrA		COG0745	Transcriptional regulatory protein SrrA
+EPHAPNAE_01006	CDS	1515	sasA_6	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_01007	CDS	1530				hypothetical protein
+EPHAPNAE_01008	CDS	1398				hypothetical protein
+EPHAPNAE_01009	CDS	1467	glgA_1	2.4.1.21	COG0297	Glycogen synthase
+EPHAPNAE_01010	CDS	642	nth	4.2.99.18	COG0177	Endonuclease III
+EPHAPNAE_01011	CDS	1680				hypothetical protein
+EPHAPNAE_01012	CDS	696				hypothetical protein
+EPHAPNAE_01013	CDS	264				hypothetical protein
+EPHAPNAE_01014	CDS	189	rpmB		COG0227	50S ribosomal protein L28
+EPHAPNAE_01015	CDS	2085	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+EPHAPNAE_01016	CDS	576	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+EPHAPNAE_01017	CDS	480	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+EPHAPNAE_01018	CDS	465				hypothetical protein
+EPHAPNAE_01019	CDS	1308				hypothetical protein
+EPHAPNAE_01020	CDS	1446				hypothetical protein
+EPHAPNAE_01021	CDS	738	sigI5			RNA polymerase sigma factor SigI5
+EPHAPNAE_01022	CDS	2040	xynD_1	3.2.1.55		Arabinoxylan arabinofuranohydrolase
+EPHAPNAE_01023	CDS	1224				hypothetical protein
+EPHAPNAE_01024	CDS	1284				hypothetical protein
+EPHAPNAE_01025	CDS	1179	degS	2.7.13.3		Signal transduction histidine-protein kinase/phosphatase DegS
+EPHAPNAE_01026	CDS	651	degU		COG2197	Transcriptional regulatory protein DegU
+EPHAPNAE_01027	CDS	2469				hypothetical protein
+EPHAPNAE_01028	CDS	1737	pgcA	5.4.2.2		Phosphoglucomutase
+EPHAPNAE_01029	CDS	3546	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+EPHAPNAE_01030	CDS	222	mtrB			Transcription attenuation protein MtrB
+EPHAPNAE_01031	CDS	198				hypothetical protein
+EPHAPNAE_01032	CDS	975	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+EPHAPNAE_01033	CDS	417		3.1.-.-	COG0824	Putative esterase
+EPHAPNAE_01034	CDS	543	pgsA_1	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EPHAPNAE_01035	CDS	780				hypothetical protein
+EPHAPNAE_01036	CDS	3153				hypothetical protein
+EPHAPNAE_01037	CDS	2268	bglB	3.2.1.21	COG1472	Thermostable beta-glucosidase B
+EPHAPNAE_01038	CDS	108				hypothetical protein
+EPHAPNAE_01039	CDS	456				hypothetical protein
+EPHAPNAE_01040	CDS	294				hypothetical protein
+EPHAPNAE_01041	CDS	2583				hypothetical protein
+EPHAPNAE_01042	CDS	1011				hypothetical protein
+EPHAPNAE_01043	CDS	1398	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+EPHAPNAE_01044	CDS	522	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+EPHAPNAE_01045	CDS	1467	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+EPHAPNAE_01046	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+EPHAPNAE_01047	CDS	630	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+EPHAPNAE_01048	CDS	1545	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+EPHAPNAE_01049	CDS	1260	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+EPHAPNAE_01050	CDS	1173	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EPHAPNAE_01051	CDS	462				hypothetical protein
+EPHAPNAE_01052	CDS	621	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+EPHAPNAE_01053	CDS	570				hypothetical protein
+EPHAPNAE_01054	CDS	597				hypothetical protein
+EPHAPNAE_01055	CDS	342	rsfS		COG0799	Ribosomal silencing factor RsfS
+EPHAPNAE_01056	CDS	2478	leuS	6.1.1.4		Leucine--tRNA ligase
+EPHAPNAE_01057	CDS	25101				hypothetical protein
+EPHAPNAE_01058	CDS	771	mcp3		COG0840	Methyl-accepting chemotaxis protein 3
+EPHAPNAE_01059	CDS	444				hypothetical protein
+EPHAPNAE_01060	CDS	1731	lcfB_2	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EPHAPNAE_01061	CDS	1299				hypothetical protein
+EPHAPNAE_01062	CDS	891				hypothetical protein
+EPHAPNAE_01063	CDS	618				hypothetical protein
+EPHAPNAE_01064	CDS	156				hypothetical protein
+EPHAPNAE_01065	CDS	1908	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+EPHAPNAE_01066	CDS	831	thyA1	2.1.1.45	COG0207	Thymidylate synthase 1
+EPHAPNAE_01067	CDS	504	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+EPHAPNAE_01068	CDS	522	infC			Translation initiation factor IF-3
+EPHAPNAE_01069	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+EPHAPNAE_01070	CDS	354	rplT		COG0292	50S ribosomal protein L20
+EPHAPNAE_01071	CDS	804		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+EPHAPNAE_01072	CDS	8769	ndvB	2.4.1.-	COG3459	Cyclic beta-(1,2)-glucan synthase NdvB
+EPHAPNAE_01073	CDS	897				hypothetical protein
+EPHAPNAE_01074	CDS	1092				hypothetical protein
+EPHAPNAE_01075	CDS	702	aat	2.3.2.6	COG2360	Leucyl/phenylalanyl-tRNA--protein transferase
+EPHAPNAE_01076	CDS	2331	clpA		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpA
+EPHAPNAE_01077	CDS	300	clpS		COG2127	ATP-dependent Clp protease adapter protein ClpS
+EPHAPNAE_01078	CDS	372				hypothetical protein
+EPHAPNAE_01079	CDS	381				hypothetical protein
+EPHAPNAE_01080	CDS	273				hypothetical protein
+EPHAPNAE_01081	CDS	939				hypothetical protein
+EPHAPNAE_01082	CDS	1365	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+EPHAPNAE_01083	CDS	579				hypothetical protein
+EPHAPNAE_01084	CDS	1800				hypothetical protein
+EPHAPNAE_01085	CDS	363				hypothetical protein
+EPHAPNAE_01086	CDS	117				hypothetical protein
+EPHAPNAE_01087	CDS	1524				hypothetical protein
+EPHAPNAE_01088	CDS	1929				hypothetical protein
+EPHAPNAE_01089	CDS	1215				hypothetical protein
+EPHAPNAE_01090	CDS	1389				hypothetical protein
+EPHAPNAE_01091	CDS	1176	hcaT			putative 3-phenylpropionic acid transporter
+EPHAPNAE_01092	CDS	828	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+EPHAPNAE_01093	CDS	1245	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+EPHAPNAE_01094	CDS	1296	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+EPHAPNAE_01095	tRNA	76				tRNA-Thr(cgt)
+EPHAPNAE_01096	CDS	354				hypothetical protein
+EPHAPNAE_01097	CDS	1356				hypothetical protein
+EPHAPNAE_01098	CDS	1239				hypothetical protein
+EPHAPNAE_01099	CDS	345				hypothetical protein
+EPHAPNAE_01100	CDS	1242				hypothetical protein
+EPHAPNAE_01101	CDS	345				hypothetical protein
+EPHAPNAE_01102	CDS	1269				hypothetical protein
+EPHAPNAE_01103	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_01104	CDS	1032				hypothetical protein
+EPHAPNAE_01105	CDS	645	ppaX_1	3.6.1.1		Pyrophosphatase PpaX
+EPHAPNAE_01106	CDS	432				hypothetical protein
+EPHAPNAE_01107	CDS	969	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EPHAPNAE_01108	CDS	783				hypothetical protein
+EPHAPNAE_01109	CDS	855				hypothetical protein
+EPHAPNAE_01110	CDS	936	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+EPHAPNAE_01111	CDS	1281				hypothetical protein
+EPHAPNAE_01112	CDS	669				hypothetical protein
+EPHAPNAE_01113	CDS	930				hypothetical protein
+EPHAPNAE_01114	CDS	1269				hypothetical protein
+EPHAPNAE_01115	CDS	2283				hypothetical protein
+EPHAPNAE_01116	CDS	387				hypothetical protein
+EPHAPNAE_01117	CDS	195	sspH			Small, acid-soluble spore protein H
+EPHAPNAE_01118	CDS	675				hypothetical protein
+EPHAPNAE_01119	CDS	1461	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+EPHAPNAE_01120	CDS	447				hypothetical protein
+EPHAPNAE_01121	CDS	810				hypothetical protein
+EPHAPNAE_01122	CDS	825				hypothetical protein
+EPHAPNAE_01123	CDS	648				hypothetical protein
+EPHAPNAE_01124	CDS	1149	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+EPHAPNAE_01125	CDS	144				hypothetical protein
+EPHAPNAE_01126	CDS	1248				hypothetical protein
+EPHAPNAE_01127	CDS	876	dapB_1	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+EPHAPNAE_01128	CDS	1152				hypothetical protein
+EPHAPNAE_01129	CDS	102				hypothetical protein
+EPHAPNAE_01130	CDS	1389				hypothetical protein
+EPHAPNAE_01131	CDS	870				hypothetical protein
+EPHAPNAE_01132	CDS	879	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+EPHAPNAE_01133	CDS	1212	cdaR_1		COG4856	CdaA regulatory protein CdaR
+EPHAPNAE_01134	CDS	1587				hypothetical protein
+EPHAPNAE_01135	CDS	1350	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+EPHAPNAE_01136	CDS	1824	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+EPHAPNAE_01137	CDS	399				hypothetical protein
+EPHAPNAE_01138	CDS	1056	acr3		COG0798	Arsenical-resistance protein Acr3
+EPHAPNAE_01139	CDS	402	arsC	1.20.4.1		Glutaredoxin arsenate reductase
+EPHAPNAE_01140	CDS	855				hypothetical protein
+EPHAPNAE_01141	CDS	294				IS3 family transposase IS120
+EPHAPNAE_01142	CDS	843				IS3 family transposase IS120
+EPHAPNAE_01143	CDS	162				hypothetical protein
+EPHAPNAE_01144	CDS	2364				hypothetical protein
+EPHAPNAE_01145	CDS	1056	pilT_1		COG2805	Twitching mobility protein
+EPHAPNAE_01146	CDS	1215	epsF		COG1459	Type II secretion system protein F
+EPHAPNAE_01147	CDS	507				hypothetical protein
+EPHAPNAE_01148	CDS	561				hypothetical protein
+EPHAPNAE_01149	CDS	552				hypothetical protein
+EPHAPNAE_01150	CDS	1293				hypothetical protein
+EPHAPNAE_01151	CDS	522				hypothetical protein
+EPHAPNAE_01152	CDS	2550				hypothetical protein
+EPHAPNAE_01153	CDS	1290				hypothetical protein
+EPHAPNAE_01154	CDS	774	tepA		COG0740	Translocation-enhancing protein TepA
+EPHAPNAE_01155	CDS	225				hypothetical protein
+EPHAPNAE_01156	CDS	2427	spoIIIE		COG1674	DNA translocase SpoIIIE
+EPHAPNAE_01157	CDS	1920				hypothetical protein
+EPHAPNAE_01158	CDS	858	folD		COG0190	Bifunctional protein FolD protein
+EPHAPNAE_01159	CDS	678				hypothetical protein
+EPHAPNAE_01160	CDS	1575	rny	3.1.-.-	COG1418	Ribonuclease Y
+EPHAPNAE_01161	CDS	783	ymdB_1	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+EPHAPNAE_01162	CDS	267	spoVS_1		COG2359	Stage V sporulation protein S
+EPHAPNAE_01163	CDS	741	csxA			Exosporium protein A
+EPHAPNAE_01164	CDS	264				hypothetical protein
+EPHAPNAE_01165	CDS	987	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+EPHAPNAE_01166	CDS	1293	cotSA	2.4.-.-	COG0438	Spore coat protein SA
+EPHAPNAE_01167	CDS	1038	cotI			Spore coat protein I
+EPHAPNAE_01168	CDS	1050	cotS_2			Spore coat protein S
+EPHAPNAE_01169	CDS	258				hypothetical protein
+EPHAPNAE_01170	CDS	468				hypothetical protein
+EPHAPNAE_01171	CDS	324				hypothetical protein
+EPHAPNAE_01172	CDS	2463	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+EPHAPNAE_01173	CDS	318				hypothetical protein
+EPHAPNAE_01174	CDS	630				hypothetical protein
+EPHAPNAE_01175	CDS	714				hypothetical protein
+EPHAPNAE_01176	CDS	702				hypothetical protein
+EPHAPNAE_01177	CDS	963				hypothetical protein
+EPHAPNAE_01178	CDS	318				hypothetical protein
+EPHAPNAE_01179	CDS	1197				hypothetical protein
+EPHAPNAE_01180	CDS	1002			COG1702	PhoH-like protein
+EPHAPNAE_01181	CDS	2202	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+EPHAPNAE_01182	CDS	489	ybeY	3.1.-.-		Endoribonuclease YbeY
+EPHAPNAE_01183	CDS	387	cdd_1	3.5.4.5	COG0295	Cytidine deaminase
+EPHAPNAE_01184	CDS	894	era			GTPase Era
+EPHAPNAE_01185	CDS	144				hypothetical protein
+EPHAPNAE_01186	CDS	756	recO		COG1381	DNA repair protein RecO
+EPHAPNAE_01187	CDS	663				hypothetical protein
+EPHAPNAE_01188	CDS	1164	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+EPHAPNAE_01189	CDS	1179	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+EPHAPNAE_01190	CDS	1425				hypothetical protein
+EPHAPNAE_01191	CDS	687				hypothetical protein
+EPHAPNAE_01192	CDS	984	thiL	2.7.4.16		Thiamine-monophosphate kinase
+EPHAPNAE_01193	CDS	282				hypothetical protein
+EPHAPNAE_01194	CDS	1239	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+EPHAPNAE_01195	CDS	195				hypothetical protein
+EPHAPNAE_01196	CDS	2673				hypothetical protein
+EPHAPNAE_01197	CDS	1209				hypothetical protein
+EPHAPNAE_01198	CDS	957				hypothetical protein
+EPHAPNAE_01199	CDS	954	ldh_1	1.1.1.27	COG0039	L-lactate dehydrogenase
+EPHAPNAE_01200	CDS	1242	cinA		COG1058	Putative competence-damage inducible protein
+EPHAPNAE_01201	CDS	1578	murJ_4		COG0728	putative lipid II flippase MurJ
+EPHAPNAE_01202	CDS	1050	recA		COG0468	Protein RecA
+EPHAPNAE_01203	CDS	621	recX			Regulatory protein RecX
+EPHAPNAE_01204	CDS	1536	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+EPHAPNAE_01205	CDS	546				hypothetical protein
+EPHAPNAE_01206	CDS	1341				hypothetical protein
+EPHAPNAE_01207	CDS	327				hypothetical protein
+EPHAPNAE_01208	CDS	330				hypothetical protein
+EPHAPNAE_01209	CDS	243				hypothetical protein
+EPHAPNAE_01210	tRNA	87				tRNA-Leu(cag)
+EPHAPNAE_01211	CDS	540				hypothetical protein
+EPHAPNAE_01212	CDS	1401	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EPHAPNAE_01213	tRNA	86				tRNA-Tyr(gta)
+EPHAPNAE_01214	tRNA	76				tRNA-Phe(gaa)
+EPHAPNAE_01215	tRNA	77				tRNA-Met(cat)
+EPHAPNAE_01216	CDS	1011	yqeN		COG1466	putative protein YqeN
+EPHAPNAE_01217	CDS	270	rpsT		COG0268	30S ribosomal protein S20
+EPHAPNAE_01218	CDS	990	gpr	3.4.24.78		Germination protease
+EPHAPNAE_01219	CDS	849				hypothetical protein
+EPHAPNAE_01220	CDS	696				hypothetical protein
+EPHAPNAE_01221	CDS	1992	ligA	6.5.1.2		DNA ligase
+EPHAPNAE_01222	CDS	120				hypothetical protein
+EPHAPNAE_01223	CDS	558				hypothetical protein
+EPHAPNAE_01224	CDS	288	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+EPHAPNAE_01225	CDS	1461	gatA_1	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A
+EPHAPNAE_01226	CDS	1434	gatB_1	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+EPHAPNAE_01227	CDS	825				hypothetical protein
+EPHAPNAE_01228	CDS	1077	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+EPHAPNAE_01229	CDS	1200	ackA	2.7.2.1	COG0282	Acetate kinase
+EPHAPNAE_01230	CDS	504			COG1399	putative protein
+EPHAPNAE_01231	CDS	201				hypothetical protein
+EPHAPNAE_01232	CDS	1323				hypothetical protein
+EPHAPNAE_01233	CDS	1323	der_1		COG1160	GTPase Der
+EPHAPNAE_01234	CDS	651	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+EPHAPNAE_01235	CDS	1020	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EPHAPNAE_01236	CDS	1479	spoIVA	3.6.1.3		Stage IV sporulation protein A
+EPHAPNAE_01237	CDS	1380	dasA		COG1653	Diacetylchitobiose binding protein DasA
+EPHAPNAE_01238	CDS	984	ycjO		COG1175	Inner membrane ABC transporter permease protein YcjO
+EPHAPNAE_01239	CDS	870				hypothetical protein
+EPHAPNAE_01240	CDS	1059				hypothetical protein
+EPHAPNAE_01241	CDS	423				hypothetical protein
+EPHAPNAE_01242	CDS	213				hypothetical protein
+EPHAPNAE_01243	CDS	2382	mutS2	3.1.-.-		Endonuclease MutS2
+EPHAPNAE_01244	CDS	1083				Sodium-lithium/proton antiporter
+EPHAPNAE_01245	CDS	711	sigK			RNA polymerase sigma-28 factor
+EPHAPNAE_01246	CDS	1656	spoVD_1		COG0768	Stage V sporulation protein D
+EPHAPNAE_01247	CDS	1236				hypothetical protein
+EPHAPNAE_01248	CDS	639	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+EPHAPNAE_01249	CDS	1122	mltG_1	4.2.2.-		Endolytic murein transglycosylase
+EPHAPNAE_01250	CDS	1845	typA		COG1217	GTP-binding protein TypA/BipA
+EPHAPNAE_01251	CDS	759	rpsB		COG0052	30S ribosomal protein S2
+EPHAPNAE_01252	CDS	648	tsf			Elongation factor Ts
+EPHAPNAE_01253	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+EPHAPNAE_01254	CDS	552	frr		COG0233	Ribosome-recycling factor
+EPHAPNAE_01255	CDS	201				hypothetical protein
+EPHAPNAE_01256	CDS	759	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+EPHAPNAE_01257	CDS	837				hypothetical protein
+EPHAPNAE_01258	CDS	1146	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+EPHAPNAE_01259	CDS	1275		3.4.24.-	COG0750	Putative zinc metalloprotease
+EPHAPNAE_01260	CDS	1059	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+EPHAPNAE_01261	CDS	4329	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+EPHAPNAE_01262	CDS	96				hypothetical protein
+EPHAPNAE_01263	CDS	465	rimP		COG0779	Ribosome maturation factor RimP
+EPHAPNAE_01264	CDS	1215	nusA		COG0195	Transcription termination/antitermination protein NusA
+EPHAPNAE_01265	CDS	279				hypothetical protein
+EPHAPNAE_01266	CDS	354	rplGA		COG1358	putative ribosomal protein YlxQ
+EPHAPNAE_01267	CDS	3141	infB			Translation initiation factor IF-2
+EPHAPNAE_01268	CDS	372	rbfA			Ribosome-binding factor A
+EPHAPNAE_01269	CDS	957	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+EPHAPNAE_01270	CDS	894	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+EPHAPNAE_01271	CDS	939	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+EPHAPNAE_01272	CDS	168				hypothetical protein
+EPHAPNAE_01273	CDS	1293				hypothetical protein
+EPHAPNAE_01274	CDS	1278				hypothetical protein
+EPHAPNAE_01275	CDS	963	lgt	2.5.1.145		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+EPHAPNAE_01276	CDS	153				hypothetical protein
+EPHAPNAE_01277	CDS	1131	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+EPHAPNAE_01278	CDS	435	mraZ			Transcriptional regulator MraZ
+EPHAPNAE_01279	CDS	942	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+EPHAPNAE_01280	CDS	489	ftsL_2			Cell division protein FtsL
+EPHAPNAE_01281	CDS	2172	spoVD_2		COG0768	Stage V sporulation protein D
+EPHAPNAE_01282	CDS	1458	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+EPHAPNAE_01283	CDS	1374	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+EPHAPNAE_01284	CDS	987	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EPHAPNAE_01285	CDS	1152	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+EPHAPNAE_01286	CDS	1110	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+EPHAPNAE_01287	CDS	375	murAA_2	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+EPHAPNAE_01288	CDS	609				hypothetical protein
+EPHAPNAE_01289	CDS	240	kynB_1	3.5.1.9		Kynurenine formamidase
+EPHAPNAE_01290	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_01291	CDS	384	kynB_2	3.5.1.9	COG1878	Kynurenine formamidase
+EPHAPNAE_01292	CDS	2121	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+EPHAPNAE_01293	tRNA	83				tRNA-Leu(gag)
+EPHAPNAE_01294	CDS	435				hypothetical protein
+EPHAPNAE_01295	CDS	531	cobO	2.5.1.17		Corrinoid adenosyltransferase
+EPHAPNAE_01296	CDS	459				hypothetical protein
+EPHAPNAE_01297	CDS	759	dapB_2	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+EPHAPNAE_01298	CDS	879	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+EPHAPNAE_01299	CDS	999	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+EPHAPNAE_01300	CDS	1713				hypothetical protein
+EPHAPNAE_01301	CDS	1026	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EPHAPNAE_01302	CDS	1125	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+EPHAPNAE_01303	CDS	300	yajC		COG1862	Sec translocon accessory complex subunit YajC
+EPHAPNAE_01304	CDS	474				hypothetical protein
+EPHAPNAE_01305	CDS	411				hypothetical protein
+EPHAPNAE_01306	CDS	555	pyrR			Bifunctional protein PyrR
+EPHAPNAE_01307	CDS	144				hypothetical protein
+EPHAPNAE_01308	CDS	939	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+EPHAPNAE_01309	CDS	1287	pyrC	3.5.2.3	COG0044	Dihydroorotase
+EPHAPNAE_01310	CDS	945	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+EPHAPNAE_01311	CDS	1074	carA_1	6.3.5.5		Carbamoyl-phosphate synthase small chain
+EPHAPNAE_01312	CDS	3219	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+EPHAPNAE_01313	CDS	786	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+EPHAPNAE_01314	CDS	924	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+EPHAPNAE_01315	CDS	702	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+EPHAPNAE_01316	CDS	993				hypothetical protein
+EPHAPNAE_01317	CDS	1452	smc_3			Chromosome partition protein Smc
+EPHAPNAE_01318	CDS	252				hypothetical protein
+EPHAPNAE_01319	CDS	1362	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+EPHAPNAE_01320	CDS	618	pgsA_2	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EPHAPNAE_01321	CDS	441				hypothetical protein
+EPHAPNAE_01322	CDS	501				hypothetical protein
+EPHAPNAE_01323	CDS	549	fapR		COG2050	Transcription factor FapR
+EPHAPNAE_01324	CDS	1020	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+EPHAPNAE_01325	CDS	996	fabHA	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1
+EPHAPNAE_01326	CDS	936	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+EPHAPNAE_01327	CDS	744	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase
+EPHAPNAE_01328	CDS	225	acpP_1			Acyl carrier protein
+EPHAPNAE_01329	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+EPHAPNAE_01330	CDS	711	rnc	3.1.26.3	COG0571	Ribonuclease 3
+EPHAPNAE_01331	CDS	1017				hypothetical protein
+EPHAPNAE_01332	CDS	261	spoVS_2		COG2359	Stage V sporulation protein S
+EPHAPNAE_01333	CDS	1023	pdxA2	1.1.1.409	COG1995	D-erythronate 4-phosphate dehydrogenase
+EPHAPNAE_01334	CDS	3573	smc_4		COG1196	Chromosome partition protein Smc
+EPHAPNAE_01335	CDS	909	ftsY		COG0552	Signal recognition particle receptor FtsY
+EPHAPNAE_01336	CDS	648	ydcF		COG1434	Protein YdcF
+EPHAPNAE_01337	CDS	714	csxC_1			Exosporium protein C
+EPHAPNAE_01338	CDS	774	csxC_2			Exosporium protein C
+EPHAPNAE_01339	CDS	990	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+EPHAPNAE_01340	CDS	174				hypothetical protein
+EPHAPNAE_01341	CDS	1020				hypothetical protein
+EPHAPNAE_01342	CDS	843				IS3 family transposase IS120
+EPHAPNAE_01343	CDS	294				IS3 family transposase IS120
+EPHAPNAE_01344	CDS	1074				hypothetical protein
+EPHAPNAE_01345	CDS	6036				hypothetical protein
+EPHAPNAE_01346	CDS	1743	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+EPHAPNAE_01347	CDS	885				hypothetical protein
+EPHAPNAE_01348	CDS	1203				hypothetical protein
+EPHAPNAE_01349	CDS	2535				hypothetical protein
+EPHAPNAE_01350	CDS	3234	xynY_1	3.2.1.8		Endo-1,4-beta-xylanase Y
+EPHAPNAE_01351	CDS	840	rl5	1.10.3.-		Polyphenol oxidase
+EPHAPNAE_01352	CDS	1689	appA			Oligopeptide-binding protein AppA
+EPHAPNAE_01353	CDS	456	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+EPHAPNAE_01354	CDS	912	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EPHAPNAE_01355	CDS	1353	moaA_6			GTP 3',8-cyclase
+EPHAPNAE_01356	CDS	666				hypothetical protein
+EPHAPNAE_01357	CDS	1338	secDF		COG0341	Protein translocase subunit SecDF
+EPHAPNAE_01358	CDS	957	secF			Protein translocase subunit SecF
+EPHAPNAE_01359	CDS	852	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+EPHAPNAE_01360	CDS	846	panC	6.3.2.1	COG0414	Pantothenate synthetase
+EPHAPNAE_01361	CDS	381	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+EPHAPNAE_01362	CDS	273				hypothetical protein
+EPHAPNAE_01363	CDS	1038				hypothetical protein
+EPHAPNAE_01364	CDS	996				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+EPHAPNAE_01365	CDS	102				hypothetical protein
+EPHAPNAE_01366	CDS	1803	dnaG	2.7.7.-	COG0358	DNA primase
+EPHAPNAE_01367	CDS	1077	sigA		COG0568	RNA polymerase sigma factor SigA
+EPHAPNAE_01368	CDS	219				hypothetical protein
+EPHAPNAE_01369	tRNA	76				tRNA-Asn(gtt)
+EPHAPNAE_01370	tRNA	77				tRNA-Met(cat)
+EPHAPNAE_01371	CDS	171				hypothetical protein
+EPHAPNAE_01372	CDS	705				hypothetical protein
+EPHAPNAE_01373	CDS	1107			COG0327	GTP cyclohydrolase 1 type 2 
+EPHAPNAE_01374	CDS	444	rssB_2			Regulator of RpoS
+EPHAPNAE_01375	CDS	663	algU_2		COG1595	RNA polymerase sigma-H factor
+EPHAPNAE_01376	CDS	990				hypothetical protein
+EPHAPNAE_01377	CDS	699				hypothetical protein
+EPHAPNAE_01378	CDS	213				hypothetical protein
+EPHAPNAE_01379	CDS	2685	polA	2.7.7.7		DNA polymerase I
+EPHAPNAE_01380	CDS	588	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+EPHAPNAE_01381	CDS	567	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+EPHAPNAE_01382	CDS	420				hypothetical protein
+EPHAPNAE_01383	CDS	891				hypothetical protein
+EPHAPNAE_01384	CDS	1131				hypothetical protein
+EPHAPNAE_01385	CDS	273				hypothetical protein
+EPHAPNAE_01386	CDS	1017	aroF_1	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+EPHAPNAE_01387	CDS	579				hypothetical protein
+EPHAPNAE_01388	CDS	1095	ychF		COG0012	Ribosome-binding ATPase YchF
+EPHAPNAE_01389	CDS	1293				hypothetical protein
+EPHAPNAE_01390	CDS	1485	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+EPHAPNAE_01391	CDS	591	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+EPHAPNAE_01392	CDS	1038	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+EPHAPNAE_01393	CDS	783	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+EPHAPNAE_01394	CDS	657	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+EPHAPNAE_01395	CDS	588		1.6.5.2		NAD(P)H dehydrogenase (quinone)
+EPHAPNAE_01396	CDS	171				hypothetical protein
+EPHAPNAE_01397	CDS	669				hypothetical protein
+EPHAPNAE_01398	CDS	711				hypothetical protein
+EPHAPNAE_01399	CDS	207				hypothetical protein
+EPHAPNAE_01400	CDS	1059	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+EPHAPNAE_01401	CDS	747	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+EPHAPNAE_01402	CDS	546				hypothetical protein
+EPHAPNAE_01403	CDS	2118	glnA_1	6.3.1.2		Glutamine synthetase
+EPHAPNAE_01404	CDS	321				hypothetical protein
+EPHAPNAE_01405	CDS	1137	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+EPHAPNAE_01406	CDS	720				hypothetical protein
+EPHAPNAE_01407	CDS	546				hypothetical protein
+EPHAPNAE_01408	CDS	990				hypothetical protein
+EPHAPNAE_01409	CDS	492				hypothetical protein
+EPHAPNAE_01410	CDS	1071	ilvK	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase 2
+EPHAPNAE_01411	CDS	504				hypothetical protein
+EPHAPNAE_01412	CDS	897	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+EPHAPNAE_01413	CDS	1686				hypothetical protein
+EPHAPNAE_01414	CDS	846	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+EPHAPNAE_01415	CDS	267				hypothetical protein
+EPHAPNAE_01416	CDS	891	nfo	3.1.21.2		endonuclease 4
+EPHAPNAE_01417	CDS	429	yqhS	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+EPHAPNAE_01418	CDS	1080	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+EPHAPNAE_01419	CDS	558	efp		COG0231	Elongation factor P
+EPHAPNAE_01420	CDS	411				hypothetical protein
+EPHAPNAE_01421	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_01422	CDS	1011				hypothetical protein
+EPHAPNAE_01423	CDS	522	spoIIIAB			Stage III sporulation protein AB
+EPHAPNAE_01424	CDS	195				hypothetical protein
+EPHAPNAE_01425	CDS	390				hypothetical protein
+EPHAPNAE_01426	CDS	1230	spoIIIAE			Stage III sporulation protein AE
+EPHAPNAE_01427	CDS	633				hypothetical protein
+EPHAPNAE_01428	CDS	624				hypothetical protein
+EPHAPNAE_01429	CDS	648				hypothetical protein
+EPHAPNAE_01430	CDS	405			COG1302	Alkaline shock protein 23
+EPHAPNAE_01431	CDS	549				hypothetical protein
+EPHAPNAE_01432	CDS	234				hypothetical protein
+EPHAPNAE_01433	CDS	438	nusB		COG0781	Transcription antitermination protein NusB
+EPHAPNAE_01434	CDS	1236	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+EPHAPNAE_01435	CDS	243	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+EPHAPNAE_01436	CDS	897		2.5.1.10		Farnesyl diphosphate synthase
+EPHAPNAE_01437	CDS	447				hypothetical protein
+EPHAPNAE_01438	CDS	729				hypothetical protein
+EPHAPNAE_01439	CDS	1884	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+EPHAPNAE_01440	CDS	813	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+EPHAPNAE_01441	CDS	786				hypothetical protein
+EPHAPNAE_01442	CDS	1950	celD	3.2.1.4		Endoglucanase D
+EPHAPNAE_01443	CDS	1776				hypothetical protein
+EPHAPNAE_01444	CDS	1677				hypothetical protein
+EPHAPNAE_01445	CDS	399				hypothetical protein
+EPHAPNAE_01446	CDS	2013				hypothetical protein
+EPHAPNAE_01447	CDS	864	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EPHAPNAE_01448	CDS	675				hypothetical protein
+EPHAPNAE_01449	CDS	5481				hypothetical protein
+EPHAPNAE_01450	CDS	870	nadK	2.7.1.23	COG0061	NAD kinase
+EPHAPNAE_01451	CDS	462	argR			Arginine repressor
+EPHAPNAE_01452	CDS	1713	recN		COG0497	DNA repair protein RecN
+EPHAPNAE_01453	CDS	1341	spoIVB	3.4.21.116	COG0750	SpoIVB peptidase
+EPHAPNAE_01454	CDS	810	spo0A_2		COG0784	Stage 0 sporulation protein A
+EPHAPNAE_01455	CDS	354	cheY_3		COG0784	Chemotaxis protein CheY
+EPHAPNAE_01456	CDS	2148	cheA_1	2.7.13.3	COG0643	Chemotaxis protein CheA
+EPHAPNAE_01457	CDS	492	cheW_3		COG0835	Chemotaxis protein CheW
+EPHAPNAE_01458	CDS	819	cheR2_2	2.1.1.80		Chemotaxis protein methyltransferase Cher2
+EPHAPNAE_01459	CDS	1035	cheB_2	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+EPHAPNAE_01460	CDS	2709	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+EPHAPNAE_01461	CDS	411	czcR			Transcriptional activator protein CzcR
+EPHAPNAE_01462	CDS	573				hypothetical protein
+EPHAPNAE_01463	CDS	957	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EPHAPNAE_01464	CDS	261				hypothetical protein
+EPHAPNAE_01465	CDS	174				hypothetical protein
+EPHAPNAE_01466	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_01467	CDS	1212	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+EPHAPNAE_01468	CDS	678	arlR		COG0745	Response regulator ArlR
+EPHAPNAE_01469	CDS	1587				hypothetical protein
+EPHAPNAE_01470	CDS	2445	celE		COG2730	Cellulase/esterase CelE
+EPHAPNAE_01471	CDS	1728	tvaII	3.2.1.135		Neopullulanase 2
+EPHAPNAE_01472	CDS	1293				hypothetical protein
+EPHAPNAE_01473	CDS	1269				hypothetical protein
+EPHAPNAE_01474	CDS	705	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+EPHAPNAE_01475	CDS	468	sepF		COG1799	Cell division protein SepF
+EPHAPNAE_01476	CDS	285				hypothetical protein
+EPHAPNAE_01477	CDS	792				hypothetical protein
+EPHAPNAE_01478	CDS	465	divIVA		COG3599	Septum site-determining protein DivIVA
+EPHAPNAE_01479	CDS	2796	ileS	6.1.1.5		Isoleucine--tRNA ligase
+EPHAPNAE_01480	CDS	1083	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+EPHAPNAE_01481	CDS	303				hypothetical protein
+EPHAPNAE_01482	CDS	876	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+EPHAPNAE_01483	CDS	1443	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EPHAPNAE_01484	CDS	1173				hypothetical protein
+EPHAPNAE_01485	CDS	2124				hypothetical protein
+EPHAPNAE_01486	CDS	489				hypothetical protein
+EPHAPNAE_01487	CDS	684	hxpB	3.1.3.68	COG0637	Hexitol phosphatase B
+EPHAPNAE_01488	CDS	1353				hypothetical protein
+EPHAPNAE_01489	CDS	393				hypothetical protein
+EPHAPNAE_01490	CDS	2613	mutS_1		COG0249	DNA mismatch repair protein MutS
+EPHAPNAE_01491	CDS	2268	mutL_1			DNA mismatch repair protein MutL
+EPHAPNAE_01492	CDS	942	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EPHAPNAE_01493	CDS	249	hfq		COG1923	RNA-binding protein Hfq
+EPHAPNAE_01494	CDS	642	lexA_1	3.4.21.88	COG1974	LexA repressor
+EPHAPNAE_01495	CDS	288	yneA_2			Cell division suppressor protein YneA
+EPHAPNAE_01496	CDS	354				hypothetical protein
+EPHAPNAE_01497	CDS	1341	ffh		COG0541	Signal recognition particle protein
+EPHAPNAE_01498	CDS	246	rpsP			30S ribosomal protein S16
+EPHAPNAE_01499	CDS	231				hypothetical protein
+EPHAPNAE_01500	CDS	525	rimM			Ribosome maturation factor RimM
+EPHAPNAE_01501	CDS	744	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+EPHAPNAE_01502	CDS	345	rplS		COG0335	50S ribosomal protein L19
+EPHAPNAE_01503	CDS	666	sipT_2	3.4.21.89	COG0681	Signal peptidase I T
+EPHAPNAE_01504	CDS	876	rbgA		COG1161	Ribosome biogenesis GTPase A
+EPHAPNAE_01505	CDS	654				hypothetical protein
+EPHAPNAE_01506	CDS	786	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+EPHAPNAE_01507	CDS	1635				hypothetical protein
+EPHAPNAE_01508	CDS	285	flhB_1		COG1377	Flagellar biosynthetic protein FlhB
+EPHAPNAE_01509	CDS	393				hypothetical protein
+EPHAPNAE_01510	CDS	672				hypothetical protein
+EPHAPNAE_01511	CDS	936				hypothetical protein
+EPHAPNAE_01512	CDS	1188		2.6.1.1		Aspartate aminotransferase
+EPHAPNAE_01513	CDS	834				hypothetical protein
+EPHAPNAE_01514	CDS	576				hypothetical protein
+EPHAPNAE_01515	CDS	225				hypothetical protein
+EPHAPNAE_01516	CDS	540	puuR			HTH-type transcriptional regulator PuuR
+EPHAPNAE_01517	CDS	1059	potA_1	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+EPHAPNAE_01518	CDS	828	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+EPHAPNAE_01519	CDS	795	ydcV			Inner membrane ABC transporter permease protein YdcV
+EPHAPNAE_01520	CDS	1065	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+EPHAPNAE_01521	CDS	609				hypothetical protein
+EPHAPNAE_01522	CDS	2193	celZ_1	3.2.1.4		Endoglucanase Z
+EPHAPNAE_01523	CDS	2853				hypothetical protein
+EPHAPNAE_01524	CDS	1455	mdtK			Multidrug resistance protein MdtK
+EPHAPNAE_01525	CDS	411				hypothetical protein
+EPHAPNAE_01526	CDS	1428	purB	4.3.2.2		Adenylosuccinate lyase
+EPHAPNAE_01527	CDS	738	yurK		COG2188	putative HTH-type transcriptional regulator YurK
+EPHAPNAE_01528	CDS	1725				hypothetical protein
+EPHAPNAE_01529	CDS	213	copZ			Copper chaperone CopZ
+EPHAPNAE_01530	CDS	126				hypothetical protein
+EPHAPNAE_01531	CDS	630	sfp	2.7.8.7	COG2091	4'-phosphopantetheinyl transferase Sfp
+EPHAPNAE_01532	CDS	96				hypothetical protein
+EPHAPNAE_01533	CDS	3918				hypothetical protein
+EPHAPNAE_01534	CDS	807				hypothetical protein
+EPHAPNAE_01535	CDS	1122				hypothetical protein
+EPHAPNAE_01536	CDS	657				hypothetical protein
+EPHAPNAE_01537	CDS	1185	aroC	4.2.3.5	COG0082	Chorismate synthase
+EPHAPNAE_01538	CDS	513	aroK_2	2.7.1.71	COG0703	Shikimate kinase
+EPHAPNAE_01539	CDS	684				hypothetical protein
+EPHAPNAE_01540	CDS	1614				hypothetical protein
+EPHAPNAE_01541	CDS	993	xerD_1		COG4974	Tyrosine recombinase XerD
+EPHAPNAE_01542	CDS	927	tagU_3	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+EPHAPNAE_01543	CDS	1437	apeA	3.4.11.-	COG1362	putative M18 family aminopeptidase 1
+EPHAPNAE_01544	CDS	1497		3.1.4.-	COG3437	3'3'-cGAMP-specific phosphodiesterase 2
+EPHAPNAE_01545	CDS	798	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+EPHAPNAE_01546	CDS	1227	tyrS1	6.1.1.1	COG0162	Tyrosine--tRNA ligase 1
+EPHAPNAE_01547	CDS	1080	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+EPHAPNAE_01548	CDS	450	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+EPHAPNAE_01549	CDS	1185	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+EPHAPNAE_01550	CDS	432	cymR_2			HTH-type transcriptional regulator CymR
+EPHAPNAE_01551	CDS	288				hypothetical protein
+EPHAPNAE_01552	CDS	156				hypothetical protein
+EPHAPNAE_01553	CDS	783	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+EPHAPNAE_01554	CDS	411	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+EPHAPNAE_01555	CDS	375	speH	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+EPHAPNAE_01556	CDS	2085	ispH	1.17.7.4		4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+EPHAPNAE_01557	CDS	612	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+EPHAPNAE_01558	CDS	684	cmk	2.7.4.25	COG0283	Cytidylate kinase
+EPHAPNAE_01559	CDS	357	aroH	5.4.99.5	COG4401	Chorismate mutase AroH
+EPHAPNAE_01560	CDS	333				hypothetical protein
+EPHAPNAE_01561	CDS	501				hypothetical protein
+EPHAPNAE_01562	CDS	1230	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+EPHAPNAE_01563	CDS	678	pspA_3	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+EPHAPNAE_01564	CDS	900	hexR		COG1737	HTH-type transcriptional regulator HexR
+EPHAPNAE_01565	CDS	168				hypothetical protein
+EPHAPNAE_01566	CDS	648				hypothetical protein
+EPHAPNAE_01567	CDS	243				hypothetical protein
+EPHAPNAE_01568	CDS	528				hypothetical protein
+EPHAPNAE_01569	CDS	1398	oadA	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+EPHAPNAE_01570	CDS	399	gcdC	7.2.4.5	COG0511	Glutaconyl-CoA decarboxylase subunit gamma
+EPHAPNAE_01571	CDS	171				hypothetical protein
+EPHAPNAE_01572	CDS	1551	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+EPHAPNAE_01573	CDS	735				hypothetical protein
+EPHAPNAE_01574	CDS	567				hypothetical protein
+EPHAPNAE_01575	CDS	870	speB	3.5.3.11	COG0010	Agmatinase
+EPHAPNAE_01576	CDS	828	speE	2.5.1.16	COG0421	Polyamine aminopropyltransferase
+EPHAPNAE_01577	CDS	720	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+EPHAPNAE_01578	CDS	489	ytfJ		COG3874	putative spore protein YtfJ
+EPHAPNAE_01579	CDS	609				hypothetical protein
+EPHAPNAE_01580	CDS	570				hypothetical protein
+EPHAPNAE_01581	CDS	597	scpB		COG1386	Segregation and condensation protein B
+EPHAPNAE_01582	CDS	795	scpA		COG1354	Segregation and condensation protein A
+EPHAPNAE_01583	CDS	1026	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+EPHAPNAE_01584	CDS	672				hypothetical protein
+EPHAPNAE_01585	CDS	2634		2.7.7.-	COG0517	A-adding tRNA nucleotidyltransferase
+EPHAPNAE_01586	CDS	1314	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+EPHAPNAE_01587	CDS	978				hypothetical protein
+EPHAPNAE_01588	CDS	1494	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+EPHAPNAE_01589	CDS	654				hypothetical protein
+EPHAPNAE_01590	CDS	1215	dacF_2	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+EPHAPNAE_01591	CDS	1302	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+EPHAPNAE_01592	CDS	1167	deoB	5.4.2.7	COG1015	Phosphopentomutase
+EPHAPNAE_01593	CDS	885	xerD_2			Tyrosine recombinase XerD
+EPHAPNAE_01594	CDS	630	spoIIM		COG1300	Stage II sporulation protein M
+EPHAPNAE_01595	CDS	549	act	3.-.-.-		Methanol dehydrogenase activator
+EPHAPNAE_01596	CDS	444	rnhA	3.1.26.4	COG0328	Ribonuclease H
+EPHAPNAE_01597	CDS	816	proC_1	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+EPHAPNAE_01598	tRNA	76				tRNA-Trp(cca)
+EPHAPNAE_01599	CDS	480				hypothetical protein
+EPHAPNAE_01600	CDS	1098	yndE			Spore germination protein YndE
+EPHAPNAE_01601	CDS	1311	gerBC_1			Spore germination protein B3
+EPHAPNAE_01602	CDS	1152				hypothetical protein
+EPHAPNAE_01603	CDS	1770				hypothetical protein
+EPHAPNAE_01604	CDS	870	hflC		COG0330	Modulator of FtsH protease HflC
+EPHAPNAE_01605	CDS	969	hflK		COG0330	Modulator of FtsH protease HflK
+EPHAPNAE_01606	CDS	813				hypothetical protein
+EPHAPNAE_01607	tRNA	78				tRNA-Pro(ggg)
+EPHAPNAE_01608	CDS	570				hypothetical protein
+EPHAPNAE_01609	CDS	1716				hypothetical protein
+EPHAPNAE_01610	CDS	2448				hypothetical protein
+EPHAPNAE_01611	CDS	489				hypothetical protein
+EPHAPNAE_01612	CDS	552				hypothetical protein
+EPHAPNAE_01613	CDS	600				hypothetical protein
+EPHAPNAE_01614	CDS	174				hypothetical protein
+EPHAPNAE_01615	CDS	1107	ftsA_2			Cell division protein FtsA
+EPHAPNAE_01616	CDS	1146	csd	2.8.1.7		putative cysteine desulfurase
+EPHAPNAE_01617	CDS	1377	bioB_1	2.8.1.6		Biotin synthase
+EPHAPNAE_01618	CDS	264				hypothetical protein
+EPHAPNAE_01619	CDS	237	pptA	5.3.2.-	COG1942	Tautomerase PptA
+EPHAPNAE_01620	CDS	675				hypothetical protein
+EPHAPNAE_01621	CDS	501				hypothetical protein
+EPHAPNAE_01622	CDS	249				hypothetical protein
+EPHAPNAE_01623	CDS	330				hypothetical protein
+EPHAPNAE_01624	tRNA	75				tRNA-Glu(ctc)
+EPHAPNAE_01625	CDS	1641	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+EPHAPNAE_01626	CDS	690	queE_2	4.3.99.3		7-carboxy-7-deazaguanine synthase
+EPHAPNAE_01627	CDS	2091	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+EPHAPNAE_01628	CDS	2424	metH	2.1.1.13	COG0646	Methionine synthase
+EPHAPNAE_01629	CDS	645				hypothetical protein
+EPHAPNAE_01630	CDS	1074				hypothetical protein
+EPHAPNAE_01631	CDS	186				hypothetical protein
+EPHAPNAE_01632	CDS	243				hypothetical protein
+EPHAPNAE_01633	CDS	186				hypothetical protein
+EPHAPNAE_01634	CDS	1749				hypothetical protein
+EPHAPNAE_01635	CDS	1203				hypothetical protein
+EPHAPNAE_01636	CDS	4680	essC_1		COG1674	Type VII secretion system protein EssC
+EPHAPNAE_01637	CDS	303	yukE		COG4842	Protein YukE
+EPHAPNAE_01638	CDS	249				hypothetical protein
+EPHAPNAE_01639	CDS	831	prpC	3.1.3.16	COG0631	Protein phosphatase PrpC
+EPHAPNAE_01640	CDS	2088	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+EPHAPNAE_01641	CDS	486				hypothetical protein
+EPHAPNAE_01642	CDS	603				hypothetical protein
+EPHAPNAE_01643	CDS	216				hypothetical protein
+EPHAPNAE_01644	CDS	885				hypothetical protein
+EPHAPNAE_01645	CDS	978				hypothetical protein
+EPHAPNAE_01646	CDS	1446				hypothetical protein
+EPHAPNAE_01647	CDS	837				hypothetical protein
+EPHAPNAE_01648	CDS	876				hypothetical protein
+EPHAPNAE_01649	CDS	1413				hypothetical protein
+EPHAPNAE_01650	CDS	2133	celI_3	3.2.1.4		Endoglucanase 1
+EPHAPNAE_01651	CDS	4806				hypothetical protein
+EPHAPNAE_01652	CDS	639	dksA			RNA polymerase-binding transcription factor DksA
+EPHAPNAE_01653	CDS	807	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+EPHAPNAE_01654	CDS	1029	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+EPHAPNAE_01655	CDS	393	mntR_2		COG1321	Transcriptional regulator MntR
+EPHAPNAE_01656	CDS	222				hypothetical protein
+EPHAPNAE_01657	CDS	2166	feoB_2		COG0370	Fe(2+) transporter FeoB
+EPHAPNAE_01658	CDS	165				hypothetical protein
+EPHAPNAE_01659	CDS	1299	rarA		COG2256	Replication-associated recombination protein A
+EPHAPNAE_01660	CDS	432				hypothetical protein
+EPHAPNAE_01661	CDS	1302		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+EPHAPNAE_01662	CDS	576				hypothetical protein
+EPHAPNAE_01663	CDS	1737				hypothetical protein
+EPHAPNAE_01664	CDS	1512	putP		COG0591	Sodium/proline symporter
+EPHAPNAE_01665	CDS	1626		3.1.-.-	COG1236	Ribonuclease
+EPHAPNAE_01666	CDS	1068	hisC_3	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+EPHAPNAE_01667	CDS	978	ysdC_1	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+EPHAPNAE_01668	CDS	1050	ysdC_2	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+EPHAPNAE_01669	CDS	1050	ysdC_3	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+EPHAPNAE_01670	CDS	2301	comEC		COG0658	ComE operon protein 3
+EPHAPNAE_01671	CDS	1113				hypothetical protein
+EPHAPNAE_01672	CDS	258				hypothetical protein
+EPHAPNAE_01673	CDS	525				hypothetical protein
+EPHAPNAE_01674	CDS	1299	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+EPHAPNAE_01675	CDS	1071	thiE	2.5.1.3		Thiamine-phosphate synthase
+EPHAPNAE_01676	CDS	645				hypothetical protein
+EPHAPNAE_01677	CDS	1110	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+EPHAPNAE_01678	CDS	768	thiG	2.8.1.10	COG2022	Thiazole synthase
+EPHAPNAE_01679	CDS	201				hypothetical protein
+EPHAPNAE_01680	CDS	624	engB		COG0218	putative GTP-binding protein EngB
+EPHAPNAE_01681	CDS	1068				hypothetical protein
+EPHAPNAE_01682	CDS	129				hypothetical protein
+EPHAPNAE_01683	CDS	201				hypothetical protein
+EPHAPNAE_01684	CDS	1044				hypothetical protein
+EPHAPNAE_01685	CDS	663	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EPHAPNAE_01686	CDS	282				hypothetical protein
+EPHAPNAE_01687	CDS	816				hypothetical protein
+EPHAPNAE_01688	CDS	441				IS3 family transposase IS120
+EPHAPNAE_01689	CDS	1152				IS3 family transposase IS120
+EPHAPNAE_01690	CDS	405				IS3 family transposase IS120
+EPHAPNAE_01691	CDS	294				IS3 family transposase IS120
+	repeat_region	1777				
+EPHAPNAE_01692	CDS	456				hypothetical protein
+EPHAPNAE_01693	CDS	1152				hypothetical protein
+EPHAPNAE_01694	CDS	333				hypothetical protein
+EPHAPNAE_01695	CDS	2139	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+EPHAPNAE_01696	CDS	918				hypothetical protein
+EPHAPNAE_01697	CDS	390				hypothetical protein
+EPHAPNAE_01698	CDS	1845				hypothetical protein
+EPHAPNAE_01699	CDS	669				hypothetical protein
+EPHAPNAE_01700	CDS	777				hypothetical protein
+EPHAPNAE_01701	CDS	294				IS3 family transposase IS120
+EPHAPNAE_01702	CDS	843				IS3 family transposase IS120
+EPHAPNAE_01703	CDS	822				hypothetical protein
+	repeat_region	3244				
+EPHAPNAE_01704	tRNA	76				tRNA-Ala(ggc)
+EPHAPNAE_01705	CDS	291				hypothetical protein
+EPHAPNAE_01706	CDS	1185	rssB_3			Regulator of RpoS
+EPHAPNAE_01707	CDS	1764	sasA_7	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_01708	CDS	1767	rqcH		COG1293	Rqc2 RqcH
+EPHAPNAE_01709	CDS	1194	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+EPHAPNAE_01710	CDS	522	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+EPHAPNAE_01711	CDS	2211	celZ_2	3.2.1.4		Endoglucanase Z
+EPHAPNAE_01712	CDS	639	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+EPHAPNAE_01713	CDS	663	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+EPHAPNAE_01714	CDS	885	rsgA_1	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+EPHAPNAE_01715	CDS	2112	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+EPHAPNAE_01716	CDS	738	stp_1	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+EPHAPNAE_01717	CDS	1050	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+EPHAPNAE_01718	CDS	1368	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+EPHAPNAE_01719	CDS	684				hypothetical protein
+EPHAPNAE_01720	CDS	771				hypothetical protein
+EPHAPNAE_01721	CDS	978	fmt_1	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+EPHAPNAE_01722	CDS	513	def1	3.5.1.88		Peptide deformylase 1
+EPHAPNAE_01723	CDS	2448	priA	3.6.4.-	COG1198	Primosomal protein N'
+EPHAPNAE_01724	CDS	420				hypothetical protein
+EPHAPNAE_01725	CDS	957	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+EPHAPNAE_01726	CDS	513				hypothetical protein
+EPHAPNAE_01727	CDS	381				hypothetical protein
+EPHAPNAE_01728	CDS	1092	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+EPHAPNAE_01729	CDS	1776	norW	1.18.1.-		Nitric oxide reductase FlRd-NAD(+) reductase
+EPHAPNAE_01730	CDS	717				Single-stranded DNA-binding protein
+EPHAPNAE_01731	CDS	735				hypothetical protein
+EPHAPNAE_01732	CDS	771				hypothetical protein
+EPHAPNAE_01733	CDS	1842	asnO	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 3
+EPHAPNAE_01734	CDS	1242	surA	5.2.1.8		Chaperone SurA
+EPHAPNAE_01735	CDS	3771	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+EPHAPNAE_01736	CDS	900	hdfR			HTH-type transcriptional regulator HdfR
+EPHAPNAE_01737	CDS	552				hypothetical protein
+EPHAPNAE_01738	CDS	1665	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+EPHAPNAE_01739	CDS	1905	htpG			Chaperone protein HtpG
+EPHAPNAE_01740	CDS	855	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+EPHAPNAE_01741	CDS	780	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+EPHAPNAE_01742	CDS	957	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+EPHAPNAE_01743	CDS	420	zur		COG0735	Zinc uptake regulation protein
+EPHAPNAE_01744	CDS	429				hypothetical protein
+EPHAPNAE_01745	CDS	876	stp_2	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+EPHAPNAE_01746	CDS	2220	celZ_3	3.2.1.4		Endoglucanase Z
+EPHAPNAE_01747	CDS	732				hypothetical protein
+EPHAPNAE_01748	CDS	1194		3.4.-.-		putative peptidase
+EPHAPNAE_01749	CDS	2607				hypothetical protein
+EPHAPNAE_01750	CDS	684	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+EPHAPNAE_01751	CDS	1017	sasA_8	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_01752	CDS	672	regX3_2		COG0745	Sensory transduction protein regX3
+EPHAPNAE_01753	CDS	1692				hypothetical protein
+EPHAPNAE_01754	CDS	273				hypothetical protein
+EPHAPNAE_01755	CDS	2184	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+EPHAPNAE_01756	CDS	1533	pqqE_1	1.21.98.4		PqqA peptide cyclase
+EPHAPNAE_01757	CDS	492				hypothetical protein
+EPHAPNAE_01758	CDS	624				hypothetical protein
+EPHAPNAE_01759	CDS	1542				hypothetical protein
+EPHAPNAE_01760	CDS	615				hypothetical protein
+EPHAPNAE_01761	CDS	396				hypothetical protein
+EPHAPNAE_01762	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_01763	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_01764	tRNA	87				tRNA-Leu(caa)
+EPHAPNAE_01765	tRNA	76				tRNA-Lys(ctt)
+EPHAPNAE_01766	CDS	1506	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+EPHAPNAE_01767	CDS	1110	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+EPHAPNAE_01768	CDS	162				hypothetical protein
+EPHAPNAE_01769	CDS	411				hypothetical protein
+EPHAPNAE_01770	CDS	648	polC_2	2.7.7.7		DNA polymerase III PolC-type
+EPHAPNAE_01771	CDS	717	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+EPHAPNAE_01772	CDS	2229	pflB	2.3.1.54		Formate acetyltransferase
+EPHAPNAE_01773	CDS	1236				hypothetical protein
+EPHAPNAE_01774	CDS	552	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+EPHAPNAE_01775	CDS	867				hypothetical protein
+EPHAPNAE_01776	CDS	630	mltG_2	4.2.2.-		Endolytic murein transglycosylase
+EPHAPNAE_01777	CDS	585				hypothetical protein
+EPHAPNAE_01778	CDS	312				hypothetical protein
+EPHAPNAE_01779	CDS	1629				hypothetical protein
+EPHAPNAE_01780	CDS	771	fliA		COG1191	RNA polymerase sigma factor FliA
+EPHAPNAE_01781	CDS	399				hypothetical protein
+EPHAPNAE_01782	CDS	486	cheD	3.5.1.44	COG1871	Chemoreceptor glutamine deamidase CheD
+EPHAPNAE_01783	CDS	651	cheC	3.-.-.-	COG1776	CheY-P phosphatase CheC
+EPHAPNAE_01784	CDS	465	cheW_4		COG0835	Chemotaxis protein CheW
+EPHAPNAE_01785	CDS	2079	cheA_2	2.7.13.3	COG0643	Chemotaxis protein CheA
+EPHAPNAE_01786	CDS	1065	cheB_3	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+EPHAPNAE_01787	CDS	675	ycgR			Flagellar brake protein YcgR
+EPHAPNAE_01788	CDS	909	ylxH		COG0455	Flagellum site-determining protein YlxH
+EPHAPNAE_01789	CDS	1212	flhF		COG1419	Flagellar biosynthesis protein FlhF
+EPHAPNAE_01790	CDS	2031	flhA		COG1298	Flagellar biosynthesis protein FlhA
+EPHAPNAE_01791	CDS	1179	flhB_2		COG1377	Flagellar biosynthetic protein FlhB
+EPHAPNAE_01792	CDS	786	fliR		COG1684	Flagellar biosynthetic protein FliR
+EPHAPNAE_01793	CDS	270				hypothetical protein
+EPHAPNAE_01794	CDS	783	fliP		COG1338	Flagellar biosynthetic protein FliP
+EPHAPNAE_01795	CDS	498				hypothetical protein
+EPHAPNAE_01796	CDS	363	cheY_4		COG0784	Chemotaxis protein CheY
+EPHAPNAE_01797	CDS	1221				hypothetical protein
+EPHAPNAE_01798	CDS	987	fliM		COG1868	Flagellar motor switch protein FliM
+EPHAPNAE_01799	CDS	504				hypothetical protein
+EPHAPNAE_01800	CDS	213	swrD		COG1582	Swarming motility protein SwrD
+EPHAPNAE_01801	CDS	1323	flgE		COG1749	Flagellar hook protein FlgE
+EPHAPNAE_01802	CDS	390				hypothetical protein
+EPHAPNAE_01803	CDS	972				hypothetical protein
+EPHAPNAE_01804	CDS	1587				hypothetical protein
+EPHAPNAE_01805	CDS	831				hypothetical protein
+EPHAPNAE_01806	CDS	459				hypothetical protein
+EPHAPNAE_01807	CDS	1314	yscN	7.1.2.2		putative ATP synthase YscN
+EPHAPNAE_01808	CDS	792				hypothetical protein
+EPHAPNAE_01809	CDS	1023	fliG		COG1536	Flagellar motor switch protein FliG
+EPHAPNAE_01810	CDS	1554				hypothetical protein
+EPHAPNAE_01811	CDS	315	fliE			Flagellar hook-basal body complex protein FliE
+EPHAPNAE_01812	CDS	444	flgC		COG1558	Flagellar basal-body rod protein FlgC
+EPHAPNAE_01813	CDS	405	flgB		COG1815	Flagellar basal body rod protein FlgB
+EPHAPNAE_01814	CDS	1311	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+EPHAPNAE_01815	CDS	2109	topA	5.6.2.1		DNA topoisomerase 1
+EPHAPNAE_01816	CDS	1113				hypothetical protein
+EPHAPNAE_01817	CDS	756	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+EPHAPNAE_01818	CDS	363	yccF		COG3304	Inner membrane protein YccF
+EPHAPNAE_01819	CDS	417				hypothetical protein
+EPHAPNAE_01820	CDS	1539	comM		COG0606	Competence protein ComM
+EPHAPNAE_01821	CDS	405				hypothetical protein
+EPHAPNAE_01822	CDS	441				hypothetical protein
+EPHAPNAE_01823	CDS	792				hypothetical protein
+EPHAPNAE_01824	CDS	1872				hypothetical protein
+EPHAPNAE_01825	CDS	456	nrdR		COG1327	Transcriptional repressor NrdR
+EPHAPNAE_01826	CDS	261	ylmC		COG1873	putative sporulation protein YlmC
+EPHAPNAE_01827	CDS	774	sigG		COG1191	RNA polymerase sigma-G factor
+EPHAPNAE_01828	CDS	735	sigE		COG1191	RNA polymerase sigma-E factor
+EPHAPNAE_01829	CDS	894	spoIIGA	3.4.23.-		Sporulation sigma-E factor-processing peptidase
+EPHAPNAE_01830	CDS	1095	ftsZ		COG0206	Cell division protein FtsZ
+EPHAPNAE_01831	CDS	1242	ftsA_3		COG0849	Cell division protein FtsA
+EPHAPNAE_01832	CDS	378				hypothetical protein
+EPHAPNAE_01833	CDS	861	divIB			Cell division protein DivIB
+EPHAPNAE_01834	CDS	852	murAA_3	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+EPHAPNAE_01835	CDS	1404	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+EPHAPNAE_01836	CDS	747	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+EPHAPNAE_01837	CDS	1221				IS256 family transposase ISCth5
+EPHAPNAE_01838	CDS	387				hypothetical protein
+EPHAPNAE_01839	CDS	459				hypothetical protein
+EPHAPNAE_01840	CDS	3171	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+EPHAPNAE_01841	CDS	1230				hypothetical protein
+EPHAPNAE_01842	CDS	1101				hypothetical protein
+EPHAPNAE_01843	CDS	2370	celI_4	3.2.1.4		Endoglucanase 1
+EPHAPNAE_01844	CDS	621				hypothetical protein
+EPHAPNAE_01845	CDS	246				Protein
+EPHAPNAE_01846	CDS	1701	hndD_1	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+EPHAPNAE_01847	CDS	1875	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EPHAPNAE_01848	CDS	498	hndA_1	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+EPHAPNAE_01849	CDS	1170				hypothetical protein
+EPHAPNAE_01850	CDS	1671	rsxB_3	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EPHAPNAE_01851	CDS	246				Protein
+EPHAPNAE_01852	CDS	750				hypothetical protein
+EPHAPNAE_01853	CDS	2622	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+EPHAPNAE_01854	CDS	684	rex		COG2344	Redox-sensing transcriptional repressor Rex
+EPHAPNAE_01855	CDS	585	dpaB	1.3.1.-	COG0452	Dipicolinate synthase subunit B
+EPHAPNAE_01856	CDS	873	dpaA	1.3.1.-		Dipicolinate synthase subunit A
+EPHAPNAE_01857	CDS	1260		3.4.24.-	COG0612	putative zinc protease
+EPHAPNAE_01858	CDS	2103	pnp_2	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+EPHAPNAE_01859	CDS	264	rpsO			30S ribosomal protein S15
+EPHAPNAE_01860	CDS	258				hypothetical protein
+EPHAPNAE_01861	CDS	246				hypothetical protein
+EPHAPNAE_01862	CDS	612	ydbD	1.11.1.6	COG3546	putative manganese catalase
+EPHAPNAE_01863	CDS	3693				hypothetical protein
+EPHAPNAE_01864	CDS	2688	celK	3.2.1.91		Cellulose 1,4-beta-cellobiosidase
+EPHAPNAE_01865	CDS	1035				hypothetical protein
+EPHAPNAE_01866	CDS	1359				hypothetical protein
+EPHAPNAE_01867	CDS	270				hypothetical protein
+EPHAPNAE_01868	CDS	2589				hypothetical protein
+EPHAPNAE_01869	CDS	1308				hypothetical protein
+EPHAPNAE_01870	CDS	738				hypothetical protein
+EPHAPNAE_01871	CDS	1581				hypothetical protein
+EPHAPNAE_01872	CDS	1569	rsgI4			Anti-sigma-I factor RsgI4
+EPHAPNAE_01873	CDS	825	sigI4			RNA polymerase sigma factor SigI4
+EPHAPNAE_01874	CDS	2199				hypothetical protein
+EPHAPNAE_01875	CDS	2268				hypothetical protein
+EPHAPNAE_01876	CDS	1029				hypothetical protein
+EPHAPNAE_01877	CDS	828				hypothetical protein
+EPHAPNAE_01878	CDS	321				hypothetical protein
+EPHAPNAE_01879	CDS	1761			COG1132	putative ABC transporter ATP-binding protein
+EPHAPNAE_01880	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+EPHAPNAE_01881	CDS	426	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+EPHAPNAE_01882	CDS	1170	mdh	1.1.1.244		NAD-dependent methanol dehydrogenase
+EPHAPNAE_01883	CDS	966	alsB		COG1879	D-allose-binding periplasmic protein
+EPHAPNAE_01884	CDS	1050	rbsC_2		COG1172	Ribose import permease protein RbsC
+EPHAPNAE_01885	CDS	1500	rbsA	7.5.2.7	COG1129	Ribose import ATP-binding protein RbsA
+EPHAPNAE_01886	CDS	1122	nagC		COG1940	N-acetylglucosamine repressor
+EPHAPNAE_01887	CDS	972	scrK	2.7.1.4	COG0524	Fructokinase
+EPHAPNAE_01888	CDS	1035		1.1.1.301		D-arabitol-phosphate dehydrogenase
+EPHAPNAE_01889	CDS	606				hypothetical protein
+EPHAPNAE_01890	CDS	285				hypothetical protein
+EPHAPNAE_01891	CDS	714	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EPHAPNAE_01892	CDS	366				hypothetical protein
+EPHAPNAE_01893	CDS	273				hypothetical protein
+EPHAPNAE_01894	CDS	483				hypothetical protein
+EPHAPNAE_01895	CDS	723				hypothetical protein
+EPHAPNAE_01896	CDS	240				hypothetical protein
+EPHAPNAE_01897	CDS	963				hypothetical protein
+EPHAPNAE_01898	CDS	609				hypothetical protein
+EPHAPNAE_01899	CDS	909				hypothetical protein
+EPHAPNAE_01900	CDS	354	blaI_2		COG3682	Penicillinase repressor
+EPHAPNAE_01901	CDS	1536	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+EPHAPNAE_01902	CDS	1335	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+EPHAPNAE_01903	CDS	846			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+EPHAPNAE_01904	CDS	1395	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+EPHAPNAE_01905	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_01906	CDS	942				hypothetical protein
+EPHAPNAE_01907	CDS	1224	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+EPHAPNAE_01908	CDS	747	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+EPHAPNAE_01909	CDS	870	proC_2	1.5.1.2		Pyrroline-5-carboxylate reductase
+EPHAPNAE_01910	CDS	2778				hypothetical protein
+EPHAPNAE_01911	CDS	1074	prfB			Peptide chain release factor 2
+EPHAPNAE_01912	CDS	696				hypothetical protein
+EPHAPNAE_01913	CDS	1173	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+EPHAPNAE_01914	CDS	480				hypothetical protein
+EPHAPNAE_01915	CDS	219				hypothetical protein
+EPHAPNAE_01916	CDS	567				hypothetical protein
+EPHAPNAE_01917	CDS	330	trxA			Thioredoxin 1
+EPHAPNAE_01918	CDS	195				hypothetical protein
+EPHAPNAE_01919	CDS	1221				IS256 family transposase ISCth5
+EPHAPNAE_01920	CDS	843				IS3 family transposase IS120
+EPHAPNAE_01921	CDS	294				IS3 family transposase IS120
+EPHAPNAE_01922	CDS	534				hypothetical protein
+EPHAPNAE_01923	CDS	2568	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+EPHAPNAE_01924	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_01925	CDS	1179				hypothetical protein
+EPHAPNAE_01926	CDS	990				hypothetical protein
+EPHAPNAE_01927	CDS	1116				hypothetical protein
+EPHAPNAE_01928	CDS	993				hypothetical protein
+EPHAPNAE_01929	CDS	1392	prsA_2	5.2.1.8		Foldase protein PrsA
+EPHAPNAE_01930	CDS	567	sipS_1	3.4.21.89	COG0681	Signal peptidase I S
+EPHAPNAE_01931	CDS	930	fba	4.1.2.13		Fructose-bisphosphate aldolase
+EPHAPNAE_01932	CDS	1248	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+EPHAPNAE_01933	CDS	354				hypothetical protein
+EPHAPNAE_01934	CDS	957	ldh_2	1.1.1.27	COG0039	L-lactate dehydrogenase
+EPHAPNAE_01935	CDS	1173		1.1.1.38		NAD-dependent malic enzyme
+EPHAPNAE_01936	CDS	603				hypothetical protein
+EPHAPNAE_01937	CDS	1749	hndD_2	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+EPHAPNAE_01938	CDS	1794	hndC	1.12.1.3	COG1145	NADP-reducing hydrogenase subunit HndC
+EPHAPNAE_01939	CDS	369	hndB	1.12.1.3	COG3411	NADP-reducing hydrogenase subunit HndB
+EPHAPNAE_01940	CDS	567	mutL_2			DNA mismatch repair protein MutL
+EPHAPNAE_01941	CDS	498	hndA_2	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+EPHAPNAE_01942	CDS	711				hypothetical protein
+EPHAPNAE_01943	CDS	330				hypothetical protein
+EPHAPNAE_01944	CDS	1347	rsxB_4	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EPHAPNAE_01945	CDS	450	spoIIAB_2	2.7.11.1		Anti-sigma F factor
+EPHAPNAE_01946	CDS	354				hypothetical protein
+EPHAPNAE_01947	CDS	1674	udk	2.7.1.48		Uridine kinase
+EPHAPNAE_01948	CDS	438			COG2764	putative protein
+EPHAPNAE_01949	CDS	384				hypothetical protein
+EPHAPNAE_01950	CDS	837				hypothetical protein
+EPHAPNAE_01951	CDS	426				hypothetical protein
+EPHAPNAE_01952	CDS	1602	prfC			Peptide chain release factor 3
+EPHAPNAE_01953	CDS	2574				hypothetical protein
+EPHAPNAE_01954	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_01955	tRNA	76				tRNA-Lys(ttt)
+EPHAPNAE_01956	tRNA	76				tRNA-Gln(ttg)
+EPHAPNAE_01957	tRNA	77				tRNA-His(gtg)
+EPHAPNAE_01958	CDS	174				hypothetical protein
+EPHAPNAE_01959	CDS	204				hypothetical protein
+EPHAPNAE_01960	CDS	1938	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+EPHAPNAE_01961	CDS	2655	valS	6.1.1.9		Valine--tRNA ligase
+EPHAPNAE_01962	CDS	243				hypothetical protein
+EPHAPNAE_01963	CDS	1335	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+EPHAPNAE_01964	CDS	966				hypothetical protein
+EPHAPNAE_01965	CDS	1467				hypothetical protein
+EPHAPNAE_01966	CDS	645	drdA	4.1.2.-		5-deoxy-D-ribulose 1-phosphate aldolase
+EPHAPNAE_01967	CDS	693				hypothetical protein
+EPHAPNAE_01968	CDS	672				hypothetical protein
+EPHAPNAE_01969	CDS	1935	rsgI3			Anti-sigma-I factor RsgI3
+EPHAPNAE_01970	CDS	750	sigI3			RNA polymerase sigma factor SigI3
+EPHAPNAE_01971	CDS	1221		2.4.1.-	COG1819	PGL/p-HBAD biosynthesis glycosyltransferase
+EPHAPNAE_01972	CDS	1029				hypothetical protein
+EPHAPNAE_01973	CDS	2412	clpX_2			ATP-dependent Clp protease ATP-binding subunit ClpX
+EPHAPNAE_01974	CDS	948				IS982 family transposase ISCth1
+EPHAPNAE_01975	CDS	2829	uvrA			UvrABC system protein A
+EPHAPNAE_01976	CDS	1047				hypothetical protein
+EPHAPNAE_01977	CDS	1983	uvrB			UvrABC system protein B
+EPHAPNAE_01978	CDS	339				hypothetical protein
+EPHAPNAE_01979	CDS	360				hypothetical protein
+EPHAPNAE_01980	CDS	2184	gyrA_1	5.6.2.2	COG0188	DNA gyrase subunit A
+EPHAPNAE_01981	CDS	1986	gyrB_2	5.6.2.2		DNA gyrase subunit B
+EPHAPNAE_01982	CDS	447				hypothetical protein
+EPHAPNAE_01983	CDS	195				hypothetical protein
+EPHAPNAE_01984	CDS	441				hypothetical protein
+EPHAPNAE_01985	CDS	771	yjjP		COG2966	Inner membrane protein YjjP
+EPHAPNAE_01986	CDS	618				hypothetical protein
+EPHAPNAE_01987	CDS	1371	yeeO_1		COG0534	putative FMN/FAD exporter YeeO
+EPHAPNAE_01988	CDS	2241				hypothetical protein
+EPHAPNAE_01989	CDS	1476				hypothetical protein
+EPHAPNAE_01990	CDS	1119	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+EPHAPNAE_01991	CDS	189				hypothetical protein
+EPHAPNAE_01992	CDS	249				hypothetical protein
+EPHAPNAE_01993	CDS	444				hypothetical protein
+EPHAPNAE_01994	CDS	573				hypothetical protein
+EPHAPNAE_01995	CDS	294				IS3 family transposase IS120
+EPHAPNAE_01996	CDS	843				IS3 family transposase IS120
+EPHAPNAE_01997	CDS	288				hypothetical protein
+EPHAPNAE_01998	CDS	447				hypothetical protein
+EPHAPNAE_01999	CDS	2043				hypothetical protein
+EPHAPNAE_02000	CDS	1287	hom_2	1.1.1.3	COG0460	Homoserine dehydrogenase
+EPHAPNAE_02001	CDS	2358	dinG	3.1.-.-		3'-5' exonuclease DinG
+EPHAPNAE_02002	CDS	1110				hypothetical protein
+EPHAPNAE_02003	CDS	3318	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+EPHAPNAE_02004	CDS	1275	rcsC_5	2.7.13.3		Sensor histidine kinase RcsC
+EPHAPNAE_02005	CDS	108				hypothetical protein
+EPHAPNAE_02006	CDS	1209	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+EPHAPNAE_02007	CDS	1359				hypothetical protein
+EPHAPNAE_02008	CDS	948	yajO	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+EPHAPNAE_02009	CDS	1443	glgA_2	2.4.1.21	COG0297	Glycogen synthase
+EPHAPNAE_02010	CDS	309				hypothetical protein
+EPHAPNAE_02011	CDS	219				hypothetical protein
+EPHAPNAE_02012	CDS	696	rluD_3	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EPHAPNAE_02013	CDS	876	rlmL_2	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+EPHAPNAE_02014	CDS	114				hypothetical protein
+EPHAPNAE_02015	CDS	960		1.-.-.-	COG1052	Putative 2-hydroxyacid dehydrogenase
+EPHAPNAE_02016	CDS	2436	cbpA	2.4.1.20	COG3459	Cellobiose phosphorylase
+EPHAPNAE_02017	CDS	1692				hypothetical protein
+EPHAPNAE_02018	CDS	1605				hypothetical protein
+EPHAPNAE_02019	CDS	1155	dacF_3	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+EPHAPNAE_02020	CDS	927				hypothetical protein
+EPHAPNAE_02021	CDS	1455				hypothetical protein
+EPHAPNAE_02022	CDS	1434	celA	3.2.1.4		Endoglucanase A
+EPHAPNAE_02023	CDS	798	sigI2			RNA polymerase sigma factor SigI2
+EPHAPNAE_02024	CDS	2037	rsgI2			Anti-sigma-I factor RsgI2
+EPHAPNAE_02025	CDS	1488				hypothetical protein
+EPHAPNAE_02026	CDS	1122		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+EPHAPNAE_02027	CDS	426				hypothetical protein
+EPHAPNAE_02028	CDS	372				hypothetical protein
+EPHAPNAE_02029	CDS	1296	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+EPHAPNAE_02030	CDS	654	ppaX_2	3.6.1.1	COG0546	Pyrophosphatase PpaX
+EPHAPNAE_02031	CDS	2124				hypothetical protein
+EPHAPNAE_02032	CDS	585				hypothetical protein
+EPHAPNAE_02033	CDS	1410				hypothetical protein
+EPHAPNAE_02034	CDS	1053	pilT_2		COG2805	Twitching mobility protein
+EPHAPNAE_02035	CDS	2139	purR_2			HTH-type transcriptional repressor PurR
+EPHAPNAE_02036	CDS	624				hypothetical protein
+EPHAPNAE_02037	CDS	1341				hypothetical protein
+EPHAPNAE_02038	CDS	990				hypothetical protein
+EPHAPNAE_02039	CDS	1152				hypothetical protein
+EPHAPNAE_02040	CDS	2541				hypothetical protein
+EPHAPNAE_02041	CDS	1191	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+EPHAPNAE_02042	CDS	2409				hypothetical protein
+EPHAPNAE_02043	CDS	948				IS982 family transposase ISCth1
+EPHAPNAE_02044	CDS	1806	mutS_2			DNA mismatch repair protein MutS
+EPHAPNAE_02045	CDS	2463				hypothetical protein
+EPHAPNAE_02046	CDS	378	ziaR			Transcriptional repressor SmtB 
+EPHAPNAE_02047	CDS	2124	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+EPHAPNAE_02048	CDS	849				hypothetical protein
+EPHAPNAE_02049	CDS	900				hypothetical protein
+EPHAPNAE_02050	CDS	675				hypothetical protein
+EPHAPNAE_02051	CDS	783				hypothetical protein
+EPHAPNAE_02052	CDS	3156				hypothetical protein
+EPHAPNAE_02053	CDS	1131				hypothetical protein
+EPHAPNAE_02054	CDS	231	grxC		COG0695	Glutaredoxin 3
+EPHAPNAE_02055	CDS	2532	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+EPHAPNAE_02056	CDS	591				hypothetical protein
+EPHAPNAE_02057	CDS	996				hypothetical protein
+EPHAPNAE_02058	CDS	1338	pqqE_2	1.21.98.4		PqqA peptide cyclase
+EPHAPNAE_02059	CDS	1707				hypothetical protein
+EPHAPNAE_02060	CDS	1020	wbgU_2	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+EPHAPNAE_02061	CDS	441				hypothetical protein
+EPHAPNAE_02062	CDS	345				hypothetical protein
+EPHAPNAE_02063	CDS	408				hypothetical protein
+EPHAPNAE_02064	CDS	129				hypothetical protein
+EPHAPNAE_02065	CDS	351				hypothetical protein
+EPHAPNAE_02066	CDS	267				hypothetical protein
+EPHAPNAE_02067	CDS	1740	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+EPHAPNAE_02068	CDS	2091	recF_2			DNA replication and repair protein RecF
+EPHAPNAE_02069	CDS	1530				hypothetical protein
+EPHAPNAE_02070	CDS	456				IS3 family transposase IS120
+EPHAPNAE_02071	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_02072	CDS	291				IS3 family transposase IS120
+EPHAPNAE_02073	CDS	294				IS3 family transposase IS120
+EPHAPNAE_02074	CDS	264				hypothetical protein
+EPHAPNAE_02075	CDS	345				hypothetical protein
+EPHAPNAE_02076	CDS	126				hypothetical protein
+EPHAPNAE_02077	CDS	474				hypothetical protein
+EPHAPNAE_02078	tRNA	84				tRNA-Leu(tag)
+EPHAPNAE_02079	CDS	165				hypothetical protein
+EPHAPNAE_02080	CDS	807	ypbG_1		COG1408	putative protein YpbG
+EPHAPNAE_02081	CDS	1347	pgiB	5.3.1.9		Glucose-6-phosphate isomerase B
+EPHAPNAE_02082	CDS	225				hypothetical protein
+EPHAPNAE_02083	CDS	2388	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+EPHAPNAE_02084	CDS	1020	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+EPHAPNAE_02085	CDS	774				hypothetical protein
+EPHAPNAE_02086	CDS	1416	bglA_2	3.2.1.21	COG2723	Beta-glucosidase A
+EPHAPNAE_02087	CDS	192				hypothetical protein
+EPHAPNAE_02088	CDS	1005	licB	3.2.1.73	COG2273	Beta-glucanase
+EPHAPNAE_02089	CDS	1062	exuR_2		COG1609	putative HTH-type transcriptional repressor ExuR
+EPHAPNAE_02090	CDS	309	wfgD	2.4.1.305		UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+EPHAPNAE_02091	CDS	1359				hypothetical protein
+EPHAPNAE_02092	CDS	957	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+EPHAPNAE_02093	CDS	834				hypothetical protein
+EPHAPNAE_02094	CDS	2232	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+EPHAPNAE_02095	CDS	1959				hypothetical protein
+EPHAPNAE_02096	CDS	288				hypothetical protein
+EPHAPNAE_02097	CDS	573				hypothetical protein
+EPHAPNAE_02098	CDS	1323	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+EPHAPNAE_02099	CDS	723				hypothetical protein
+EPHAPNAE_02100	CDS	1236	padH	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit epsilon
+EPHAPNAE_02101	CDS	429	cooF		COG1142	Iron-sulfur protein
+EPHAPNAE_02102	CDS	1506	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+EPHAPNAE_02103	CDS	1092	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+EPHAPNAE_02104	CDS	2094	glnA_3	6.3.1.2		Glutamine synthetase
+EPHAPNAE_02105	CDS	294				hypothetical protein
+EPHAPNAE_02106	CDS	147				hypothetical protein
+EPHAPNAE_02107	CDS	384				hypothetical protein
+EPHAPNAE_02108	CDS	1185				hypothetical protein
+EPHAPNAE_02109	tRNA	77				tRNA-Arg(tct)
+EPHAPNAE_02110	tRNA	74				tRNA-Gly(tcc)
+EPHAPNAE_02111	CDS	1800				hypothetical protein
+EPHAPNAE_02112	CDS	1803				hypothetical protein
+EPHAPNAE_02113	CDS	600	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+EPHAPNAE_02114	CDS	792	rph	2.7.7.56	COG0689	Ribonuclease PH
+EPHAPNAE_02115	CDS	1173	gerM		COG5401	Spore germination protein GerM
+EPHAPNAE_02116	CDS	1065	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+EPHAPNAE_02117	CDS	2847				hypothetical protein
+EPHAPNAE_02118	CDS	1104	ftsA_4			Cell division protein FtsA
+EPHAPNAE_02119	CDS	546	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+EPHAPNAE_02120	CDS	993	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+EPHAPNAE_02121	CDS	609	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+EPHAPNAE_02122	CDS	489	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+EPHAPNAE_02123	CDS	1218	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+EPHAPNAE_02124	CDS	1377	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+EPHAPNAE_02125	CDS	198				hypothetical protein
+EPHAPNAE_02126	CDS	351				hypothetical protein
+EPHAPNAE_02127	CDS	1137				hypothetical protein
+EPHAPNAE_02128	CDS	1893	ltaS2_1		COG1368	Lipoteichoic acid synthase 2
+EPHAPNAE_02129	CDS	1095				hypothetical protein
+EPHAPNAE_02130	CDS	216				hypothetical protein
+EPHAPNAE_02131	CDS	453				hypothetical protein
+EPHAPNAE_02132	CDS	1083				hypothetical protein
+EPHAPNAE_02133	CDS	471				hypothetical protein
+EPHAPNAE_02134	CDS	369				hypothetical protein
+EPHAPNAE_02135	CDS	681	queG	1.17.99.6		Epoxyqueuosine reductase
+EPHAPNAE_02136	CDS	558				hypothetical protein
+EPHAPNAE_02137	CDS	291	yhbY		COG1534	RNA-binding protein YhbY
+EPHAPNAE_02138	CDS	225				hypothetical protein
+EPHAPNAE_02139	CDS	1275	obg	3.6.5.-	COG0536	GTPase Obg
+EPHAPNAE_02140	CDS	279	rpmA		COG0211	50S ribosomal protein L27
+EPHAPNAE_02141	CDS	342				hypothetical protein
+EPHAPNAE_02142	CDS	312	rplU		COG0261	50S ribosomal protein L21
+EPHAPNAE_02143	CDS	1473	rng	3.1.26.-	COG1530	Ribonuclease G
+EPHAPNAE_02144	CDS	840				hypothetical protein
+EPHAPNAE_02145	CDS	1842				hypothetical protein
+EPHAPNAE_02146	CDS	1062				hypothetical protein
+EPHAPNAE_02147	CDS	291				hypothetical protein
+EPHAPNAE_02148	CDS	426	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+EPHAPNAE_02149	CDS	948	rsxB_5	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EPHAPNAE_02150	CDS	273				hypothetical protein
+EPHAPNAE_02151	CDS	1305	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+EPHAPNAE_02152	CDS	258				hypothetical protein
+EPHAPNAE_02153	CDS	402				hypothetical protein
+EPHAPNAE_02154	CDS	2274	rnr	3.1.13.1	COG0557	Ribonuclease R
+EPHAPNAE_02155	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_02156	CDS	552				hypothetical protein
+EPHAPNAE_02157	CDS	240	secG		COG1314	putative protein-export membrane protein SecG
+EPHAPNAE_02158	CDS	1302	eno	4.2.1.11	COG0148	Enolase
+EPHAPNAE_02159	CDS	1638				hypothetical protein
+EPHAPNAE_02160	CDS	1536	gpmI_1	5.4.2.12		2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EPHAPNAE_02161	CDS	756	tpiA	5.3.1.1		Triosephosphate isomerase
+EPHAPNAE_02162	CDS	1194	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+EPHAPNAE_02163	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+EPHAPNAE_02164	CDS	726				hypothetical protein
+EPHAPNAE_02165	CDS	8265				hypothetical protein
+EPHAPNAE_02166	CDS	972				hypothetical protein
+EPHAPNAE_02167	CDS	1485	lcfB_3	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EPHAPNAE_02168	CDS	1038	fabH_1	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+EPHAPNAE_02169	CDS	246	acpP_2			Acyl carrier protein
+EPHAPNAE_02170	CDS	1035	fabH_2	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+EPHAPNAE_02171	CDS	1518				hypothetical protein
+EPHAPNAE_02172	CDS	495	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+EPHAPNAE_02173	CDS	465	cheX_1	3.-.-.-	COG1406	CheY-P phosphatase CheX
+EPHAPNAE_02174	CDS	579				hypothetical protein
+EPHAPNAE_02175	CDS	372				hypothetical protein
+EPHAPNAE_02176	CDS	1023	spoVAD			Stage V sporulation protein AD
+EPHAPNAE_02177	CDS	444				hypothetical protein
+EPHAPNAE_02178	CDS	189				hypothetical protein
+EPHAPNAE_02179	CDS	747	sigF		COG1191	RNA polymerase sigma-F factor
+EPHAPNAE_02180	CDS	450	spoIIAB_3	2.7.11.1		Anti-sigma F factor
+EPHAPNAE_02181	CDS	336	spoIIAA_1		COG1366	Anti-sigma F factor antagonist
+EPHAPNAE_02182	CDS	267	crh_2		COG1925	HPr-like protein Crh
+EPHAPNAE_02183	CDS	954	whiA		COG1481	putative cell division protein WhiA
+EPHAPNAE_02184	CDS	1980				hypothetical protein
+EPHAPNAE_02185	CDS	1320				Gluconeogenesis factor
+EPHAPNAE_02186	CDS	876				Nucleotide-binding protein
+EPHAPNAE_02187	CDS	915	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+EPHAPNAE_02188	CDS	726	ycdX	3.1.3.-	COG1387	putative phosphatase YcdX
+EPHAPNAE_02189	CDS	957	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+EPHAPNAE_02190	CDS	318				hypothetical protein
+EPHAPNAE_02191	tRNA	74				tRNA-Gly(tcc)
+EPHAPNAE_02192	tRNA	75				tRNA-Gly(gcc)
+EPHAPNAE_02193	CDS	642				hypothetical protein
+EPHAPNAE_02194	CDS	468	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+EPHAPNAE_02195	CDS	1242	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+EPHAPNAE_02196	CDS	657	ribE	2.5.1.9	COG0307	Riboflavin synthase
+EPHAPNAE_02197	CDS	1107	ribD		COG0117	Riboflavin biosynthesis protein RibD
+EPHAPNAE_02198	CDS	393				hypothetical protein
+EPHAPNAE_02199	CDS	657	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+EPHAPNAE_02200	CDS	1170	adh2	1.1.1.192	COG1979	Long-chain-alcohol dehydrogenase 2
+EPHAPNAE_02201	CDS	783				hypothetical protein
+EPHAPNAE_02202	CDS	876	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+EPHAPNAE_02203	CDS	762				hypothetical protein
+EPHAPNAE_02204	CDS	876				hypothetical protein
+EPHAPNAE_02205	CDS	264				hypothetical protein
+EPHAPNAE_02206	CDS	396	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+EPHAPNAE_02207	CDS	285	minE			Cell division topological specificity factor
+EPHAPNAE_02208	CDS	801	minD		COG2894	Septum site-determining protein MinD
+EPHAPNAE_02209	CDS	684	minC		COG0850	Septum site-determining protein MinC
+EPHAPNAE_02210	CDS	2130	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+EPHAPNAE_02211	CDS	531				hypothetical protein
+EPHAPNAE_02212	CDS	864				hypothetical protein
+EPHAPNAE_02213	CDS	1023	mreB_2		COG1077	Cell shape-determining protein MreB
+EPHAPNAE_02214	CDS	603	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+EPHAPNAE_02215	CDS	885				hypothetical protein
+EPHAPNAE_02216	CDS	633	mecB		COG4862	Adapter protein MecA 2
+EPHAPNAE_02217	CDS	546				hypothetical protein
+EPHAPNAE_02218	CDS	1680				hypothetical protein
+EPHAPNAE_02219	CDS	2448	lon1	3.4.21.53	COG0466	Lon protease 1
+EPHAPNAE_02220	CDS	1206	argJ			Arginine biosynthesis bifunctional protein ArgJ
+EPHAPNAE_02221	CDS	432	cheW_5		COG0835	Chemotaxis protein CheW
+EPHAPNAE_02222	CDS	516				hypothetical protein
+EPHAPNAE_02223	CDS	207				hypothetical protein
+EPHAPNAE_02224	CDS	384				hypothetical protein
+EPHAPNAE_02225	CDS	390				hypothetical protein
+EPHAPNAE_02226	CDS	588				hypothetical protein
+EPHAPNAE_02227	CDS	162				hypothetical protein
+EPHAPNAE_02228	CDS	966				hypothetical protein
+EPHAPNAE_02229	CDS	486				hypothetical protein
+EPHAPNAE_02230	CDS	2817				hypothetical protein
+EPHAPNAE_02231	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+EPHAPNAE_02232	CDS	1023	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+EPHAPNAE_02233	CDS	612	ppiB	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+EPHAPNAE_02234	CDS	726	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+EPHAPNAE_02235	CDS	477				hypothetical protein
+EPHAPNAE_02236	CDS	339	ytrH			Sporulation membrane protein YtrH
+EPHAPNAE_02237	CDS	957				hypothetical protein
+EPHAPNAE_02238	CDS	336				hypothetical protein
+EPHAPNAE_02239	CDS	1890	ltaS2_2		COG1368	Lipoteichoic acid synthase 2
+EPHAPNAE_02240	CDS	549	bioY		COG1268	putative biotin transporter BioY
+EPHAPNAE_02241	CDS	504				hypothetical protein
+EPHAPNAE_02242	CDS	1461	rsgI1			Anti-sigma-I factor RsgI1
+EPHAPNAE_02243	CDS	762	sigI1_2			RNA polymerase sigma factor SigI1
+EPHAPNAE_02244	CDS	633				hypothetical protein
+EPHAPNAE_02245	CDS	13881				hypothetical protein
+EPHAPNAE_02246	CDS	537				hypothetical protein
+EPHAPNAE_02247	CDS	2190				hypothetical protein
+EPHAPNAE_02248	CDS	2385				hypothetical protein
+EPHAPNAE_02249	CDS	1260				hypothetical protein
+EPHAPNAE_02250	CDS	1260				hypothetical protein
+EPHAPNAE_02251	CDS	960				hypothetical protein
+EPHAPNAE_02252	CDS	663				hypothetical protein
+EPHAPNAE_02253	CDS	810				hypothetical protein
+EPHAPNAE_02254	CDS	810				hypothetical protein
+EPHAPNAE_02255	CDS	2703				hypothetical protein
+EPHAPNAE_02256	CDS	810				hypothetical protein
+EPHAPNAE_02257	CDS	1602				hypothetical protein
+EPHAPNAE_02258	CDS	2229	celI_5	3.2.1.4		Endoglucanase 1
+EPHAPNAE_02259	CDS	1203	der_2			GTPase Der
+EPHAPNAE_02260	CDS	435				hypothetical protein
+EPHAPNAE_02261	CDS	2664	celI_6	3.2.1.4		Endoglucanase 1
+EPHAPNAE_02262	CDS	1872				hypothetical protein
+EPHAPNAE_02263	CDS	465	cheW_6		COG0835	Chemotaxis protein CheW
+EPHAPNAE_02264	CDS	1872				hypothetical protein
+EPHAPNAE_02265	CDS	465	cheW_7		COG0835	Chemotaxis protein CheW
+EPHAPNAE_02266	CDS	429	hspA		COG0071	Spore protein SP21
+EPHAPNAE_02267	CDS	1629	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+EPHAPNAE_02268	CDS	705	rsxB_6	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EPHAPNAE_02269	CDS	660				hypothetical protein
+EPHAPNAE_02270	CDS	2667	GFM1			Elongation factor G, mitochondrial
+EPHAPNAE_02271	CDS	1773	manA	3.2.1.78	COG4124	Mannan endo-1,4-beta-mannosidase
+EPHAPNAE_02272	CDS	645				hypothetical protein
+EPHAPNAE_02273	CDS	1011				hypothetical protein
+EPHAPNAE_02274	CDS	396				hypothetical protein
+EPHAPNAE_02275	CDS	135				hypothetical protein
+EPHAPNAE_02276	CDS	147				hypothetical protein
+EPHAPNAE_02277	CDS	297	pabB_1	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+EPHAPNAE_02278	CDS	441	pabB_2	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+EPHAPNAE_02279	CDS	1374	bioA	2.6.1.62		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+EPHAPNAE_02280	CDS	852	bioC	2.1.1.197	COG0500	Malonyl-[acyl-carrier protein] O-methyltransferase
+EPHAPNAE_02281	CDS	753	bioH	3.1.1.85	COG0596	Pimeloyl-[acyl-carrier protein] methyl ester esterase
+EPHAPNAE_02282	CDS	1167	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+EPHAPNAE_02283	CDS	735	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+EPHAPNAE_02284	CDS	963	bioB_2	2.8.1.6	COG0502	Biotin synthase
+EPHAPNAE_02285	CDS	327				hypothetical protein
+EPHAPNAE_02286	CDS	315				hypothetical protein
+EPHAPNAE_02287	CDS	1863				hypothetical protein
+EPHAPNAE_02288	CDS	480	ftnA	1.16.3.2		Bacterial non-heme ferritin
+EPHAPNAE_02289	CDS	2124				hypothetical protein
+EPHAPNAE_02290	CDS	330				hypothetical protein
+EPHAPNAE_02291	CDS	192				hypothetical protein
+EPHAPNAE_02292	CDS	243				hypothetical protein
+EPHAPNAE_02293	CDS	378				hypothetical protein
+EPHAPNAE_02294	CDS	4653				hypothetical protein
+EPHAPNAE_02295	CDS	846				hypothetical protein
+EPHAPNAE_02296	CDS	303				hypothetical protein
+EPHAPNAE_02297	CDS	471				hypothetical protein
+EPHAPNAE_02298	CDS	633				hypothetical protein
+EPHAPNAE_02299	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_02300	CDS	315				hypothetical protein
+EPHAPNAE_02301	CDS	348				hypothetical protein
+EPHAPNAE_02302	CDS	282				hypothetical protein
+EPHAPNAE_02303	CDS	453	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+EPHAPNAE_02304	CDS	546				hypothetical protein
+EPHAPNAE_02305	CDS	228				hypothetical protein
+EPHAPNAE_02306	CDS	189				hypothetical protein
+EPHAPNAE_02307	CDS	564	algU_3		COG1595	RNA polymerase sigma-H factor
+EPHAPNAE_02308	CDS	1686				hypothetical protein
+EPHAPNAE_02309	CDS	2703	celH	3.2.1.4	COG2730	Endoglucanase H
+EPHAPNAE_02310	CDS	564		1.-.-.-	COG0431	NAD(P)H-dependent FMN reductase
+EPHAPNAE_02311	CDS	222				hypothetical protein
+EPHAPNAE_02312	CDS	348				hypothetical protein
+EPHAPNAE_02313	CDS	918				hypothetical protein
+EPHAPNAE_02314	CDS	537	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+EPHAPNAE_02315	CDS	561				hypothetical protein
+EPHAPNAE_02316	CDS	609				hypothetical protein
+EPHAPNAE_02317	CDS	2106				hypothetical protein
+EPHAPNAE_02318	CDS	2313				hypothetical protein
+EPHAPNAE_02319	CDS	816		3.1.3.-		Putative phosphatase
+EPHAPNAE_02320	CDS	1059				hypothetical protein
+EPHAPNAE_02321	CDS	711				hypothetical protein
+EPHAPNAE_02322	CDS	1224	fprA	1.-.-.-	COG0426	Nitric oxide reductase
+EPHAPNAE_02323	CDS	396	nudG_1	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+EPHAPNAE_02324	CDS	372				hypothetical protein
+EPHAPNAE_02325	CDS	2277				hypothetical protein
+EPHAPNAE_02326	CDS	387				hypothetical protein
+EPHAPNAE_02327	CDS	621				hypothetical protein
+EPHAPNAE_02328	CDS	318				hypothetical protein
+EPHAPNAE_02329	CDS	1623	azoR	1.7.1.17		FMN-dependent NADH-azoreductase
+EPHAPNAE_02330	CDS	615				hypothetical protein
+EPHAPNAE_02331	CDS	414				hypothetical protein
+EPHAPNAE_02332	CDS	393				hypothetical protein
+EPHAPNAE_02333	CDS	639				hypothetical protein
+EPHAPNAE_02334	CDS	1815				hypothetical protein
+EPHAPNAE_02335	CDS	1755				hypothetical protein
+EPHAPNAE_02336	CDS	1974			COG1132	putative ABC transporter ATP-binding protein
+EPHAPNAE_02337	CDS	1737			COG1132	putative ABC transporter ATP-binding protein
+EPHAPNAE_02338	CDS	474	slyA			Transcriptional regulator SlyA
+EPHAPNAE_02339	CDS	360				hypothetical protein
+EPHAPNAE_02340	CDS	813		3.4.-.-	COG1659	Maritimacin
+EPHAPNAE_02341	CDS	741				hypothetical protein
+EPHAPNAE_02342	CDS	990				hypothetical protein
+EPHAPNAE_02343	CDS	198				hypothetical protein
+EPHAPNAE_02344	CDS	459				hypothetical protein
+EPHAPNAE_02345	CDS	357	mgsR		COG1393	Regulatory protein MgsR
+EPHAPNAE_02346	CDS	1236				hypothetical protein
+EPHAPNAE_02347	CDS	744	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EPHAPNAE_02348	CDS	990				hypothetical protein
+EPHAPNAE_02349	CDS	933	dpnB	3.1.21.4		Type-2 restriction enzyme DpnII
+EPHAPNAE_02350	CDS	942	dpnM	2.1.1.72		Modification methylase DpnIIA
+EPHAPNAE_02351	CDS	879				hypothetical protein
+EPHAPNAE_02352	CDS	420				hypothetical protein
+EPHAPNAE_02353	CDS	141				hypothetical protein
+EPHAPNAE_02354	CDS	1053	rsgA_2	3.6.1.-		Small ribosomal subunit biogenesis GTPase RsgA
+EPHAPNAE_02355	CDS	111				hypothetical protein
+EPHAPNAE_02356	CDS	1110				hypothetical protein
+EPHAPNAE_02357	CDS	924				hypothetical protein
+EPHAPNAE_02358	CDS	1230	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+EPHAPNAE_02359	CDS	543				hypothetical protein
+EPHAPNAE_02360	CDS	579				hypothetical protein
+EPHAPNAE_02361	CDS	969				hypothetical protein
+EPHAPNAE_02362	CDS	567				hypothetical protein
+EPHAPNAE_02363	CDS	639				hypothetical protein
+EPHAPNAE_02364	CDS	1794				hypothetical protein
+EPHAPNAE_02365	CDS	1074				hypothetical protein
+EPHAPNAE_02366	CDS	1869	bceB		COG0577	Bacitracin export permease protein BceB
+EPHAPNAE_02367	CDS	765	bceA_1		COG1136	Bacitracin export ATP-binding protein BceA
+EPHAPNAE_02368	CDS	1032	graS_1	2.7.13.3		Sensor histidine kinase GraS
+EPHAPNAE_02369	CDS	675	graR_1		COG0745	Response regulator protein GraR
+EPHAPNAE_02370	CDS	255				hypothetical protein
+EPHAPNAE_02371	CDS	861				ISL3 family transposase ISCsa1
+EPHAPNAE_02372	CDS	441				hypothetical protein
+EPHAPNAE_02373	CDS	489				hypothetical protein
+EPHAPNAE_02374	CDS	1638				hypothetical protein
+EPHAPNAE_02375	CDS	765	yxlG			putative transmembrane protein YxlG
+EPHAPNAE_02376	CDS	918	yxlF_2	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+EPHAPNAE_02377	CDS	207				hypothetical protein
+EPHAPNAE_02378	CDS	1125				hypothetical protein
+EPHAPNAE_02379	CDS	2106	glnA_4	6.3.1.2		Glutamine synthetase
+EPHAPNAE_02380	CDS	1416	gatB_2	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+EPHAPNAE_02381	CDS	1461	gatA_2	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A
+EPHAPNAE_02382	CDS	294	GATC	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit C, chloroplastic/mitochondrial
+EPHAPNAE_02383	CDS	1746	aspS_2	6.1.1.12		Aspartate--tRNA ligase
+EPHAPNAE_02384	CDS	156				hypothetical protein
+EPHAPNAE_02385	CDS	1134				hypothetical protein
+EPHAPNAE_02386	CDS	435				hypothetical protein
+EPHAPNAE_02387	CDS	747	echA8	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+EPHAPNAE_02388	CDS	672	cmoA	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+EPHAPNAE_02389	CDS	321				hypothetical protein
+EPHAPNAE_02390	CDS	393				hypothetical protein
+EPHAPNAE_02391	CDS	573	flr			Flavoredoxin
+EPHAPNAE_02392	CDS	528	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+EPHAPNAE_02393	CDS	885			COG1464	Membrane lipoprotein TpN32
+EPHAPNAE_02394	CDS	711	metP		COG2011	Methionine import system permease protein MetP
+EPHAPNAE_02395	CDS	822	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+EPHAPNAE_02396	CDS	198	iscR		COG1959	HTH-type transcriptional regulator IscR
+EPHAPNAE_02397	CDS	1164	metC	4.4.1.13	COG0626	Cystathionine beta-lyase
+EPHAPNAE_02398	CDS	909	mccA	2.5.1.134	COG0031	O-acetylserine dependent cystathionine beta-synthase
+EPHAPNAE_02399	CDS	435				hypothetical protein
+EPHAPNAE_02400	CDS	1212				hypothetical protein
+EPHAPNAE_02401	CDS	672	lolD_3	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+EPHAPNAE_02402	CDS	540				hypothetical protein
+EPHAPNAE_02403	CDS	1476	nifD	1.18.6.1		Nitrogenase molybdenum-iron protein alpha chain
+EPHAPNAE_02404	CDS	1344	nifK	1.18.6.1	COG2710	Nitrogenase molybdenum-iron protein beta chain
+EPHAPNAE_02405	CDS	336				hypothetical protein
+EPHAPNAE_02406	CDS	876	nifB	4.-.-.-	COG0535	FeMo cofactor biosynthesis protein NifB
+EPHAPNAE_02407	CDS	1317		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+EPHAPNAE_02408	CDS	1062				hypothetical protein
+EPHAPNAE_02409	CDS	1068				hypothetical protein
+EPHAPNAE_02410	CDS	804	ssuB_1	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+EPHAPNAE_02411	CDS	855	nifH1	1.18.6.1		Nitrogenase iron protein 1
+EPHAPNAE_02412	CDS	744				hypothetical protein
+EPHAPNAE_02413	CDS	711	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+EPHAPNAE_02414	CDS	1068	tmpC		COG1744	Membrane lipoprotein TmpC
+EPHAPNAE_02415	CDS	1530				putative protein
+EPHAPNAE_02416	CDS	843	yjjW	1.97.1.-	COG1180	Putative glycyl-radical enzyme activating enzyme YjjW
+EPHAPNAE_02417	CDS	1563	mglA_2	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+EPHAPNAE_02418	CDS	1119				hypothetical protein
+EPHAPNAE_02419	CDS	936				hypothetical protein
+EPHAPNAE_02420	CDS	417	cdd_2	3.5.4.5	COG0295	Cytidine deaminase
+EPHAPNAE_02421	CDS	669	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+EPHAPNAE_02422	CDS	780			COG4753	putative response regulatory protein
+EPHAPNAE_02423	CDS	1725				hypothetical protein
+EPHAPNAE_02424	CDS	1656				hypothetical protein
+EPHAPNAE_02425	CDS	1104	potA_2	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+EPHAPNAE_02426	CDS	1107				hypothetical protein
+EPHAPNAE_02427	CDS	363				hypothetical protein
+EPHAPNAE_02428	CDS	2265				hypothetical protein
+EPHAPNAE_02429	CDS	135				hypothetical protein
+EPHAPNAE_02430	CDS	414				hypothetical protein
+EPHAPNAE_02431	CDS	1137	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+EPHAPNAE_02432	CDS	189				hypothetical protein
+EPHAPNAE_02433	CDS	264				hypothetical protein
+EPHAPNAE_02434	CDS	444				hypothetical protein
+EPHAPNAE_02435	CDS	1446				hypothetical protein
+EPHAPNAE_02436	CDS	2670	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+EPHAPNAE_02437	CDS	2556				hypothetical protein
+EPHAPNAE_02438	CDS	2841				hypothetical protein
+EPHAPNAE_02439	CDS	843				IS3 family transposase IS120
+EPHAPNAE_02440	CDS	294				IS3 family transposase IS120
+EPHAPNAE_02441	CDS	969				hypothetical protein
+EPHAPNAE_02442	CDS	741				hypothetical protein
+EPHAPNAE_02443	CDS	402				hypothetical protein
+EPHAPNAE_02444	CDS	831				hypothetical protein
+EPHAPNAE_02445	CDS	396	nudG_2	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+EPHAPNAE_02446	CDS	1050			COG2826	IS30 family transposase ISCth2
+EPHAPNAE_02447	CDS	1569				hypothetical protein
+EPHAPNAE_02448	CDS	456				hypothetical protein
+EPHAPNAE_02449	CDS	1569				hypothetical protein
+EPHAPNAE_02450	CDS	219				hypothetical protein
+EPHAPNAE_02451	CDS	1005				hypothetical protein
+EPHAPNAE_02452	CDS	420				hypothetical protein
+EPHAPNAE_02453	CDS	2469				hypothetical protein
+EPHAPNAE_02454	CDS	576				hypothetical protein
+EPHAPNAE_02455	CDS	195				hypothetical protein
+EPHAPNAE_02456	CDS	2523				hypothetical protein
+EPHAPNAE_02457	CDS	774				hypothetical protein
+EPHAPNAE_02458	CDS	2187				hypothetical protein
+EPHAPNAE_02459	CDS	192				hypothetical protein
+EPHAPNAE_02460	CDS	384				hypothetical protein
+EPHAPNAE_02461	CDS	600				hypothetical protein
+EPHAPNAE_02462	CDS	345				hypothetical protein
+EPHAPNAE_02463	CDS	432				hypothetical protein
+EPHAPNAE_02464	CDS	336				hypothetical protein
+EPHAPNAE_02465	CDS	309				hypothetical protein
+EPHAPNAE_02466	CDS	1203				hypothetical protein
+EPHAPNAE_02467	CDS	726	clpP_2	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+EPHAPNAE_02468	CDS	1323				hypothetical protein
+EPHAPNAE_02469	CDS	2670				hypothetical protein
+EPHAPNAE_02470	CDS	195				hypothetical protein
+EPHAPNAE_02471	CDS	468				hypothetical protein
+EPHAPNAE_02472	CDS	900				hypothetical protein
+EPHAPNAE_02473	CDS	231				hypothetical protein
+EPHAPNAE_02474	CDS	336				hypothetical protein
+EPHAPNAE_02475	CDS	693				hypothetical protein
+EPHAPNAE_02476	CDS	1254				hypothetical protein
+EPHAPNAE_02477	CDS	1299				hypothetical protein
+EPHAPNAE_02478	CDS	552				hypothetical protein
+EPHAPNAE_02479	CDS	360				hypothetical protein
+EPHAPNAE_02480	CDS	456				hypothetical protein
+EPHAPNAE_02481	CDS	288				hypothetical protein
+EPHAPNAE_02482	CDS	1536				hypothetical protein
+EPHAPNAE_02483	CDS	678	bceA_2		COG1136	Bacitracin export ATP-binding protein BceA
+EPHAPNAE_02484	CDS	2520				hypothetical protein
+EPHAPNAE_02485	CDS	1008	sasA_9	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_02486	CDS	675	qseB			Transcriptional regulatory protein QseB
+EPHAPNAE_02487	CDS	777	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+EPHAPNAE_02488	CDS	549	thrB	2.7.1.39		Homoserine kinase
+EPHAPNAE_02489	CDS	303				hypothetical protein
+EPHAPNAE_02490	CDS	204				hypothetical protein
+EPHAPNAE_02491	CDS	537				hypothetical protein
+EPHAPNAE_02492	CDS	723				hypothetical protein
+EPHAPNAE_02493	CDS	114				hypothetical protein
+EPHAPNAE_02494	CDS	138				hypothetical protein
+EPHAPNAE_02495	CDS	1368	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+EPHAPNAE_02496	CDS	801	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+EPHAPNAE_02497	CDS	1047	hmuU		COG0609	Hemin transport system permease protein HmuU
+EPHAPNAE_02498	CDS	957	btuF			Vitamin B12-binding protein
+EPHAPNAE_02499	CDS	1167				hypothetical protein
+EPHAPNAE_02500	CDS	930				hypothetical protein
+EPHAPNAE_02501	CDS	438				hypothetical protein
+EPHAPNAE_02502	CDS	672	yunB			Sporulation protein YunB
+EPHAPNAE_02503	CDS	2475	ponA		COG0744	Penicillin-binding protein 1A/1B
+EPHAPNAE_02504	CDS	1209	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+EPHAPNAE_02505	CDS	1266	macA		COG0845	Macrolide export protein MacA
+EPHAPNAE_02506	CDS	741	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EPHAPNAE_02507	CDS	1089				hypothetical protein
+EPHAPNAE_02508	CDS	1152				hypothetical protein
+EPHAPNAE_02509	CDS	834	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+EPHAPNAE_02510	CDS	1002				hypothetical protein
+EPHAPNAE_02511	CDS	693				hypothetical protein
+EPHAPNAE_02512	CDS	393				hypothetical protein
+EPHAPNAE_02513	CDS	351				hypothetical protein
+EPHAPNAE_02514	CDS	555	rbr2	1.11.1.1	COG1592	Rubrerythrin-2
+EPHAPNAE_02515	tRNA	77				tRNA-Pro(cgg)
+EPHAPNAE_02516	CDS	789				hypothetical protein
+EPHAPNAE_02517	CDS	2445	lon	3.4.21.53		Lon protease
+EPHAPNAE_02518	CDS	459	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+EPHAPNAE_02519	CDS	711	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+EPHAPNAE_02520	CDS	486	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+EPHAPNAE_02521	CDS	1203	hutI	3.5.2.7		Imidazolonepropionase
+EPHAPNAE_02522	CDS	960				hypothetical protein
+EPHAPNAE_02523	CDS	384				hypothetical protein
+EPHAPNAE_02524	CDS	534				hypothetical protein
+EPHAPNAE_02525	CDS	312				hypothetical protein
+EPHAPNAE_02526	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+EPHAPNAE_02527	CDS	438	rplM		COG0102	50S ribosomal protein L13
+EPHAPNAE_02528	CDS	396				hypothetical protein
+EPHAPNAE_02529	CDS	1083	disA	2.7.7.85		DNA integrity scanning protein DisA
+EPHAPNAE_02530	CDS	1365	radA	3.6.4.-	COG1066	DNA repair protein RadA
+EPHAPNAE_02531	CDS	1935				hypothetical protein
+EPHAPNAE_02532	CDS	1257				hypothetical protein
+EPHAPNAE_02533	CDS	2457	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+EPHAPNAE_02534	CDS	1023	mcsB	2.7.14.1	COG3869	Protein-arginine kinase
+EPHAPNAE_02535	CDS	507	mcsA		COG3880	Protein-arginine kinase activator protein
+EPHAPNAE_02536	CDS	462	ctsR			Transcriptional regulator CtsR
+EPHAPNAE_02537	CDS	480				hypothetical protein
+EPHAPNAE_02538	CDS	2088	fusA_2		COG0480	Elongation factor G
+EPHAPNAE_02539	CDS	1026	aroF_2	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+EPHAPNAE_02540	CDS	1098				hypothetical protein
+EPHAPNAE_02541	CDS	1272	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+EPHAPNAE_02542	CDS	654	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+EPHAPNAE_02543	CDS	1917			COG0488	putative ABC transporter ATP-binding protein
+EPHAPNAE_02544	CDS	1512	ydhD	3.2.-.-	COG3858	Putative sporulation-specific glycosylase YdhD
+EPHAPNAE_02545	CDS	765	ecfA2_2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+EPHAPNAE_02546	CDS	810	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+EPHAPNAE_02547	CDS	1059	larMN		COG0310	putative fused nickel transport protein LarMN
+EPHAPNAE_02548	CDS	723				hypothetical protein
+EPHAPNAE_02549	CDS	933	cheB_4	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+EPHAPNAE_02550	CDS	6903				hypothetical protein
+EPHAPNAE_02551	CDS	210				hypothetical protein
+EPHAPNAE_02552	CDS	1665				hypothetical protein
+EPHAPNAE_02553	CDS	540	sigX		COG1595	ECF RNA polymerase sigma factor SigX
+EPHAPNAE_02554	CDS	2253				hypothetical protein
+EPHAPNAE_02555	CDS	375	blaI_3		COG3682	Penicillinase repressor
+EPHAPNAE_02556	CDS	789	ureH		COG0829	Urease accessory protein UreH
+EPHAPNAE_02557	CDS	609	ureG		COG0378	Urease accessory protein UreG
+EPHAPNAE_02558	CDS	723	ureF		COG0830	Urease accessory protein UreF
+EPHAPNAE_02559	CDS	381	ureE			Urease accessory protein UreE
+EPHAPNAE_02560	CDS	132				hypothetical protein
+EPHAPNAE_02561	CDS	1719	ureC	3.5.1.5		Urease subunit alpha
+EPHAPNAE_02562	CDS	369	ureA_1	3.5.1.5	COG0831	Urease subunit alpha
+EPHAPNAE_02563	CDS	303	ureA_2	3.5.1.5		Urease subunit gamma
+EPHAPNAE_02564	CDS	696	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+EPHAPNAE_02565	CDS	765	artM		COG1126	Arginine transport ATP-binding protein ArtM
+EPHAPNAE_02566	CDS	1149				hypothetical protein
+EPHAPNAE_02567	CDS	909	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+EPHAPNAE_02568	CDS	1260	amiC			Aliphatic amidase expression-regulating protein
+EPHAPNAE_02569	CDS	1089	rssB_4			Regulator of RpoS
+EPHAPNAE_02570	CDS	2799	rcsC_6	2.7.13.3		Sensor histidine kinase RcsC
+EPHAPNAE_02571	CDS	1092	rcsC_7	2.7.13.3		Sensor histidine kinase RcsC
+EPHAPNAE_02572	CDS	975				hypothetical protein
+EPHAPNAE_02573	CDS	573				hypothetical protein
+EPHAPNAE_02574	CDS	576				hypothetical protein
+EPHAPNAE_02575	CDS	330				hypothetical protein
+EPHAPNAE_02576	CDS	663				hypothetical protein
+EPHAPNAE_02577	CDS	1215				hypothetical protein
+EPHAPNAE_02578	CDS	2070				hypothetical protein
+EPHAPNAE_02579	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_02580	CDS	687				hypothetical protein
+EPHAPNAE_02581	CDS	969				hypothetical protein
+EPHAPNAE_02582	CDS	564				hypothetical protein
+EPHAPNAE_02583	CDS	3297	smc_5			Chromosome partition protein Smc
+EPHAPNAE_02584	CDS	1149				hypothetical protein
+EPHAPNAE_02585	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_02586	CDS	2796				hypothetical protein
+EPHAPNAE_02587	CDS	972				hypothetical protein
+EPHAPNAE_02588	CDS	585				hypothetical protein
+EPHAPNAE_02589	CDS	3339				hypothetical protein
+EPHAPNAE_02590	CDS	1218				IS701 family transposase ISCth16
+EPHAPNAE_02591	CDS	1215				hypothetical protein
+EPHAPNAE_02592	CDS	2703				hypothetical protein
+EPHAPNAE_02593	CDS	810				hypothetical protein
+EPHAPNAE_02594	CDS	111				hypothetical protein
+EPHAPNAE_02595	CDS	594				hypothetical protein
+EPHAPNAE_02596	CDS	270				hypothetical protein
+EPHAPNAE_02597	CDS	2970	smc_6			Chromosome partition protein Smc
+EPHAPNAE_02598	CDS	963				hypothetical protein
+EPHAPNAE_02599	CDS	510				hypothetical protein
+EPHAPNAE_02600	CDS	1860	xynY_2	3.2.1.8		Endo-1,4-beta-xylanase Y
+EPHAPNAE_02601	CDS	1062		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+EPHAPNAE_02602	CDS	936	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+EPHAPNAE_02603	CDS	810	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+EPHAPNAE_02604	CDS	1293		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+EPHAPNAE_02605	CDS	450	cymR_3			HTH-type transcriptional regulator CymR
+EPHAPNAE_02606	CDS	462	cymR_4			HTH-type transcriptional regulator CymR
+EPHAPNAE_02607	CDS	918	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+EPHAPNAE_02608	CDS	1392	sasA_10	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_02609	CDS	705	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+EPHAPNAE_02610	CDS	2232	copA_2	7.2.2.8		putative copper-importing P-type ATPase A
+EPHAPNAE_02611	CDS	1500				hypothetical protein
+EPHAPNAE_02612	CDS	492				hypothetical protein
+EPHAPNAE_02613	CDS	594				hypothetical protein
+EPHAPNAE_02614	tRNA	75				tRNA-Cys(gca)
+EPHAPNAE_02615	tRNA	75				tRNA-Gly(gcc)
+EPHAPNAE_02616	tRNA	76				tRNA-Phe(gaa)
+EPHAPNAE_02617	tRNA	77				tRNA-Asp(gtc)
+EPHAPNAE_02618	tRNA	76				tRNA-Val(tac)
+EPHAPNAE_02619	CDS	891	hslO		COG1281	33 kDa chaperonin
+EPHAPNAE_02620	CDS	201	cspA		COG1278	Cold shock protein CspA
+EPHAPNAE_02621	CDS	321	atl		COG3695	DNA base-flipping protein
+EPHAPNAE_02622	CDS	699	desVI	2.1.1.234		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose
+EPHAPNAE_02623	CDS	174				hypothetical protein
+EPHAPNAE_02624	CDS	1290				hypothetical protein
+EPHAPNAE_02625	CDS	1128	envC		COG4942	Murein hydrolase activator EnvC
+EPHAPNAE_02626	CDS	885	ftsX		COG2177	Cell division protein FtsX
+EPHAPNAE_02627	CDS	708	ftsE		COG2884	Cell division ATP-binding protein FtsE
+EPHAPNAE_02628	CDS	1086	cdaR_2		COG3835	Carbohydrate diacid regulator
+EPHAPNAE_02629	CDS	1113	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+EPHAPNAE_02630	CDS	1041	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+EPHAPNAE_02631	CDS	915	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+EPHAPNAE_02632	CDS	663				hypothetical protein
+EPHAPNAE_02633	CDS	1203	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+EPHAPNAE_02634	CDS	1065	carA_2	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+EPHAPNAE_02635	CDS	3204	carB_2	6.3.5.5		Carbamoyl-phosphate synthase large chain
+EPHAPNAE_02636	CDS	924	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+EPHAPNAE_02637	CDS	477				hypothetical protein
+EPHAPNAE_02638	CDS	948				IS982 family transposase ISCth1
+EPHAPNAE_02639	CDS	2214				hypothetical protein
+EPHAPNAE_02640	CDS	390				hypothetical protein
+EPHAPNAE_02641	CDS	669				hypothetical protein
+EPHAPNAE_02642	CDS	444				hypothetical protein
+EPHAPNAE_02643	CDS	327				hypothetical protein
+EPHAPNAE_02644	CDS	762	ypbG_2		COG1408	putative protein YpbG
+EPHAPNAE_02645	CDS	327				hypothetical protein
+EPHAPNAE_02646	CDS	870				hypothetical protein
+EPHAPNAE_02647	CDS	306			COG2826	IS30 family transposase ISCth3
+EPHAPNAE_02648	CDS	1224				IS256 family transposase ISCth4
+EPHAPNAE_02649	CDS	876				hypothetical protein
+EPHAPNAE_02650	CDS	738				hypothetical protein
+EPHAPNAE_02651	CDS	5502	dltA	6.2.1.54		D-alanine--D-alanyl carrier protein ligase
+EPHAPNAE_02652	CDS	1233	tylN_1	2.4.1.317		O-mycaminosyltylonolide 6-deoxyallosyltransferase
+EPHAPNAE_02653	CDS	1212	tylN_2	2.4.1.317		O-mycaminosyltylonolide 6-deoxyallosyltransferase
+EPHAPNAE_02654	CDS	1878	pksJ		COG0318	Polyketide synthase PksJ
+EPHAPNAE_02655	CDS	2889				hypothetical protein
+EPHAPNAE_02656	CDS	1473				hypothetical protein
+EPHAPNAE_02657	CDS	1242				hypothetical protein
+EPHAPNAE_02658	CDS	3873				hypothetical protein
+EPHAPNAE_02659	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_02660	CDS	1608				hypothetical protein
+EPHAPNAE_02661	CDS	798				hypothetical protein
+EPHAPNAE_02662	CDS	1281				hypothetical protein
+EPHAPNAE_02663	CDS	1392	sasA_11	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_02664	CDS	687	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+EPHAPNAE_02665	CDS	2718	yloB	7.2.2.10	COG0474	Calcium-transporting ATPase
+EPHAPNAE_02666	CDS	1461	speA_1	4.1.1.19	COG1982	Arginine decarboxylase
+EPHAPNAE_02667	CDS	699				hypothetical protein
+EPHAPNAE_02668	CDS	699				hypothetical protein
+EPHAPNAE_02669	CDS	345				hypothetical protein
+EPHAPNAE_02670	CDS	969				hypothetical protein
+EPHAPNAE_02671	CDS	1629	pyrG	6.3.4.2		CTP synthase
+EPHAPNAE_02672	CDS	717				IS256 family transposase ISCcl1
+EPHAPNAE_02673	CDS	450				IS256 family transposase ISCcl1
+EPHAPNAE_02674	CDS	618				hypothetical protein
+EPHAPNAE_02675	CDS	1653				hypothetical protein
+EPHAPNAE_02676	CDS	1518	ctpB	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpB
+EPHAPNAE_02677	CDS	1566				hypothetical protein
+EPHAPNAE_02678	CDS	3006				hypothetical protein
+EPHAPNAE_02679	CDS	636				hypothetical protein
+EPHAPNAE_02680	CDS	678				hypothetical protein
+EPHAPNAE_02681	CDS	1695	argS	6.1.1.19		Arginine--tRNA ligase
+EPHAPNAE_02682	CDS	468				hypothetical protein
+EPHAPNAE_02683	CDS	807	murI	5.1.1.3	COG0796	Glutamate racemase
+EPHAPNAE_02684	CDS	1131	ddl_2	6.3.2.4		D-alanine--D-alanine ligase
+EPHAPNAE_02685	CDS	1335			COG2239	Magnesium transporter MgtE
+EPHAPNAE_02686	CDS	138				hypothetical protein
+EPHAPNAE_02687	CDS	741				hypothetical protein
+EPHAPNAE_02688	CDS	216				hypothetical protein
+EPHAPNAE_02689	CDS	900				hypothetical protein
+EPHAPNAE_02690	CDS	663	deoC1	4.1.2.4		Deoxyribose-phosphate aldolase 1
+EPHAPNAE_02691	CDS	549				hypothetical protein
+EPHAPNAE_02692	CDS	894	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+EPHAPNAE_02693	CDS	1284		1.18.1.2		Ferredoxin--NADP reductase
+EPHAPNAE_02694	CDS	597	resA			Thiol-disulfide oxidoreductase ResA
+EPHAPNAE_02695	CDS	669	dipZ		COG0785	Protein DipZ
+EPHAPNAE_02696	CDS	171				hypothetical protein
+EPHAPNAE_02697	CDS	324				hypothetical protein
+EPHAPNAE_02698	CDS	462				hypothetical protein
+EPHAPNAE_02699	CDS	375				hypothetical protein
+EPHAPNAE_02700	CDS	705	sleB_2		COG3409	Spore cortex-lytic enzyme
+EPHAPNAE_02701	CDS	864				hypothetical protein
+EPHAPNAE_02702	CDS	2157	yhgF		COG2183	Protein YhgF
+EPHAPNAE_02703	CDS	933	lacC	2.7.1.144		Tagatose-6-phosphate kinase
+EPHAPNAE_02704	CDS	1341				hypothetical protein
+EPHAPNAE_02705	CDS	198				hypothetical protein
+EPHAPNAE_02706	CDS	966	uvsE	3.-.-.-	COG4294	UV DNA damage endonuclease
+EPHAPNAE_02707	CDS	735		2.1.1.156		Glycine/sarcosine N-methyltransferase
+EPHAPNAE_02708	CDS	1083				hypothetical protein
+EPHAPNAE_02709	CDS	2451	cugP_4	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+EPHAPNAE_02710	CDS	963	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+EPHAPNAE_02711	CDS	2514	xynZ_1	3.2.1.8	COG2382	Endo-1,4-beta-xylanase Z
+EPHAPNAE_02712	CDS	1530	ahpF	1.6.99.3		NADH dehydrogenase
+EPHAPNAE_02713	CDS	564	ahpC	1.11.1.15		Alkyl hydroperoxide reductase C
+EPHAPNAE_02714	CDS	141				hypothetical protein
+EPHAPNAE_02715	CDS	327				hypothetical protein
+EPHAPNAE_02716	CDS	1737				hypothetical protein
+EPHAPNAE_02717	CDS	3201	essC_2		COG1674	Type VII secretion system protein EssC
+EPHAPNAE_02718	CDS	1380				hypothetical protein
+EPHAPNAE_02719	CDS	306				hypothetical protein
+EPHAPNAE_02720	CDS	330				hypothetical protein
+EPHAPNAE_02721	CDS	321				hypothetical protein
+EPHAPNAE_02722	CDS	1524				hypothetical protein
+EPHAPNAE_02723	CDS	564				hypothetical protein
+EPHAPNAE_02724	CDS	339				hypothetical protein
+EPHAPNAE_02725	CDS	246				hypothetical protein
+EPHAPNAE_02726	CDS	1353				hypothetical protein
+EPHAPNAE_02727	CDS	351				hypothetical protein
+EPHAPNAE_02728	CDS	390				hypothetical protein
+EPHAPNAE_02729	CDS	342				hypothetical protein
+EPHAPNAE_02730	CDS	843				IS3 family transposase IS120
+EPHAPNAE_02731	CDS	294				IS3 family transposase IS120
+EPHAPNAE_02732	CDS	315				hypothetical protein
+EPHAPNAE_02733	CDS	297				hypothetical protein
+EPHAPNAE_02734	CDS	1260				IS110 family transposase ISCth14
+EPHAPNAE_02735	CDS	552				hypothetical protein
+EPHAPNAE_02736	CDS	351				hypothetical protein
+EPHAPNAE_02737	CDS	219				hypothetical protein
+EPHAPNAE_02738	CDS	948				IS3 family transposase IS120
+EPHAPNAE_02739	CDS	948				IS982 family transposase ISCth1
+EPHAPNAE_02740	CDS	372				hypothetical protein
+EPHAPNAE_02741	CDS	1755				hypothetical protein
+EPHAPNAE_02742	CDS	807				hypothetical protein
+EPHAPNAE_02743	CDS	390				hypothetical protein
+EPHAPNAE_02744	CDS	279				hypothetical protein
+EPHAPNAE_02745	CDS	1674				hypothetical protein
+EPHAPNAE_02746	CDS	348				hypothetical protein
+EPHAPNAE_02747	CDS	987				IS256 family transposase ISCth4
+EPHAPNAE_02748	CDS	294				IS3 family transposase IS120
+EPHAPNAE_02749	CDS	843				IS3 family transposase IS120
+EPHAPNAE_02750	CDS	213				hypothetical protein
+EPHAPNAE_02751	CDS	417				hypothetical protein
+EPHAPNAE_02752	CDS	876				hypothetical protein
+EPHAPNAE_02753	CDS	1569				hypothetical protein
+EPHAPNAE_02754	CDS	1524				hypothetical protein
+EPHAPNAE_02755	CDS	354				hypothetical protein
+EPHAPNAE_02756	CDS	432				IS21 family transposase ISCth12
+EPHAPNAE_02757	CDS	624				hypothetical protein
+EPHAPNAE_02758	CDS	141				hypothetical protein
+EPHAPNAE_02759	CDS	390				hypothetical protein
+EPHAPNAE_02760	CDS	438				hypothetical protein
+EPHAPNAE_02761	CDS	867				hypothetical protein
+EPHAPNAE_02762	CDS	780				hypothetical protein
+EPHAPNAE_02763	CDS	348				hypothetical protein
+EPHAPNAE_02764	CDS	1125				IS256 family transposase ISCth4
+EPHAPNAE_02765	CDS	471				hypothetical protein
+EPHAPNAE_02766	CDS	528				hypothetical protein
+EPHAPNAE_02767	CDS	1239				hypothetical protein
+EPHAPNAE_02768	CDS	1848				hypothetical protein
+EPHAPNAE_02769	CDS	228				hypothetical protein
+EPHAPNAE_02770	CDS	450				hypothetical protein
+EPHAPNAE_02771	CDS	297				hypothetical protein
+EPHAPNAE_02772	CDS	600				hypothetical protein
+EPHAPNAE_02773	CDS	957				hypothetical protein
+EPHAPNAE_02774	CDS	618				hypothetical protein
+EPHAPNAE_02775	CDS	678				hypothetical protein
+EPHAPNAE_02776	CDS	1035				hypothetical protein
+EPHAPNAE_02777	CDS	477				IS200/IS605 family transposase ISCth10
+EPHAPNAE_02778	CDS	6015				hypothetical protein
+EPHAPNAE_02779	CDS	315				hypothetical protein
+EPHAPNAE_02780	CDS	1884	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+EPHAPNAE_02781	CDS	237				hypothetical protein
+EPHAPNAE_02782	CDS	783				hypothetical protein
+EPHAPNAE_02783	CDS	945				hypothetical protein
+EPHAPNAE_02784	CDS	519				IS256 family transposase ISCcl1
+EPHAPNAE_02785	CDS	2424				hypothetical protein
+EPHAPNAE_02786	CDS	3756	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+EPHAPNAE_02787	CDS	3441	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+EPHAPNAE_02788	CDS	447				hypothetical protein
+EPHAPNAE_02789	CDS	372				hypothetical protein
+EPHAPNAE_02790	CDS	183				hypothetical protein
+EPHAPNAE_02791	CDS	606				hypothetical protein
+EPHAPNAE_02792	CDS	807				hypothetical protein
+EPHAPNAE_02793	CDS	138				hypothetical protein
+EPHAPNAE_02794	CDS	294				IS3 family transposase IS120
+EPHAPNAE_02795	CDS	843				IS3 family transposase IS120
+EPHAPNAE_02796	CDS	513				hypothetical protein
+EPHAPNAE_02797	CDS	513				hypothetical protein
+EPHAPNAE_02798	CDS	477				hypothetical protein
+EPHAPNAE_02799	CDS	195				hypothetical protein
+EPHAPNAE_02800	CDS	1650				hypothetical protein
+EPHAPNAE_02801	CDS	528				hypothetical protein
+EPHAPNAE_02802	CDS	906				hypothetical protein
+EPHAPNAE_02803	CDS	840				hypothetical protein
+EPHAPNAE_02804	CDS	783				hypothetical protein
+EPHAPNAE_02805	CDS	393				hypothetical protein
+EPHAPNAE_02806	CDS	1248				hypothetical protein
+EPHAPNAE_02807	CDS	546				hypothetical protein
+EPHAPNAE_02808	CDS	1920				hypothetical protein
+EPHAPNAE_02809	CDS	762				hypothetical protein
+EPHAPNAE_02810	CDS	1833				hypothetical protein
+EPHAPNAE_02811	CDS	528	ymdB_2	3.1.1.106	COG2110	O-acetyl-ADP-ribose deacetylase
+EPHAPNAE_02812	tRNA	76				tRNA-Thr(ggt)
+EPHAPNAE_02813	tRNA	74				tRNA-Gly(ccc)
+EPHAPNAE_02814	CDS	645	sigH		COG1595	RNA polymerase sigma-H factor
+EPHAPNAE_02815	CDS	93				hypothetical protein
+EPHAPNAE_02816	CDS	834		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+EPHAPNAE_02817	CDS	423	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+EPHAPNAE_02818	CDS	1536	gerBA			Spore germination protein B1
+EPHAPNAE_02819	CDS	1122	gerBB			Spore germination protein B2
+EPHAPNAE_02820	CDS	1272	gerBC_2			Spore germination protein B3
+EPHAPNAE_02821	CDS	1407	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+EPHAPNAE_02822	CDS	747	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+EPHAPNAE_02823	CDS	408				hypothetical protein
+EPHAPNAE_02824	CDS	888				hypothetical protein
+EPHAPNAE_02825	CDS	777				hypothetical protein
+EPHAPNAE_02826	CDS	858				hypothetical protein
+EPHAPNAE_02827	CDS	924				hypothetical protein
+EPHAPNAE_02828	CDS	753				hypothetical protein
+EPHAPNAE_02829	CDS	1182		3.5.1.47		N-acetyldiaminopimelate deacetylase
+EPHAPNAE_02830	CDS	219				hypothetical protein
+EPHAPNAE_02831	CDS	171				hypothetical protein
+EPHAPNAE_02832	CDS	729			COG0217	putative transcriptional regulatory protein
+EPHAPNAE_02833	CDS	1164	todS	2.7.13.3		Sensor histidine kinase TodS
+EPHAPNAE_02834	CDS	375	yccU		COG1832	putative protein YccU
+EPHAPNAE_02835	CDS	657				hypothetical protein
+EPHAPNAE_02836	CDS	567	sipS_2	3.4.21.89	COG0681	Signal peptidase I S
+EPHAPNAE_02837	CDS	573				hypothetical protein
+EPHAPNAE_02838	CDS	1749	hflX			GTPase HflX
+EPHAPNAE_02839	CDS	225				hypothetical protein
+EPHAPNAE_02840	CDS	1200	dinB	2.7.7.7		DNA polymerase IV
+EPHAPNAE_02841	CDS	519	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+EPHAPNAE_02842	CDS	2520				hypothetical protein
+EPHAPNAE_02843	CDS	885	gpmI_2	5.4.2.12		2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EPHAPNAE_02844	CDS	411	zapA			Cell division protein ZapA
+EPHAPNAE_02845	CDS	2235	celS	3.2.1.176		Cellulose 1,4-beta-cellobiosidase (reducing end) CelS
+EPHAPNAE_02846	CDS	579				hypothetical protein
+EPHAPNAE_02847	CDS	1299				hypothetical protein
+EPHAPNAE_02848	CDS	855	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+EPHAPNAE_02849	CDS	1059				hypothetical protein
+EPHAPNAE_02850	CDS	552				hypothetical protein
+EPHAPNAE_02851	CDS	768	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+EPHAPNAE_02852	CDS	1965	metG	6.1.1.10		Methionine--tRNA ligase
+EPHAPNAE_02853	CDS	1044	ytpB	4.2.3.130		Tetraprenyl-beta-curcumene synthase
+EPHAPNAE_02854	CDS	534	spmB			Spore maturation protein B
+EPHAPNAE_02855	CDS	633	spmA		COG2715	Spore maturation protein A
+EPHAPNAE_02856	CDS	240				hypothetical protein
+EPHAPNAE_02857	CDS	843	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+EPHAPNAE_02858	CDS	765	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+EPHAPNAE_02859	CDS	171			COG1145	Ferredoxin
+EPHAPNAE_02860	CDS	876				hypothetical protein
+EPHAPNAE_02861	CDS	990				hypothetical protein
+EPHAPNAE_02862	CDS	453				hypothetical protein
+EPHAPNAE_02863	CDS	684	tmk	2.7.4.9		Thymidylate kinase
+EPHAPNAE_02864	CDS	1440	speA_2	4.1.1.19	COG1982	Arginine decarboxylase
+EPHAPNAE_02865	CDS	183				hypothetical protein
+EPHAPNAE_02866	CDS	2538				hypothetical protein
+EPHAPNAE_02867	CDS	774	bceA_3		COG1136	Bacitracin export ATP-binding protein BceA
+EPHAPNAE_02868	CDS	2058				hypothetical protein
+EPHAPNAE_02869	CDS	702	graR_2		COG0745	Response regulator protein GraR
+EPHAPNAE_02870	CDS	1026	sasA_12	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_02871	CDS	288				hypothetical protein
+EPHAPNAE_02872	CDS	762	ribX			Riboflavin transport system permease protein RibX
+EPHAPNAE_02873	CDS	1029	thiY		COG0715	Formylaminopyrimidine-binding protein
+EPHAPNAE_02874	CDS	753	ssuB_2	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+EPHAPNAE_02875	CDS	2283	rsgI6_2	3.2.1.8		Anti-sigma-I factor RsgI6
+EPHAPNAE_02876	CDS	762	sigI6			RNA polymerase sigma factor SigI6
+EPHAPNAE_02877	CDS	918				hypothetical protein
+EPHAPNAE_02878	CDS	387				hypothetical protein
+EPHAPNAE_02879	CDS	1413				hypothetical protein
+EPHAPNAE_02880	CDS	1344				hypothetical protein
+EPHAPNAE_02881	CDS	915	araQ		COG0395	L-arabinose transport system permease protein AraQ
+EPHAPNAE_02882	CDS	912				hypothetical protein
+EPHAPNAE_02883	CDS	795				hypothetical protein
+EPHAPNAE_02884	CDS	1383	yesO		COG1653	Putative ABC transporter substrate-binding protein YesO
+EPHAPNAE_02885	CDS	1203				hypothetical protein
+EPHAPNAE_02886	CDS	369				hypothetical protein
+EPHAPNAE_02887	CDS	1299				hypothetical protein
+EPHAPNAE_02888	CDS	612				hypothetical protein
+EPHAPNAE_02889	CDS	132				hypothetical protein
+EPHAPNAE_02890	CDS	2433				hypothetical protein
+EPHAPNAE_02891	CDS	1743				hypothetical protein
+EPHAPNAE_02892	CDS	2949				hypothetical protein
+EPHAPNAE_02893	CDS	1323				hypothetical protein
+EPHAPNAE_02894	CDS	195				hypothetical protein
+EPHAPNAE_02895	CDS	1188				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+EPHAPNAE_02896	CDS	600	recR		COG0353	Recombination protein RecR
+EPHAPNAE_02897	CDS	342			COG0718	Nucleoid-associated protein
+EPHAPNAE_02898	CDS	1644	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit gamma/tau
+EPHAPNAE_02899	CDS	723				hypothetical protein
+EPHAPNAE_02900	CDS	342				Protease inhibitor
+EPHAPNAE_02901	CDS	1983				hypothetical protein
+EPHAPNAE_02902	CDS	765				hypothetical protein
+EPHAPNAE_02903	CDS	1290				hypothetical protein
+EPHAPNAE_02904	CDS	1347				hypothetical protein
+EPHAPNAE_02905	CDS	2370				hypothetical protein
+EPHAPNAE_02906	CDS	519				hypothetical protein
+EPHAPNAE_02907	CDS	876	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+EPHAPNAE_02908	CDS	1896				hypothetical protein
+EPHAPNAE_02909	CDS	279				hypothetical protein
+EPHAPNAE_02910	CDS	333				hypothetical protein
+EPHAPNAE_02911	CDS	861				Carbohydrate-binding domain-containing protein
+EPHAPNAE_02912	CDS	2415				hypothetical protein
+EPHAPNAE_02913	CDS	159				hypothetical protein
+EPHAPNAE_02914	CDS	123				hypothetical protein
+EPHAPNAE_02915	CDS	882				hypothetical protein
+EPHAPNAE_02916	CDS	717		2.4.2.-	COG2071	Putative glutamine amidotransferase
+EPHAPNAE_02917	CDS	336	spoIIAA_2		COG1366	Anti-sigma F factor antagonist
+EPHAPNAE_02918	CDS	141				hypothetical protein
+EPHAPNAE_02919	CDS	159			COG1773	Rubredoxin
+EPHAPNAE_02920	CDS	594				hypothetical protein
+EPHAPNAE_02921	CDS	1137				hypothetical protein
+EPHAPNAE_02922	CDS	1143				hypothetical protein
+EPHAPNAE_02923	CDS	2196				hypothetical protein
+EPHAPNAE_02924	CDS	822	ypbG_3		COG1408	putative protein YpbG
+EPHAPNAE_02925	CDS	1110				hypothetical protein
+EPHAPNAE_02926	CDS	2970				hypothetical protein
+EPHAPNAE_02927	CDS	204	rpmE		COG0254	50S ribosomal protein L31
+EPHAPNAE_02928	CDS	1953	rho	3.6.4.-		Transcription termination factor Rho
+EPHAPNAE_02929	CDS	93				hypothetical protein
+EPHAPNAE_02930	CDS	669				hypothetical protein
+EPHAPNAE_02931	CDS	879				hypothetical protein
+EPHAPNAE_02932	CDS	198				hypothetical protein
+EPHAPNAE_02933	CDS	462				hypothetical protein
+EPHAPNAE_02934	CDS	150				hypothetical protein
+EPHAPNAE_02935	CDS	294				hypothetical protein
+EPHAPNAE_02936	CDS	1119				hypothetical protein
+EPHAPNAE_02937	CDS	330				hypothetical protein
+EPHAPNAE_02938	tRNA	76				tRNA-Thr(tgt)
+EPHAPNAE_02939	CDS	1047				hypothetical protein
+EPHAPNAE_02940	CDS	1698				hypothetical protein
+EPHAPNAE_02941	tRNA	76				tRNA-Val(tac)
+EPHAPNAE_02942	CDS	1299	eriC		COG0038	Chloride/fluoride channel protein
+EPHAPNAE_02943	tRNA	76				tRNA-Pro(tgg)
+EPHAPNAE_02944	CDS	657	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+EPHAPNAE_02945	CDS	2790				hypothetical protein
+EPHAPNAE_02946	CDS	951	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+EPHAPNAE_02947	CDS	831				hypothetical protein
+EPHAPNAE_02948	CDS	285				hypothetical protein
+EPHAPNAE_02949	CDS	417	ssb		COG0629	Single-stranded DNA-binding protein
+EPHAPNAE_02950	CDS	288	rpsF		COG0360	30S ribosomal protein S6
+EPHAPNAE_02951	CDS	1248				hypothetical protein
+EPHAPNAE_02952	CDS	1182	nagA	3.5.1.25	COG1820	N-acetylglucosamine-6-phosphate deacetylase
+EPHAPNAE_02953	CDS	2214	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+EPHAPNAE_02954	CDS	591				hypothetical protein
+EPHAPNAE_02955	CDS	2847				hypothetical protein
+EPHAPNAE_02956	CDS	2184				hypothetical protein
+EPHAPNAE_02957	CDS	1512	xynZ_2	3.2.1.8	COG2382	Endo-1,4-beta-xylanase Z
+EPHAPNAE_02958	CDS	2898				hypothetical protein
+EPHAPNAE_02959	CDS	1602	xynD_2	3.2.1.55		Arabinoxylan arabinofuranohydrolase
+EPHAPNAE_02960	CDS	3060	lacZ	3.2.1.23		Beta-galactosidase
+EPHAPNAE_02961	CDS	1296				hypothetical protein
+EPHAPNAE_02962	CDS	2289				hypothetical protein
+EPHAPNAE_02963	CDS	810				hypothetical protein
+EPHAPNAE_02964	CDS	2013	yxdM			ABC transporter permease protein YxdM
+EPHAPNAE_02965	CDS	768	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+EPHAPNAE_02966	CDS	978	graS_2	2.7.13.3		Sensor histidine kinase GraS
+EPHAPNAE_02967	CDS	642	graR_3		COG0745	Response regulator protein GraR
+EPHAPNAE_02968	CDS	264				hypothetical protein
+EPHAPNAE_02969	CDS	528				hypothetical protein
+EPHAPNAE_02970	CDS	825				hypothetical protein
+EPHAPNAE_02971	CDS	360				hypothetical protein
+EPHAPNAE_02972	CDS	639				IS982 family transposase ISCth1
+EPHAPNAE_02973	CDS	591				hypothetical protein
+EPHAPNAE_02974	CDS	738				hypothetical protein
+EPHAPNAE_02975	CDS	564	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+EPHAPNAE_02976	CDS	2649	cphA	6.3.2.29		Cyanophycin synthetase
+EPHAPNAE_02977	CDS	822	cphB	3.4.15.6		Cyanophycinase
+EPHAPNAE_02978	CDS	297				hypothetical protein
+EPHAPNAE_02979	CDS	1176	iadA	3.4.19.-		Isoaspartyl dipeptidase
+EPHAPNAE_02980	CDS	636	lexA_2	3.4.21.88	COG1974	LexA repressor
+EPHAPNAE_02981	CDS	1089	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+EPHAPNAE_02982	CDS	504	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+EPHAPNAE_02983	CDS	1260	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+EPHAPNAE_02984	CDS	909	rhaS			HTH-type transcriptional activator RhaS
+EPHAPNAE_02985	CDS	618				hypothetical protein
+EPHAPNAE_02986	CDS	942				hypothetical protein
+EPHAPNAE_02987	CDS	948				hypothetical protein
+EPHAPNAE_02988	CDS	489				hypothetical protein
+EPHAPNAE_02989	CDS	405	fliS		COG1516	Flagellar secretion chaperone FliS
+EPHAPNAE_02990	CDS	2517				hypothetical protein
+EPHAPNAE_02991	CDS	396				hypothetical protein
+EPHAPNAE_02992	CDS	945		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+EPHAPNAE_02993	CDS	1170	arnB	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+EPHAPNAE_02994	CDS	1065	pseG	3.6.1.57	COG3980	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose hydrolase
+EPHAPNAE_02995	CDS	684	bshB1	3.5.1.-	COG2120	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+EPHAPNAE_02996	CDS	735	fmt_2	2.1.2.9		Methionyl-tRNA formyltransferase
+EPHAPNAE_02997	CDS	411				hypothetical protein
+EPHAPNAE_02998	CDS	1647				hypothetical protein
+EPHAPNAE_02999	CDS	216	acpP_3			Acyl carrier protein
+EPHAPNAE_03000	CDS	612				hypothetical protein
+EPHAPNAE_03001	CDS	1053	pseI	2.5.1.97	COG2089	Pseudaminic acid synthase
+EPHAPNAE_03002	CDS	741	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+EPHAPNAE_03003	CDS	645				hypothetical protein
+EPHAPNAE_03004	CDS	999	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+EPHAPNAE_03005	CDS	1413				hypothetical protein
+EPHAPNAE_03006	CDS	384				hypothetical protein
+EPHAPNAE_03007	CDS	1905				hypothetical protein
+EPHAPNAE_03008	CDS	819	hag_1		COG1344	Flagellin
+EPHAPNAE_03009	CDS	822	hag_2		COG1344	Flagellin
+EPHAPNAE_03010	CDS	1419	alkH	1.2.1.3		Aldehyde dehydrogenase
+EPHAPNAE_03011	CDS	228	csrA		COG1551	Translational regulator CsrA
+EPHAPNAE_03012	CDS	480	fliW		COG1699	Flagellar assembly factor FliW
+EPHAPNAE_03013	CDS	579	yviE			putative protein YviE
+EPHAPNAE_03014	CDS	909	flgL		COG1344	Flagellar hook-associated protein 3
+EPHAPNAE_03015	CDS	1560				hypothetical protein
+EPHAPNAE_03016	CDS	1470	flgK		COG1256	Flagellar hook-associated protein 1
+EPHAPNAE_03017	CDS	501				hypothetical protein
+EPHAPNAE_03018	CDS	294				hypothetical protein
+EPHAPNAE_03019	CDS	444				hypothetical protein
+EPHAPNAE_03020	CDS	663	prs_2			Putative ribose-phosphate pyrophosphokinase
+EPHAPNAE_03021	CDS	2232	recD2_2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+EPHAPNAE_03022	CDS	405				hypothetical protein
+EPHAPNAE_03023	CDS	1194	metK	2.5.1.6		S-adenosylmethionine synthase
+EPHAPNAE_03024	CDS	405				hypothetical protein
+EPHAPNAE_03025	CDS	1800	ftsH_2	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+EPHAPNAE_03026	CDS	555	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+EPHAPNAE_03027	CDS	1413	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+EPHAPNAE_03028	CDS	1338	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+EPHAPNAE_03029	CDS	447	rplI			50S ribosomal protein L9
+EPHAPNAE_03030	CDS	2010	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+EPHAPNAE_03031	CDS	342				hypothetical protein
+EPHAPNAE_03032	CDS	837	pheA	4.2.1.51	COG0077	Prephenate dehydratase
+EPHAPNAE_03033	CDS	327				hypothetical protein
+EPHAPNAE_03034	CDS	1956				hypothetical protein
+EPHAPNAE_03035	CDS	468	ntpK			V-type sodium ATPase subunit K
+EPHAPNAE_03036	CDS	597	atpE_2			V-type proton ATPase subunit E
+EPHAPNAE_03037	CDS	1020	ntpC			V-type sodium ATPase subunit C
+EPHAPNAE_03038	CDS	321	ntpG			V-type sodium ATPase subunit G
+EPHAPNAE_03039	CDS	1791	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+EPHAPNAE_03040	CDS	1383	ntpB			V-type sodium ATPase subunit B
+EPHAPNAE_03041	CDS	669	ntpD			V-type sodium ATPase subunit D
+EPHAPNAE_03042	CDS	1623	expZ		COG0488	Nucleotide-binding protein ExpZ
+EPHAPNAE_03043	CDS	537				hypothetical protein
+EPHAPNAE_03044	CDS	915				hypothetical protein
+EPHAPNAE_03045	CDS	1122				hypothetical protein
+EPHAPNAE_03046	CDS	621				hypothetical protein
+EPHAPNAE_03047	CDS	948				hypothetical protein
+EPHAPNAE_03048	CDS	207				hypothetical protein
+EPHAPNAE_03049	CDS	1179	ftsH_3	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+EPHAPNAE_03050	CDS	828				hypothetical protein
+EPHAPNAE_03051	CDS	864	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+EPHAPNAE_03052	CDS	711	artQ		COG0765	Arginine transport system permease protein ArtQ
+EPHAPNAE_03053	CDS	825	glnQ			Glutamine transport ATP-binding protein GlnQ
+EPHAPNAE_03054	CDS	1086	cheB_5	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+EPHAPNAE_03055	CDS	813	cheR2_3	2.1.1.80		Chemotaxis protein methyltransferase Cher2
+EPHAPNAE_03056	CDS	4428	smc_7			Chromosome partition protein Smc
+EPHAPNAE_03057	CDS	2109	cheA_3	2.7.13.3	COG0643	Chemotaxis protein CheA
+EPHAPNAE_03058	CDS	426	cheW_8		COG0835	Chemotaxis protein CheW
+EPHAPNAE_03059	CDS	561	xerH			Tyrosine recombinase XerH
+EPHAPNAE_03060	CDS	933	rhaR_3			HTH-type transcriptional activator RhaR
+EPHAPNAE_03061	CDS	555				hypothetical protein
+EPHAPNAE_03062	CDS	720				hypothetical protein
+EPHAPNAE_03063	CDS	681	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+EPHAPNAE_03064	CDS	288				hypothetical protein
+EPHAPNAE_03065	CDS	459				hypothetical protein
+EPHAPNAE_03066	CDS	540				hypothetical protein
+EPHAPNAE_03067	CDS	288				hypothetical protein
+	repeat_region	1905				
+EPHAPNAE_03068	CDS	264	cas2_2	3.1.-.-	COG1343	CRISPR-associated endoribonuclease Cas2
+EPHAPNAE_03069	CDS	993	cas1_2	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+EPHAPNAE_03070	CDS	507				hypothetical protein
+EPHAPNAE_03071	CDS	2253				hypothetical protein
+EPHAPNAE_03072	CDS	726				hypothetical protein
+EPHAPNAE_03073	CDS	885				hypothetical protein
+EPHAPNAE_03074	CDS	1677				hypothetical protein
+EPHAPNAE_03075	CDS	723				hypothetical protein
+EPHAPNAE_03076	CDS	921				hypothetical protein
+EPHAPNAE_03077	CDS	819	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+EPHAPNAE_03078	CDS	1410	yeeO_2		COG0534	putative FMN/FAD exporter YeeO
+EPHAPNAE_03079	CDS	423				Bacteriohemerythrin
+EPHAPNAE_03080	CDS	465	cheX_2	3.-.-.-	COG1406	CheY-P phosphatase CheX
+EPHAPNAE_03081	CDS	774	yafV	3.5.1.3		Omega-amidase YafV
+EPHAPNAE_03082	CDS	729				hypothetical protein
+EPHAPNAE_03083	tRNA	94				tRNA-Ser(gga)
+EPHAPNAE_03084	CDS	720				hypothetical protein
+EPHAPNAE_03085	CDS	480				hypothetical protein
+EPHAPNAE_03086	CDS	756				hypothetical protein
+EPHAPNAE_03087	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+EPHAPNAE_03088	CDS	792	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+EPHAPNAE_03089	CDS	1254	murAB	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+EPHAPNAE_03090	CDS	837				hypothetical protein
+EPHAPNAE_03091	CDS	1467				hypothetical protein
+EPHAPNAE_03092	CDS	531				hypothetical protein
+EPHAPNAE_03093	CDS	1803	sasA_13	2.7.-.-		Adaptive-response sensory-kinase SasA
+EPHAPNAE_03094	CDS	699	walR_4		COG0745	Transcriptional regulatory protein WalR
+EPHAPNAE_03095	CDS	213				hypothetical protein
+EPHAPNAE_03096	CDS	216				hypothetical protein
+EPHAPNAE_03097	CDS	1845	pglF_2	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+EPHAPNAE_03098	CDS	1473	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+EPHAPNAE_03099	CDS	1128	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EPHAPNAE_03100	CDS	1314				hypothetical protein
+EPHAPNAE_03101	CDS	1233				hypothetical protein
+EPHAPNAE_03102	CDS	1044	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+EPHAPNAE_03103	CDS	1320	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+EPHAPNAE_03104	CDS	1167				hypothetical protein
+EPHAPNAE_03105	CDS	1059				hypothetical protein
+EPHAPNAE_03106	CDS	459	mshD	2.3.1.189		Mycothiol acetyltransferase
+EPHAPNAE_03107	CDS	699	pglC	2.7.8.36	COG2148	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+EPHAPNAE_03108	CDS	1149	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+EPHAPNAE_03109	CDS	3030				hypothetical protein
+EPHAPNAE_03110	CDS	1281				hypothetical protein
+EPHAPNAE_03111	CDS	3108				hypothetical protein
+EPHAPNAE_03112	CDS	171				hypothetical protein
+EPHAPNAE_03113	CDS	444	cwlJ		COG3773	Cell wall hydrolase CwlJ
+EPHAPNAE_03114	CDS	450				hypothetical protein
+EPHAPNAE_03115	CDS	429	hrp1		COG0517	Hypoxic response protein 1
+EPHAPNAE_03116	CDS	1149				hypothetical protein
+EPHAPNAE_03117	CDS	834	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+EPHAPNAE_03118	CDS	1599	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+EPHAPNAE_03119	CDS	915	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+EPHAPNAE_03120	CDS	1173				hypothetical protein
+EPHAPNAE_03121	CDS	654	agrB_2	3.4.-.-		Accessory gene regulator protein B
+EPHAPNAE_03122	rRNA	112				5S ribosomal RNA
+EPHAPNAE_03123	rRNA	2904				23S ribosomal RNA
+EPHAPNAE_03124	tRNA	76				tRNA-Ala(tgc)
+EPHAPNAE_03125	rRNA	1526				16S ribosomal RNA
+EPHAPNAE_03126	CDS	618	yfbR	3.1.3.89	COG1896	5'-deoxynucleotidase YfbR
+EPHAPNAE_03127	CDS	2844	celI_7	3.2.1.4		Endoglucanase 1
+EPHAPNAE_03128	CDS	2484	gyrA_2	5.6.2.2	COG0188	DNA gyrase subunit A
+EPHAPNAE_03129	CDS	837	noc		COG1475	Nucleoid occlusion protein
+EPHAPNAE_03130	CDS	729	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+EPHAPNAE_03131	CDS	1893	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+EPHAPNAE_03132	CDS	1380	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+EPHAPNAE_03133	CDS	621				hypothetical protein
+EPHAPNAE_03134	CDS	876	yidC2		COG0706	Membrane protein insertase YidC 2
+EPHAPNAE_03135	CDS	216	yidD		COG0759	Putative membrane protein insertion efficiency factor
+EPHAPNAE_03136	CDS	381	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
