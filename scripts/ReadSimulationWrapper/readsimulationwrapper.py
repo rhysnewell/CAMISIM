@@ -514,11 +514,12 @@ class ReadSimulationNanosim(ReadSimulationWrapper):
         assert self.validate_dir(file_path_output_prefix, only_parent=True)
 
         arguments = [
-            'linear',
+            'genome',
             '-n', str(fold_coverage),  # rename this, because its not the fold_coverage for wgsim
             '-r', file_path_input,
             '-o', file_path_output_prefix,
             '-c', "tools/nanosim_profile/ecoli",
+            '-dna_type', 'circular',
             '--seed', str(self._get_seed() % 2**32 - 1) # nanosim seed cannot be > 2**32 -1
             ]
             
